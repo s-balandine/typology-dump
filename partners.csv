@@ -1,0 +1,137 @@
+rownames,partner_id,created,modified,code,created_by_id,last_modification_by_id,text_fr,text_en
+1,1,2018-07-18 ,2018-07-18 ,part_010,,,AMP,AMP
+2,2,2018-07-18 ,2018-07-18 ,part_020,,,Bern University,Bern University
+3,3,2018-07-18 ,2018-07-18 ,part_030,,,Boston University,Boston University
+4,4,2018-07-18 ,2018-07-18 ,part_040,,,Cardiff University,Cardiff University
+5,5,2018-07-18 ,2018-07-18 ,part_050,,,CDC,CDC
+6,6,2018-07-18 ,2018-07-18 ,part_060,,,Centre Pasteur du Cameroun ,Centre Pasteur du Cameroun 
+7,7,2018-07-18 ,2018-07-18 ,part_070,,,CERMES,CERMES
+8,8,2018-07-18 ,2018-07-18 ,part_080,,,Cincinnati Children's Hospital,Cincinnati Children's Hospital
+9,9,2018-07-18 ,2018-07-18 ,part_090,,,CIRES,CIRES
+10,10,2018-07-18 ,2018-07-18 ,part_100,,,CNRS-Paris,CNRS-Paris
+11,11,2018-07-18 ,2018-07-18 ,part_110,,,Elizabeth Glazer Pediatric AIDS Foundation,Elizabeth Glazer Pediatric AIDS Foundation
+12,12,2018-07-18 ,2018-07-18 ,part_120,,,Forschungszentrum Borstel  Germany,Forschungszentrum Borstel  Germany
+13,13,2018-07-18 ,2018-07-18 ,part_130,,,FWA,FWA
+14,14,2018-07-18 ,2018-07-18 ,part_140,,,Harvard,Harvard
+15,15,2018-07-18 ,2018-07-18 ,part_150,,,Hopital Ayos,Hopital Ayos
+16,16,2018-07-18 ,2018-07-18 ,part_160,,,ILBS,ILBS
+17,17,2018-07-18 ,2018-07-18 ,part_170,,,Imperial College,Imperial College
+18,18,2018-07-18 ,2018-07-18 ,part_180,,,INS laboratory  Maputo,INS laboratory  Maputo
+19,19,2018-07-18 ,2018-07-18 ,part_190,,,INSERM,INSERM
+20,20,2018-07-18 ,2018-07-18 ,part_200,,,Institut Pasteur Dakar,Institut Pasteur Dakar
+21,21,2018-07-18 ,2018-07-18 ,part_210,,,Institut Pasteur Paris,Institut Pasteur Paris
+22,22,2018-07-18 ,2018-07-18 ,part_220,,,Institut Pasteur Abidjan,Institut Pasteur Abidjan
+23,23,2018-07-18 ,2018-07-18 ,part_230,,,Institut Pasteur Cambodge,Institut Pasteur Cambodge
+24,24,2018-07-18 ,2018-07-18 ,part_240,,,Institute for Tropical Health  University of Navarra  Pamplona  Spain,Institute for Tropical Health  University of Navarra  Pamplona  Spain
+25,25,2018-07-18 ,2018-07-18 ,part_250,,,International Union Against TB and lung diseases,International Union Against TB and lung diseases
+26,26,2018-07-18 ,2018-07-18 ,part_260,,,IP Dakar,IP Dakar
+27,27,2018-07-18 ,2018-07-18 ,part_270,,,IRC,IRC
+28,28,2018-07-18 ,2018-07-18 ,part_280,,,IRD,IRD
+29,29,2018-07-18 ,2018-07-18 ,part_290,,,IRD  Montpellier,IRD  Montpellier
+30,30,2018-07-18 ,2018-07-18 ,part_300,,,ITM Antwerp,ITM Antwerp
+31,31,2018-07-18 ,2018-07-18 ,part_310,,,KalaCORE (MSF  Mott MacDonald  DNDI  LSHTM),KalaCORE (MSF  Mott MacDonald  DNDI  LSHTM)
+32,32,2018-07-18 ,2018-07-18 ,part_320,,,KEMRI,KEMRI
+33,33,2018-07-18 ,2018-07-18 ,part_330,,,KEMRI Kenya,KEMRI Kenya
+34,34,2018-07-18 ,2018-07-18 ,part_340,,,KEMRI/CDC  Kisumu,KEMRI/CDC  Kisumu
+35,35,2018-07-18 ,2018-07-18 ,part_350,,,La Timone  Marseille,La Timone  Marseille
+36,36,2018-07-18 ,2018-07-18 ,part_360,,,Labo UCT Cape Town,Labo UCT Cape Town
+37,37,2018-07-18 ,2018-07-18 ,part_370,,,London School of Hygien and Tropical Medicine London,London School of Hygien and Tropical Medicine London
+38,38,2018-07-18 ,2018-07-18 ,part_380,,,LSHTM,LSHTM
+39,39,2018-07-18 ,2018-07-18 ,part_390,,,Makerere University John Hopkins collaboration  Kampala,Makerere University John Hopkins collaboration  Kampala
+40,40,2018-07-18 ,2018-07-18 ,part_400,,,Mekelle University,Mekelle University
+41,41,2018-07-18 ,2018-07-18 ,part_410,,,Merck,Merck
+42,42,2018-07-18 ,2018-07-18 ,part_420,,,Ministry of Health,Ministry of Health
+43,43,2018-07-18 ,2018-07-18 ,part_430,,,MOH DRC,MOH DRC
+44,44,2018-07-18 ,2018-07-18 ,part_440,,,MOH Guinea,MOH Guinea
+45,45,2018-07-18 ,2018-07-18 ,part_450,,,MOH Liberia,MOH Liberia
+46,46,2018-07-18 ,2018-07-18 ,part_460,,,MOH Malawi,MOH Malawi
+47,47,2018-07-18 ,2018-07-18 ,part_470,,,MOH Mozambique,MOH Mozambique
+48,48,2018-07-18 ,2018-07-18 ,part_480,,,MOH Niger,MOH Niger
+49,49,2018-07-18 ,2018-07-18 ,part_490,,,MOH Uganda,MOH Uganda
+50,50,2018-07-18 ,2018-07-18 ,part_500,,,MOH Yemen,MOH Yemen
+51,51,2018-07-18 ,2018-07-18 ,part_510,,,MORU Bangkok,MORU Bangkok
+52,52,2018-07-18 ,2018-07-18 ,part_520,,,MRC/UVRI laboratory  Uganda,MRC/UVRI laboratory  Uganda
+53,53,2018-07-18 ,2018-07-18 ,part_530,,,MRRH,MRRH
+54,54,2018-07-18 ,2018-07-18 ,part_540,,,MRTC Bamako,MRTC Bamako
+55,55,2018-07-18 ,2018-07-18 ,part_550,,,MSF,MSF
+56,56,2018-07-18 ,2018-07-18 ,part_560,,,MUJHU  Uganda,MUJHU  Uganda
+57,57,2018-07-18 ,2018-07-18 ,part_570,,,MUST,MUST
+58,58,2018-07-18 ,2018-07-18 ,part_580,,,National reference Laboratory  Australia,National reference Laboratory  Australia
+59,59,2018-07-18 ,2018-07-18 ,part_590,,,NICD South Africa,NICD South Africa
+60,60,2018-07-18 ,2018-07-18 ,part_600,,,NIPH,NIPH
+61,61,2018-07-18 ,2018-07-18 ,part_610,,,NIPH Oslo,NIPH Oslo
+62,62,2018-07-18 ,2018-07-18 ,part_620,,,Pham Ngoc Thach Hospital  Viet Nam,Pham Ngoc Thach Hospital  Viet Nam
+63,63,2018-07-18 ,2018-07-18 ,part_630,,,Pharmacology  Bicêtre hospital Paris,Pharmacology  Bicêtre hospital Paris
+64,64,2018-07-18 ,2018-07-18 ,part_640,,,Pharmacology  Bichat  Paris,Pharmacology  Bichat  Paris
+65,65,2018-07-18 ,2018-07-18 ,part_650,,,Pharmajet,Pharmajet
+66,66,2018-07-18 ,2018-07-18 ,part_660,,,PHE,PHE
+67,67,2018-07-18 ,2018-07-18 ,part_670,,,PIH,PIH
+68,68,2018-07-18 ,2018-07-18 ,part_680,,,PNLP Chad,PNLP Chad
+69,69,2018-07-18 ,2018-07-18 ,part_690,,,SGUL  London,SGUL  London
+70,70,2018-07-18 ,2018-07-18 ,part_700,,,St Georgues University London,St Georgues University London
+71,71,2018-07-18 ,2018-07-18 ,part_710,,,Swiss TPH,Swiss TPH
+72,72,2018-07-18 ,2018-07-18 ,part_720,,,Sydney Institute for Emerging Infectious Diseases,Sydney Institute for Emerging Infectious Diseases
+73,73,2018-07-18 ,2018-07-18 ,part_730,,,ToxLab - Paris,ToxLab - Paris
+74,74,2018-07-18 ,2018-07-18 ,part_740,,,U Cardiff,U Cardiff
+75,75,2018-07-18 ,2018-07-18 ,part_750,,,U Ghent,U Ghent
+76,76,2018-07-18 ,2018-07-18 ,part_760,,,U Harvard,U Harvard
+77,77,2018-07-18 ,2018-07-18 ,part_770,,,UNHCR,UNHCR
+78,78,2018-07-18 ,2018-07-18 ,part_780,,,Universidad de Navarrra,Universidad de Navarrra
+79,79,2018-07-18 ,2018-07-18 ,part_790,,,Université Paris Descartes,Université Paris Descartes
+80,80,2018-07-18 ,2018-07-18 ,part_800,,,University Bordeaux,University Bordeaux
+81,81,2018-07-18 ,2018-07-18 ,part_810,,,University H Nantes  France,University H Nantes  France
+82,82,2018-07-18 ,2018-07-18 ,part_820,,,University H Nimes  France,University H Nimes  France
+83,83,2018-07-18 ,2018-07-18 ,part_830,,,University of Cape Town,University of Cape Town
+84,84,2018-07-18 ,2018-07-18 ,part_840,,,University of Florida,University of Florida
+85,85,2018-07-18 ,2018-07-18 ,part_850,,,University of Leicester,University of Leicester
+86,86,2018-07-18 ,2018-07-18 ,part_860,,,University of Marburg,University of Marburg
+87,87,2018-07-18 ,2018-07-18 ,part_870,,,UoB,UoB
+88,88,2018-07-18 ,2018-07-18 ,part_880,,,WHO,WHO
+89,89,2018-07-25 ,2018-07-25 ,ALIMA,60,60,ALIMA,ALIMA
+90,90,2018-07-26 ,2018-07-26 ,University of Bristol,130,130,University of Bristol,University of Bristol
+91,91,2018-07-31 ,2018-07-31 ,SMRU,130,130,SMRU,SMRU
+92,92,2018-08-01 ,2018-08-01 ,Goarn,130,130,Goarn,Goarn
+93,94,2018-09-26 ,2018-09-26 ,MOH Zimbabwe,24,24,MOH Zimbabwe,MOH Zimbabwe
+94,95,2018-10-11 ,2018-10-11 ,IPAS,148,148,IPAS,IPAS
+95,96,2018-10-11 ,2018-10-11 , Guttmacher Institute,148,148, Guttmacher Institute, Guttmacher Institute
+96,97,2018-10-18 ,2018-10-18 ,DNDi,148,148,DNDi,DNDi
+97,98,2018-10-24 ,2018-10-24 , V.Calvez Hôpital Pitié-Salpetrière,9,9, V.Calvez Hôpital Pitié-Salpetrière, V.Calvez Hôpital Pitié-Salpetrière
+98,99,2018-10-24 ,2018-10-24 ,G.Peytavin Laboratoire de Pharmacocinétique Bichat Paris,9,9,G.Peytavin Laboratoire de Pharmacocinétique Bichat Paris,G.Peytavin Laboratoire de Pharmacocinétique Bichat Paris
+99,100,2018-10-24 ,2018-10-24 ,Queen Elizabeth Hospital Laboratory Blantyre Malawi,9,9,Queen Elizabeth Hospital Laboratory Blantyre Malawi,Queen Elizabeth Hospital Laboratory Blantyre Malawi
+100,101,2018-10-24 ,2018-10-24 ,Laboratoire de Pharmacocinétique Bichat Paris (G. Peytavin),130,130,Laboratoire de Pharmacocinétique Bichat Paris (G. Peytavin),Laboratoire de Pharmacocinétique Bichat Paris (G. Peytavin)
+101,102,2018-10-24 ,2018-10-24 ,Hôpital Pitié-Salpétrière Paris (V. Calvez),130,130,Hôpital Pitié-Salpétrière Paris (V. Calvez),Hôpital Pitié-Salpétrière Paris (V. Calvez)
+102,103,2018-11-05 ,2018-11-05 , IRD,26,26, IRD, IRD
+103,104,2018-11-06 ,2018-11-06 ,University of British Colombia,130,130,University of British Colombia,University of British Colombia
+104,105,2018-11-30 ,2018-11-30 ,Pensylvania University,130,130,Pensylvania University,Pensylvania University
+105,106,2018-12-18 ,2018-12-18 ,Ministry of Health DRC,84,84,Ministry of Health DRC,Ministry of Health DRC
+106,107,2019-01-09 ,2019-01-09 ,SACEMA (South African Center For Epidemiological Modelling and Analysis),130,130,SACEMA (South African Center For Epidemiological Modelling and Analysis),SACEMA (South African Center For Epidemiological Modelling and Analysis)
+107,108,2019-01-09 ,2019-01-09 ,NIICD,130,130,NIICD,NIICD
+108,109,2019-01-15 ,2019-01-15 ,MOH Guinée-Bissau,138,138,MOH Guinée-Bissau,MOH Guinée-Bissau
+109,110,2019-01-15 ,2019-01-15 ,MOH Mali,138,138,MOH Mali,MOH Mali
+110,111,2019-03-01 ,2019-03-01 ,Burnet Insitute,3,3,Burnet Insitute,Burnet Insitute
+111,112,2019-04-02 ,2019-04-02 ,Karolinska Institute,149,149,Karolinska Institute,Karolinska Institute
+112,113,2019-05-28 ,2019-05-28 ,OCP,39,39,OCP,OCP
+113,114,2019-07-15 ,2019-07-15 ,Case,53,53,Case,Case
+114,115,2019-07-15 ,2019-07-15 , MoH Cameroon,53,53, MoH Cameroon, MoH Cameroon
+115,116,2019-08-20 ,2019-08-20 ,Laboratoire du HJ hosiptal à Kinshasa,25,25,Laboratoire du HJ hosiptal à Kinshasa,Laboratoire du HJ hosiptal à Kinshasa
+116,117,2019-10-23 ,2019-10-23 ,OCA,3,3,OCA,OCA
+117,118,2019-10-23 ,2019-10-23 , Columbia University,3,3, Columbia University, Columbia University
+118,119,2019-10-23 ,2019-10-23 ,OCB,3,3,OCB,OCB
+119,120,2019-10-23 ,2019-10-23 ,OCBA,3,3,OCBA,OCBA
+120,121,2019-11-25 ,2019-11-25 ,INRB,161,161,INRB,INRB
+121,122,2019-12-24 ,2019-12-24 ,GARDP,43,43,GARDP,GARDP
+122,123,2020-03-03 ,2020-03-03 ,MoH Chad,3,3,MoH Chad,MoH Chad
+123,124,2020-03-03 ,2020-03-03 ,MoH RCA,3,3,MoH RCA,MoH RCA
+124,125,2020-03-12 ,2020-03-12 ,MoH Italy,3,3,MoH Italy,MoH Italy
+125,126,2020-03-12 ,2020-03-12 , MSF Italy,3,3, MSF Italy, MSF Italy
+126,127,2020-05-02 ,2020-05-02 ,AP-HP,11,11,AP-HP,AP-HP
+127,128,2020-05-20 ,2020-05-20 ,Universidad de los Andes,3,3,Universidad de los Andes,Universidad de los Andes
+128,129,2020-06-30 ,2020-06-30 ,MoH Burkina Faso,21,21,MoH Burkina Faso,MoH Burkina Faso
+129,130,2020-07-07 ,2020-07-07 ,SAMU,50,50,SAMU,SAMU
+130,131,2020-12-28 ,2020-12-28 ,EDCTP,105,105,EDCTP,EDCTP
+131,132,2021-01-06 ,2021-01-06 ,,43,43,,
+132,133,2021-02-17 ,2021-02-17 ,MoH Sierra Leone,43,43,MoH Sierra Leone,MoH Sierra Leone
+133,134,2021-02-17 ,2021-02-17 ,MoH Nigeria,43,43,MoH Nigeria,MoH Nigeria
+134,135,2021-02-17 ,2021-02-17 ,MoH Niger,43,43,MoH Niger,MoH Niger
+135,136,2021-02-18 ,2021-02-18 ,OCG,40,40,OCG,OCG
+136,137,2021-02-19 ,2021-02-19 ,The London School of Hygiene & Tropical Medicine  and world Vision,80,80,The London School of Hygiene & Tropical Medicine  and world Vision,The London School of Hygiene & Tropical Medicine  and world Vision

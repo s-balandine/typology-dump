@@ -1,0 +1,11 @@
+rownames,division_id,created,modified,code,created_by_id,last_modification_by_id,text_fr,text_en,only_for_admin
+1,1,2013-11-08 ,2016-12-23 ,ESP,,60,Recherche,Research,0
+2,2,2013-11-08 ,2016-12-23 ,RC,,60,Recherche clinique,Clinical research,1
+3,3,2013-11-08 ,2016-12-23 ,ASO,,60,Administration et support opérationnel,Administration and operational support,0
+4,4,2013-11-08 ,2016-12-23 ,DGEN,,60,Direction générale,Executive direction,0
+5,5,2013-11-08 ,2018-07-20 ,EIF,,130,Epidémiologie d'intervention et formation,Field epidemiology and training,1
+6,7,2018-07-18 ,2018-07-18 ,EISI,,,Epidemiologie d'intervention / Enquêtes et investigations,Intervention Epidemiology / Surveys and investigations,0
+7,8,2018-07-18 ,2018-07-18 ,EIRS,,,Epidemiologie d'intervention / Recherche et support au programme,Intervention Epidemiology / Research and program support,0
+8,9,2018-07-18 ,2018-07-18 ,EIT,,,Epidemiologie d'intervention / Formation,Intervention Epidemiology / Training,0
+9,11,2020-10-23 ,2020-10-23 ,ESPNE,165,165,Recherche / Centre Niger,Research / Niger center,0
+10,12,2020-10-23 ,2020-10-23 ,DGENUG,165,165,Direction générale / Centre Uganda,Executive direction / Uganda center,0

@@ -1,0 +1,85 @@
+rownames,localizable_string_id,context,key,value_fr,value_en
+1,1,Report,Période début,Période début,Start period
+2,2,Report,Période,Période,Period
+3,3,Report,Période fin,Période fin,End period
+4,4,Report,Utilisateur,Utilisateur,User
+5,5,Report,Code projet,Code projet,Project code
+6,6,Report,Projet,Projet,Project
+7,7,Report,Pathologie,Pathologie,Pathologie
+8,8,Report,Est facturable,Est facturable,Is billable
+9,9,Report,Nombre,Nombre,Number
+10,10,Report,Activité,Activité,Activity
+11,11,Report,Jours,Jours,Days
+12,12,Report,Période facturable,Période facturable,Billable period
+13,13,Report,Période non facturable,Période non facturable,Non billable period
+14,14,Report,Total période,Total période,Total period
+15,15,Report,Ratio période,Ratio période,Ratio period
+16,16,Report,Facturable cumulé,Facturable cumulé,Billable cumulated
+17,17,Report,Non facturable cumulé,Non facturable cumulé,Non billable cumulated
+18,18,Report,Total cumulé,Total cumulé,Total cumulated
+19,19,Report,Ratio cumulé,Ratio cumulé,Ratio cumulated
+20,20,Report,Département,Département,Department
+21,21,Report,Purposed,Proposé,Proposed
+22,22,Report,Refused,Refusé,Refused
+23,23,Report,InProgress,En cours,In progress
+24,24,Report,Paused,En pause,Paused
+25,25,Report,Finished,Terminé,Finished
+26,26,Report,CareerChange,Mobilité interne,Change
+27,27,Report,DefaultPeriod,Période normale,Default activity
+28,28,Report,Maternity,Maternité,Maternity
+29,29,Report,Promotion,Séniorité,Promotion
+30,30,Report,Sick,Maladie,Sickness
+31,31,Report,ProjectStatus_0,Proposé,Proposed
+32,32,Report,ProjectStatus_1,Refusé,Refused
+33,33,Report,ProjectStatus_2,En cours,In progress
+34,34,Report,ProjectStatus_3,En pause,Paused
+35,35,Report,ProjectStatus_4,Terminé,Finished
+36,36,D2,0,Non,No
+37,37,D2,1,Oui,Yes
+38,38,Report,Nom,Nom,Name
+39,39,Report,Division,Division,Department
+40,40,Report,Est réel,Est réel,Is real
+41,41,Report,Catégorie poste,Catégorie poste,Position type
+42,42,Report,Poste,Poste,Position
+43,43,Report,Position,Position,Grade
+44,44,Report,Type événement,Type événement,Period type
+45,45,Report,Date début événement,Date début événement,Period start date
+46,46,Report,Etp référence,Etp référence,Reference FTE
+47,47,Report,Salaire,Salaire,Salary
+48,48,Report,Date début contrat,Date début contrat,Contract start date
+49,49,Report,Date fin contrat,Date fin contrat,End date
+50,50,Report,Mois,Mois,Month
+51,51,Report,ETP,ETP,FTE
+52,52,Report,Mise à jour,Mise à jour,Updated on
+53,53,Report,Mise à jour par,Mise à jour par,Updated by
+54,54,Report,Entité,Entité,Country
+55,55,Report,Nom projet,Nom projet,Project name
+56,56,Report,Etat,Etat,State
+57,57,Report,Famille de charges,Famille de charges,Functional expenses
+58,58,Report,Nature comptable,Nature comptable,Budget category
+59,59,Report,Mission,Mission,Mission
+60,60,Report,Commentaires,Commentaires,Comments
+61,61,Report,Année,Année,Year
+62,62,Report,Qté totale année,Qté totale année,Total annual quantity
+63,63,Report,Unité de mesure,Unité de mesure,Measure unit
+64,64,Report,Prix unitaire devise,Prix unitaire devise,Unit price
+65,65,Report,Devise,Devise,Currency
+66,66,Report,Taux de change,Taux de change,Exchange rate
+67,67,Report,Est direct,Est direct,Is direct
+68,68,Report,Total budget USD,Total budget USD,Total budget USD
+69,69,Report,Charge totale comptable,Charge totale comptable,Actuals
+70,70,Report,Modifié par,Modifié par,Updated by
+71,71,Report,Modifié le,Modifié le,Updated on
+72,72,Report,Code centralise,Code centralisé,Code
+73,73,Report,Pays,Pays,Country
+74,74,Report,Reponsable,Responsable,Responsible
+75,75,Report,Responsable,Responsable,Responsible
+76,76,Report,Date début,Date début,Start date
+77,77,Report,Créé,Créé,Created on
+78,78,Report,Créé par,Créé par,Create by
+79,79,Report,Dernière modification,Dernière modification,Last updated
+80,80,Report,Contributeur,Contributeur,Contributor
+81,81,Report,Dernière génération,Dernière génération,Last generated
+82,82,Report,Dernière consolidation,Dernière consolidation,Last consolidated
+83,83,Report,Commentaires soumission,Commentaires soumission,Consolidation comments
+84,84,Report,Commentaires responsable,Commentaires responsable,Responsible comments

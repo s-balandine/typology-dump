@@ -1,0 +1,7 @@
+rownames,role_id,created,modified,code,created_by_id,last_modification_by_id,text_fr,text_en
+1,1,2018-07-18 ,2018-07-18 ,rol_lead,,,Leader,Leader
+2,2,2018-07-18 ,2018-07-18 ,rol_episupport,,,Support épidémiologique,Epidemiological support
+3,3,2018-07-18 ,2018-07-18 ,rol_labsupport,,,Support laboratoire,Laboratory Support
+4,4,2018-07-18 ,2018-07-18 ,rol_site,,,Site ou coinvestigateur,Site or co-investigator
+5,5,2018-07-18 ,2018-07-18 ,rol_coord,,,Responsable de projet/ coordinateur,Project Manager/coordinator
+6,6,2018-07-18 ,2018-07-18 ,rol_other,,,Autre,Other

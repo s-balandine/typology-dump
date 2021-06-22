@@ -1,0 +1,267 @@
+rownames,sub_theme_id,created,modified,code,created_by_id,last_modification_by_id,parent_theme_id,text_fr,text_en
+1,1,2013-11-08 ,2013-11-08 ,EXPE1,,,1,Expertise,Expertise
+2,2,2013-11-08 ,2013-11-08 ,COUT1,,,2,Coûts opérationnels,Operational costs
+3,3,2013-11-20 ,2013-11-20 ,Expats_Colog,55,55,3,Colog,Colog
+4,4,2013-11-20 ,2013-11-20 ,Expats_Cofirh,55,55,3,Cofirh,Cofirh
+5,5,2013-11-20 ,2013-11-20 ,Expats_Epidemiologist Trainer,55,55,3,Epidemiologist Trainer,Epidemiologist Trainer
+6,6,2013-11-20 ,2013-11-20 ,Expats_Director,55,55,3,Director,Director
+7,7,2013-11-23 ,2013-11-23 ,Medical Staff_Project UG936,55,55,4,Project UG936,Project UG936
+8,8,2013-11-23 ,2013-11-23 ,Medical Staff_TB KIDS COHORT,55,55,4,TB KIDS COHORT,TB KIDS COHORT
+9,9,2013-11-23 ,2013-11-23 ,Medical Staff_INO,55,55,4,INO,INO
+10,10,2013-11-23 ,2013-11-23 ,Medical Staff_Contact Screen,55,55,4,Contact Screen,Contact Screen
+11,11,2013-11-23 ,2013-11-23 ,Medical Staff_Rifavirenz,55,55,4,Rifavirenz,Rifavirenz
+12,12,2013-11-23 ,2013-11-23 ,Medical Staff_PCV Trial Survey,55,55,4,PCV Trial Survey,PCV Trial Survey
+13,13,2013-11-23 ,2013-11-23 ,Medical Staff_SMF,55,55,4,SMF,SMF
+14,14,2013-11-23 ,2013-11-23 ,Medical Staff_TB Implementation,55,55,4,TB Implementation,TB Implementation
+15,15,2013-11-27 ,2013-11-27 ,Expats_Replacement,55,55,3,Replacement,Replacement
+16,16,2013-11-27 ,2013-11-27 ,COUT_SMF,55,55,2,SMF,SMF
+17,17,2013-11-27 ,2013-11-27 ,COUT_Staff national,37,37,2,Staff national,Staff national
+18,18,2013-11-27 ,2013-11-27 ,COUT_Laboratory,37,37,2,Laboratory,Laboratory
+19,19,2013-11-27 ,2013-11-27 ,COUT_Non laboratory medical items,37,37,2,Non laboratory medical items,Non laboratory medical items
+20,20,2013-11-27 ,2013-11-27 ,COUT_Médicaments,37,37,2,Médicaments,Médicaments
+21,21,2013-12-04 ,2013-12-04 ,National Staff_Training,55,55,6,Training,Training
+22,22,2013-12-04 ,2013-12-04 ,Field of Study_Doctorate,55,55,7,Doctorate,Doctorate
+23,23,2013-12-04 ,2013-12-04 ,Field of Study_Peadiatric,55,55,7,Peadiatric,Peadiatric
+24,24,2013-12-03 ,2013-12-03 ,Communication_communication,2,2,8,communication,communication
+25,25,2013-12-10 ,2013-12-10 ,National Staff_Study conduct,4,4,6,Study conduct,Study conduct
+26,26,2013-12-10 ,2013-12-10 ,COUT_Transport,4,4,2,Transport,Transport
+27,27,2013-12-10 ,2013-12-10 ,COUT_Impressions,4,4,2,Impressions,Impressions
+28,28,2013-12-03 ,2013-12-03 ,Medical Staff_Statis,37,37,4,Statis,Statis
+29,29,2013-12-03 ,2013-12-03 ,Research assiatnt_statis,37,37,5,statis,statis
+30,30,2013-12-03 ,2013-12-03 ,EXPE_Follow-up,26,26,1,Follow-up,Follow-up
+31,31,2013-12-03 ,2013-12-03 ,EXPE_Field visit,26,26,1,Field visit,Field visit
+32,32,2013-12-03 ,2013-12-03 ,EXPE_Analyses & Report,26,26,1,Analyses & Report,Analyses & Report
+33,33,2013-12-03 ,2013-12-03 ,EXPE_Scientific communication,26,26,1,Scientific communication,Scientific communication
+34,34,2013-12-03 ,2013-12-03 ,COUT_Research assistant,26,26,2,Research assistant,Research assistant
+35,35,2013-12-03 ,2013-12-03 ,COUT_Cost-effectiveness,26,26,2,Cost-effectiveness,Cost-effectiveness
+36,36,2013-12-03 ,2013-12-03 ,COUT_Logistics & Others,26,26,2,Logistics & Others,Logistics & Others
+37,37,2013-12-03 ,2013-12-03 ,COUT_Communication,26,26,2,Communication,Communication
+38,38,2013-12-04 ,2013-12-04 ,National Staff_Salary Adjustment,55,55,6,Salary Adjustment,Salary Adjustment
+39,39,2013-12-04 ,2013-12-04 ,Medical Staff_Mbarara Research Center,55,55,4,Mbarara Research Center,Mbarara Research Center
+40,40,2013-12-04 ,2013-12-04 ,Field of Study_Epidemiology,55,55,7,Epidemiology,Epidemiology
+41,41,2013-12-04 ,2013-12-04 ,Field of Study_Specialized Study,55,55,7,Specialized Study,Specialized Study
+42,42,2013-12-05 ,2013-12-05 ,Ressources humaines_Honararium,47,47,9,Honararium,Honararium
+43,43,2013-12-05 ,2013-12-05 ,Human Resources Field_study nurse & data clerk,9,9,11,study nurse & data clerk,study nurse & data clerk
+44,44,2013-12-05 ,2013-12-05 ,COUT_Patient insurance,9,9,2,Patient insurance,Patient insurance
+45,45,2013-12-05 ,2013-12-05 ,Human Resources Field_Research Assistant,9,9,11,Research Assistant,Research Assistant
+46,46,2013-12-09 ,2013-12-09 ,COUT_South Sudan,11,11,2,South Sudan,South Sudan
+47,47,2013-12-09 ,2013-12-09 ,COUT_Burkina Faso,11,11,2,Burkina Faso,Burkina Faso
+48,48,2013-12-06 ,2013-12-06 ,Expats_Clinical Staff,22,22,3,Clinical Staff,Clinical Staff
+49,49,2013-12-06 ,2013-12-06 ,Expats_Support,22,22,3,Support,Support
+50,50,2013-12-06 ,2013-12-06 ,National Staff_Clinical staff,22,22,6,Clinical staff,Clinical staff
+51,51,2013-12-06 ,2013-12-06 ,National Staff_Support,22,22,6,Support,Support
+52,52,2013-12-06 ,2013-12-06 ,Ressources humaines_Training,22,22,9,Training,Training
+53,53,2013-12-06 ,2013-12-06 ,COUT_Local fees,22,22,2,Local fees,Local fees
+54,54,2013-12-06 ,2013-12-06 ,COUT_Study participants,22,22,2,Study participants,Study participants
+55,55,2013-12-06 ,2013-12-06 ,COUT_Diagnosis,22,22,2,Diagnosis,Diagnosis
+56,56,2013-12-06 ,2013-12-06 ,Expats_Clinical Research Assitant,24,24,3,Clinical Research Assitant,Clinical Research Assitant
+57,57,2013-12-06 ,2013-12-06 ,National Staff_Study staff,24,24,6,Study staff,Study staff
+58,58,2013-12-09 ,2013-12-09 ,Salles_Salles,63,63,12,Salles,Salles
+59,59,2013-12-09 ,2013-12-09 ,Technique_Technique,63,63,13,Technique,Technique
+60,60,2013-12-09 ,2013-12-09 ,Traiteur_Traiteur,63,63,14,Traiteur,Traiteur
+61,61,2013-12-09 ,2013-12-09 ,Prestations annexes_Prestations annexes,63,63,15,Prestations annexes,Prestations annexes
+62,62,2013-12-09 ,2013-12-09 ,Documents communication_Documents communication,63,63,16,Documents communication,Documents communication
+63,63,2013-12-09 ,2013-12-09 ,Maputo - LAM_Expertise,26,26,17,Expertise,Expertise
+64,64,2013-12-09 ,2015-06-17 ,Maputo - LAM_Coûts opérationnels,26,97,17,Coûts opérationnels,Coûts opérationannels
+65,65,2013-12-09 ,2013-12-09 ,Ndhiwa - LAM_Expertise,26,26,18,Expertise,Expertise
+66,66,2013-12-09 ,2013-12-09 ,Ndhiwa - LAM_Coûts opérationnels,26,26,18,Coûts opérationnels,Coûts opérationnels
+67,67,2013-12-09 ,2013-12-09 ,Chiradzulu - LAM_Expertise,26,26,19,Expertise,Expertise
+68,68,2013-12-09 ,2013-12-09 ,Chiradzulu - LAM_Coûts opérationnels,26,26,19,Coûts opérationnels,Coûts opérationnels
+69,69,2013-12-09 ,2013-12-09 ,RDC - LAM_Expertise,26,26,20,Expertise,Expertise
+70,70,2013-12-09 ,2013-12-09 ,RDC - LAM_Coûts opérationnels,26,26,20,Coûts opérationnels,Coûts opérationnels
+71,71,2013-12-09 ,2013-12-09 ,EXPE_Protocole,26,26,1,Protocole,Protocole
+72,72,2013-12-09 ,2013-12-09 ,COUT_Operational costs,60,60,2,Operational costs,Operational costs
+73,73,2013-12-09 ,2013-12-09 ,EXPE_Protocol development,24,24,1,Protocol development,Protocol development
+74,74,2013-12-09 ,2013-12-09 ,EXPE_Administration,24,24,1,Administration,Administration
+75,75,2013-12-09 ,2013-12-09 ,EXPE_Site assessment,24,24,1,Site assessment,Site assessment
+76,76,2013-12-09 ,2013-12-09 ,EXPE_Meetings,24,24,1,Meetings,Meetings
+77,77,2013-12-09 ,2013-12-09 ,Research assiatnt_Implementation,24,24,5,Implementation,Implementation
+78,78,2013-12-09 ,2013-12-09 ,National Staff_Nurse,24,24,6,Nurse,Nurse
+79,79,2013-12-09 ,2013-12-09 ,Materiel communication_Materiel communication,63,63,21,Materiel communication,Materiel communication
+80,80,2013-12-09 ,2013-12-09 ,Hebergement_Hebergement,63,63,22,Hebergement,Hebergement
+81,81,2013-12-09 ,2013-12-09 ,Perdiem guest JS_Perdiem guest JS,63,63,23,Perdiem guest JS,Perdiem guest JS
+82,82,2013-12-09 ,2013-12-09 ,DSMB and Scientific Committee_Consultancy Fees,43,43,24,Consultancy Fees,Consultancy Fees
+83,83,2013-12-10 ,2013-12-10 ,Human Resources (study nurse and data clerk)_CRA,39,39,10,CRA,CRA
+84,84,2013-12-10 ,2013-12-10 ,Human Resources Field_translator,39,39,11,translator,translator
+85,85,2013-12-10 ,2013-12-10 ,Human Resources Field_Transportation,39,39,11,Transportation,Transportation
+86,86,2013-12-19 ,2013-12-19 ,ARCOLE,65,65,25,Données comptables,Accounting data
+87,87,2014-02-06 ,2014-02-06 ,Coûts administratifs_Coûts administratifs,58,58,26,Coûts administratifs,Coûts administratifs
+88,88,2014-02-06 ,2014-02-06 ,Coûts de structure_Bâtiment Crozatier,58,58,27,Bâtiment Crozatier,Bâtiment Crozatier
+89,89,2014-04-15 ,2014-04-15 ,COUT_Ethical review,26,26,2,Ethical review,Ethical review
+90,90,2014-04-22 ,2014-04-22 ,COUT_Rapid diagnostic test Malaria,23,23,2,Rapid diagnostic test Malaria,Rapid diagnostic test Malaria
+91,91,2014-04-20 ,2014-04-20 ,National Staff_Data clerk,9,9,6,Data clerk,Data clerk
+92,92,2014-06-19 ,2014-06-19 ,COUT_Data backups,55,55,2,Data backups,Data backups
+93,93,2014-06-19 ,2014-06-19 ,Expats_Guest House,55,55,3,Guest House,Guest House
+94,94,2014-06-19 ,2014-06-19 ,Human Resources Field_Personnel Development,55,55,11,Personnel Development,Personnel Development
+95,95,2014-06-24 ,2014-06-24 ,COUT_Consultancy,55,55,2,Consultancy,Consultancy
+96,96,2014-06-30 ,2014-06-30 ,Medical Staff_Incentive,4,4,4,Incentive,Incentive
+97,97,2014-12-02 ,2014-12-02 ,Achat non médicaux_Achat non médicaux,63,63,29,Achat non médicaux,Achat non médicaux
+98,98,2014-12-02 ,2014-12-02 ,Achat non médicaux_Achat d'équipement non médicaux,63,63,29,Achat d'équipement non médicaux,Achat d'équipement non médicaux
+99,99,2014-12-02 ,2014-12-02 ,Communication_Frais de communication,63,63,8,Frais de communication,Frais de communication
+100,100,2014-12-02 ,2014-12-02 ,Frais de fonctionnement_Location,63,63,30,Location,Location
+101,101,2014-12-02 ,2014-12-02 ,Services sous-traités_Services sous-traités non médicaux,63,63,31,Services sous-traités non médicaux,Services sous-traités non médicaux
+102,102,2014-12-02 ,2014-12-02 ,Transport_Transports de personnes,63,63,32,Transports de personnes,Transports de personnes
+103,103,2014-12-02 ,2014-12-02 ,Hébergement_Hôtel,63,63,22,Hôtel,Hôtel
+104,104,2014-12-02 ,2014-12-02 ,Frais de personnel_Autres charges de personnel,63,63,33,Autres charges de personnel,Autres charges de personnel
+105,105,2014-12-02 ,2014-12-02 ,Autres charges du personnel_perdiem,63,63,34,perdiem,perdiem
+106,106,2014-12-03 ,2014-12-03 ,Medical Items_Purchase of medical items,2,2,35,Purchase of medical items,Purchase of medical items
+107,107,2014-12-04 ,2014-12-04 ,COUT_Human resources,26,26,2,Human resources,Human resources
+108,108,2014-12-09 ,2014-12-09 ,Frais de fonctionnement_enveloppe de coûts opérationnels,16,16,30,enveloppe de coûts opérationnels,enveloppe de coûts opérationnels
+109,109,2015-04-03 ,2015-04-03 ,Training_Training,79,79,36,Training,Training
+110,110,2015-04-08 ,2015-04-08 ,Laboratory consumables_Lab consumables,39,39,37,Lab consumables,Lab consumables
+111,111,2015-06-19 ,2015-06-19 ,Transport_Matérials,2,2,32,Matérials,Matérials
+112,112,2015-09-22 ,2015-09-22 ,COUT_Location tuktuk; bus,25,25,2,Location tuktuk; bus,Location tuktuk; bus
+113,113,2015-09-22 ,2015-09-22 ,Frais de fonctionnement_Location bureau et guest house,25,25,30,Location bureau et guest house,Location bureau et guest house
+114,114,2015-09-22 ,2015-09-22 ,Autres charges du personnel_incentives,25,25,34,incentives,incentives
+115,115,2015-09-23 ,2015-09-23 ,Medical Staff_LAM ,55,55,4,LAM ,LAM 
+116,116,2015-11-15 ,2015-11-15 ,COUT_Sample transport,9,9,2,Sample transport,Sample transport
+117,117,2015-11-15 ,2015-11-15 ,Human Resources Field_Human Resources Field,9,9,11,Human Resources Field,Human Resources Field
+118,118,2015-12-08 ,2015-12-08 ,Décentralisé_Décentralisé,60,60,38,Décentralisé,Décentralisé
+119,119,2015-12-09 ,2015-12-09 ,Formation_Formation,59,59,39,Formation,Formation
+120,120,2016-04-06 ,2016-04-06 ,Coordination scientifique_Programme conception,63,63,40,Programme conception,Programme conception
+121,121,2016-04-06 ,2016-04-06 ,Coordination scientifique_Poster conception et impression,63,63,40,Poster conception et impression,Poster conception et impression
+122,122,2016-04-06 ,2016-04-06 ,Transport_per diem,47,47,32,per diem,per diem
+123,123,2016-04-06 ,2016-04-06 ,assurance_assurance,47,47,42,assurance,assurance
+124,124,2016-04-07 ,2016-04-07 ,Coordination scientifique_Livret abstract impression,63,63,40,Livret abstract impression,Livret abstract impression
+125,125,2016-04-07 ,2016-04-07 ,Coordination scientifique_Programme Impression,63,63,40,Programme Impression,Programme Impression
+126,126,2016-04-07 ,2016-04-07 ,Coordination scientifique_Livret abstract conception,63,63,40,Livret abstract conception,Livret abstract conception
+127,127,2016-04-07 ,2016-04-07 ,Préparation JS_Salle IMA,63,63,41,Salle IMA,Salle IMA
+128,128,2016-04-07 ,2016-04-07 ,Préparation JS_Streaming /eclairage/cabine traduction,63,63,41,Streaming /eclairage/cabine traduction,Streaming /eclairage/cabine traduction
+129,129,2016-04-07 ,2016-04-07 ,Préparation JS_buffet,63,63,41,buffet,buffet
+130,130,2016-04-07 ,2016-04-07 ,Préparation JS_Interprète,63,63,41,Interprète,Interprète
+131,131,2016-04-07 ,2016-04-07 ,Préparation JS_Hôtesse,63,63,41,Hôtesse,Hôtesse
+132,132,2016-04-07 ,2016-04-07 ,Préparation JS_Hôtel Ibis,63,63,41,Hôtel Ibis,Hôtel Ibis
+133,133,2016-04-07 ,2016-04-07 ,Préparation JS_Badges,63,63,41,Badges,Badges
+134,134,2016-04-07 ,2016-04-07 ,Préparation JS_petite fourniture,63,63,41,petite fourniture,petite fourniture
+135,135,2016-04-07 ,2016-04-07 ,Communication_Affiches officiel créa,63,63,8,Affiches officiel créa,Affiches officiel créa
+136,136,2016-04-07 ,2016-04-07 ,Communication_Affiches officiel impression,63,63,8,Affiches officiel impression,Affiches officiel impression
+137,137,2016-04-07 ,2016-04-07 ,Communication_Affichette et banderolles  cougard,63,63,8,Affichette et banderolles  cougard,Affichette et banderolles  cougard
+138,138,2016-04-07 ,2016-04-07 ,Communication_roll-up hall accueil,63,63,8,roll-up hall accueil,roll-up hall accueil
+139,139,2016-04-07 ,2016-04-07 ,Logistique_Location voiture,63,63,43,Location voiture,Location voiture
+140,140,2016-10-12 ,2016-10-12 ,Laboratory analysis_neutralizatin ,2,2,44,neutralizatin ,neutralizatin 
+141,141,2016-10-12 ,2016-10-12 ,Human Resources Field_International staff,2,2,11,International staff,International staff
+142,142,2016-10-11 ,2016-10-11 ,Achat non médicaux_Petits matériel et consommables non médicaux,56,56,29,Petits matériel et consommables non médicaux,Petits matériel et consommables non médicaux
+143,143,2016-10-11 ,2016-10-11 ,Frais de fonctionnement_Autres dépenses de fonctionnement,56,56,30,Autres dépenses de fonctionnement,Autres dépenses de fonctionnement
+144,144,2016-10-11 ,2016-10-11 ,Frais de fonctionnement_Eau  gaz et électricité,56,56,30,Eau  gaz et électricité,Eau  gaz et électricité
+145,145,2016-10-11 ,2016-10-11 ,Frais de fonctionnement_Frais de communication,56,56,30,Frais de communication,Frais de communication
+146,146,2016-10-11 ,2016-10-11 ,Frais de fonctionnement_Maintenance et entretien,56,56,30,Maintenance et entretien,Maintenance et entretien
+147,147,2016-10-11 ,2016-10-11 ,Frais de fonctionnement_Services professionnels,56,56,30,Services professionnels,Services professionnels
+148,148,2016-10-13 ,2016-10-13 ,Achats médicaux_Achat d'équipements médicaux,56,56,45,Achat d'équipements médicaux,Achat d'équipements médicaux
+149,149,2016-10-13 ,2016-10-13 ,Achat d'articles médicaux_Médicaments,56,56,46,Médicaments,Médicaments
+150,150,2016-10-13 ,2016-10-13 ,Achats médicaux_Aachat d'articles médicaux,56,56,45,Aachat d'articles médicaux,Aachat d'articles médicaux
+151,151,2016-10-13 ,2016-10-13 ,Achats médicaux_Fournitures et consommables médicaux,56,56,45,Fournitures et consommables médicaux,Fournitures et consommables médicaux
+152,152,2016-10-13 ,2016-10-13 ,Frais de fonctionnement_Assurance de locaux et équipements,56,56,30,Assurance de locaux et équipements,Assurance de locaux et équipements
+153,153,2016-10-13 ,2016-10-13 ,Frais de personnel_Personnel temporaire,56,56,33,Personnel temporaire,Personnel temporaire
+154,154,2016-10-13 ,2016-10-13 ,Frais de personnel_Charges de personnel,56,56,33,Charges de personnel,Charges de personnel
+155,155,2016-10-13 ,2016-10-13 ,Transport_Fret,56,56,32,Fret,Fret
+156,156,2016-10-13 ,2016-10-13 ,Services sous-traités_Services sous-traités médicaux,56,56,31,Services sous-traités médicaux,Services sous-traités médicaux
+157,157,2016-10-14 ,2016-10-14 ,Vente d'équipements_Ventes équipements divers,56,56,47,Ventes équipements divers,Ventes équipements divers
+158,158,2016-10-18 ,2016-10-18 ,Frais de fonctionnement_Frais de communication externe et représentation,56,56,30,Frais de communication externe et représentation,Frais de communication externe et représentation
+159,159,2016-10-20 ,2016-10-20 ,Coordination scientifique_Traduction intro JS,63,63,40,Traduction intro JS,Traduction intro JS
+160,160,2016-10-20 ,2016-10-20 ,Préparation JS_Restauration hors IMA,63,63,41,Restauration hors IMA,Restauration hors IMA
+161,161,2016-10-20 ,2016-10-20 ,Préparation JS_Billet avion et frais international,63,63,41,Billet avion et frais international,Billet avion et frais international
+162,162,2016-10-20 ,2016-10-20 ,Préparation JS_Perdiem,63,63,41,Perdiem,Perdiem
+163,163,2016-10-20 ,2016-10-20 ,Communication_videos projets,63,63,8,videos projets,videos projets
+164,164,2016-10-28 ,2016-10-28 ,External Laboratory services_Laboratory analyses,9,9,48,Laboratory analyses,Laboratory analyses
+165,165,2016-10-27 ,2016-10-27 ,Frais de personnel_Remuneration du personel,110,110,33,Remuneration du personel,Remuneration du personel
+166,166,2016-10-27 ,2016-10-27 ,REPART_Remuneration du personel,110,110,28,Remuneration du personel,Remuneration du personel
+167,167,2016-10-28 ,2016-10-28 ,Laboratory consumables_OCB Lab consumables,89,89,37,OCB Lab consumables,OCB Lab consumables
+168,168,2016-10-28 ,2016-10-28 ,Laboratory consumables_OCG lab consumables,89,89,37,OCG lab consumables,OCG lab consumables
+169,169,2016-10-28 ,2016-10-28 ,Laboratory analysis_CD4,89,89,44,CD4,CD4
+170,170,2016-10-28 ,2016-10-28 ,Laboratory analysis_OCB CD4,89,89,44,OCB CD4,OCB CD4
+171,171,2016-10-28 ,2016-10-28 ,Laboratory analysis_OCG CD4,89,89,44,OCG CD4,OCG CD4
+172,172,2016-10-28 ,2016-10-28 ,Laboratory analysis_OCB Viral Load,89,89,44,OCB Viral Load,OCB Viral Load
+173,173,2016-10-28 ,2016-10-28 ,Laboratory analysis_OCG Viral Load,89,89,44,OCG Viral Load,OCG Viral Load
+174,174,2016-10-28 ,2016-10-28 ,Transport_OCB Car and Driver,89,89,32,OCB Car and Driver,OCB Car and Driver
+175,175,2016-10-31 ,2016-10-31 ,Laboratory analysis_OCB DRT,89,89,44,OCB DRT,OCB DRT
+176,176,2016-10-31 ,2016-10-31 ,Laboratory analysis_OCG DRT,89,89,44,OCG DRT,OCG DRT
+177,177,2016-10-31 ,2016-10-31 ,Laboratory analysis_OCB ARV Conc on DBS,89,89,44,OCB ARV Conc on DBS,OCB ARV Conc on DBS
+178,178,2016-10-31 ,2016-10-31 ,Laboratory analysis_OCG ARV Conc on DBS,89,89,44,OCG ARV Conc on DBS,OCG ARV Conc on DBS
+179,179,2016-10-31 ,2016-10-31 ,Laboratory analysis_OCB Hct,89,89,44,OCB Hct,OCB Hct
+180,180,2016-10-31 ,2016-10-31 ,Laboratory analysis_OCG Hct,89,89,44,OCG Hct,OCG Hct
+181,181,2016-10-31 ,2016-10-31 ,Transport_OCG Car and Drive,89,89,32,OCG Car and Drive,OCG Car and Drive
+182,182,2016-10-31 ,2016-10-31 ,Transport_OCG Car and Driver,89,89,32,OCG Car and Driver,OCG Car and Driver
+183,183,2016-10-31 ,2016-10-31 ,Transport_OCB International samples shipment,89,89,32,OCB International samples shipment,OCB International samples shipment
+184,184,2016-10-31 ,2016-10-31 ,Transport_OCB Fret,89,89,32,OCB Fret,OCB Fret
+185,185,2016-10-31 ,2016-10-31 ,Transport_OCG Fret,89,89,32,OCG Fret,OCG Fret
+186,186,2016-10-31 ,2016-10-31 ,Transport_OCB Voyages ,89,89,32,OCB Voyages ,OCB Voyages 
+187,187,2016-10-31 ,2016-10-31 ,Transport_OCG Voyage,89,89,32,OCG Voyage,OCG Voyage
+188,188,2016-10-31 ,2016-10-31 ,Administration_OCB General Administration,89,89,49,OCB General Administration,OCB General Administration
+189,189,2016-10-31 ,2016-10-31 ,Administration_OCG General Administration,89,89,49,OCG General Administration,OCG General Administration
+190,190,2016-10-31 ,2016-10-31 ,Administration_OCB Office material,89,89,49,OCB Office material,OCB Office material
+191,191,2016-10-31 ,2016-10-31 ,Administration_OCG Office material,89,89,49,OCG Office material,OCG Office material
+192,192,2016-10-31 ,2016-10-31 ,Administration_OCB Protocol Translation,89,89,49,OCB Protocol Translation,OCB Protocol Translation
+193,193,2016-10-31 ,2016-10-31 ,Administration_OCG Protocol translation,89,89,49,OCG Protocol translation,OCG Protocol translation
+194,194,2016-10-31 ,2016-10-31 ,Administration_OCB Ethic submission,89,89,49,OCB Ethic submission,OCB Ethic submission
+195,195,2016-10-31 ,2016-10-31 ,Administration_OCB communication,89,89,49,OCB communication,OCB communication
+196,196,2016-10-31 ,2016-10-31 ,Administration_OCG communication,89,89,49,OCG communication,OCG communication
+197,197,2016-10-31 ,2016-10-31 ,Administration_OCB Participants rembursement,89,89,49,OCB Participants rembursement,OCB Participants rembursement
+198,198,2016-10-31 ,2016-10-31 ,Administration_OCG Participants rembursment,89,89,49,OCG Participants rembursment,OCG Participants rembursment
+199,199,2016-10-31 ,2016-10-31 ,Human resources_OCB HR,89,89,50,OCB HR,OCB HR
+200,200,2016-10-31 ,2016-10-31 ,Human resources_OCB Field study coordinator,89,89,50,OCB Field study coordinator,OCB Field study coordinator
+201,201,2016-10-31 ,2016-10-31 ,Human resources_OCG Field study coordinator,89,89,50,OCG Field study coordinator,OCG Field study coordinator
+202,202,2016-10-31 ,2016-10-31 ,Human resources_OCB Filed nurses,89,89,50,OCB Filed nurses,OCB Filed nurses
+203,203,2016-10-31 ,2016-10-31 ,Human resources_OCB Field nurse,89,89,50,OCB Field nurse,OCB Field nurse
+204,204,2016-10-31 ,2016-10-31 ,Human resources_OCG Field nurse,89,89,50,OCG Field nurse,OCG Field nurse
+205,205,2016-10-31 ,2016-10-31 ,Human resources_OCB Field lab tech,89,89,50,OCB Field lab tech,OCB Field lab tech
+206,206,2016-10-31 ,2016-10-31 ,Human resources_OCB Lab tech,89,89,50,OCB Lab tech,OCB Lab tech
+207,207,2016-10-31 ,2016-10-31 ,Human resources_OCG Field lab tech,89,89,50,OCG Field lab tech,OCG Field lab tech
+208,208,2016-10-31 ,2016-10-31 ,EXPE_Epicentre expertise,89,89,1,Epicentre expertise,Epicentre expertise
+209,209,2016-10-31 ,2016-10-31 ,EXPE_OCB Epicentre expertise ,89,89,1,OCB Epicentre expertise ,OCB Epicentre expertise 
+210,210,2016-10-31 ,2016-10-31 ,EXPE_OCG Epicentre expertise,89,89,1,OCG Epicentre expertise,OCG Epicentre expertise
+211,211,2016-10-31 ,2016-10-31 ,EXPE_OCB Epicentre days ,89,89,1,OCB Epicentre days ,OCB Epicentre days 
+212,212,2016-10-31 ,2016-10-31 ,EXPE_OCG Epicentre days ,89,89,1,OCG Epicentre days ,OCG Epicentre days 
+213,213,2016-11-01 ,2016-11-01 ,Autres charges du personnel_Charges sociales,56,56,34,Charges sociales,Charges sociales
+214,214,2016-11-02 ,2016-11-02 ,Autres charges du personnel_Couverture médicale,56,56,34,Couverture médicale,Couverture médicale
+215,215,2016-11-02 ,2016-11-02 ,Coordination scientifique_Chemise doc guests,63,63,40,Chemise doc guests,Chemise doc guests
+216,216,2016-11-02 ,2016-11-02 ,Préparation JS_petit materiel,63,63,41,petit materiel,petit materiel
+217,217,2016-11-04 ,2016-11-04 ,Laboratory analysis_Analyses de Laboratoire,17,17,44,Analyses de Laboratoire,Analyses de Laboratoire
+218,218,2016-11-10 ,2016-11-10 ,ETUDE PRINCIPALE_Etude principale,56,56,51,Etude principale,Etude principale
+219,219,2016-11-10 ,2016-11-10 ,SOUS-ETUDE_Sous-Etude,56,56,52,Sous-Etude,Sous-Etude
+220,220,2017-02-20 ,2017-02-20 ,Autres charges du personnel_Solde de Tout Compte,56,56,34,Solde de Tout Compte,Solde de Tout Compte
+221,221,2017-03-02 ,2017-03-02 ,Objective 1_Expertise,4,4,53,Expertise,Expertise
+222,222,2017-03-02 ,2017-03-02 ,Objective 2_Expertise,4,4,54,Expertise,Expertise
+223,223,2017-03-02 ,2017-03-02 ,Objective 2_Operational costs,4,4,54,Operational costs,Operational costs
+224,224,2017-03-02 ,2017-03-02 ,Objective 3 _Expertise,4,4,55,Expertise,Expertise
+225,225,2017-03-02 ,2017-03-02 ,Objective 2_Human resources,4,4,54,Human resources,Human resources
+226,226,2017-03-02 ,2017-03-02 ,Objective 3 _Human resources,4,4,55,Human resources,Human resources
+227,227,2017-03-02 ,2017-03-02 ,Objective 3 _Operational costs,4,4,55,Operational costs,Operational costs
+228,228,2017-03-03 ,2017-03-03 ,COUT_Field visit,9,9,2,Field visit,Field visit
+229,229,2017-03-07 ,2017-03-07 ,Coûts administratifs_ERB,12,12,26,ERB,ERB
+230,230,2017-05-26 ,2017-05-26 ,Authorizations_ERBs and NDA,2,2,56,ERBs and NDA,ERBs and NDA
+231,231,2017-10-30 ,2017-10-30 ,incentives_Incentives pour les participants,25,25,59,Incentives pour les participants,Incentives pour les participants
+232,232,2017-11-03 ,2017-11-03 ,general running costs_Communication,80,80,57,Communication,Communication
+233,233,2017-11-03 ,2017-11-03 ,Non medical items_Non medical renewable,80,80,60,Non medical renewable,Non medical renewable
+234,234,2017-11-03 ,2017-11-03 ,Purchase of non medical items_Non medical renewable items and consumables,80,80,61,Non medical renewable items and consumables,Non medical renewable items and consumables
+235,235,2017-11-03 ,2017-11-03 ,Staff costs_Employer contribution,80,80,62,Employer contribution,Employer contribution
+236,236,2017-11-03 ,2017-11-03 ,Staff costs_other staff costs,80,80,62,other staff costs,other staff costs
+237,237,2017-11-03 ,2017-11-03 ,Staff costs_accounting,80,80,62,accounting,accounting
+238,238,2017-11-03 ,2017-11-03 ,Staff costs_Payroll,80,80,62,Payroll,Payroll
+239,239,2017-11-03 ,2017-11-03 ,Staff costs_Subcontracted medical supplies,80,80,62,Subcontracted medical supplies,Subcontracted medical supplies
+240,240,2017-11-06 ,2017-11-06 ,Research assiatnt_ARC Tete,89,89,5,ARC Tete,ARC Tete
+241,241,2017-11-07 ,2017-11-07 ,Supervision Sites_Supervision,53,53,63,Supervision,Supervision
+242,242,2017-11-07 ,2017-11-07 ,Supervision site_Supervision,53,53,65,Supervision,Supervision
+243,243,2017-11-07 ,2017-11-07 ,Achat non médicaux_Training,53,53,29,Training,Training
+244,244,2017-11-07 ,2017-11-07 ,Frais de fonctionnement_Training,53,53,30,Training,Training
+245,245,2017-11-07 ,2017-11-07 ,Transport_Billet d'avion(international),53,53,32,Billet d'avion(international),Billet d'avion(international)
+246,246,2017-11-07 ,2017-11-07 ,Transport_Transport Echantillons,53,53,32,Transport Echantillons,Transport Echantillons
+247,247,2017-11-07 ,2017-11-07 ,Frais de fonctionnement_Frais de supervision terrain,53,53,30,Frais de supervision terrain,Frais de supervision terrain
+248,248,2018-03-05 ,2018-03-05 ,REPART_General,110,110,28,General,General
+249,249,2018-05-15 ,2018-05-15 ,Purchase of Medical Items_Purchase of mediacl renewables,80,80,68,Purchase of mediacl renewables,Purchase of mediacl renewables
+250,250,2018-05-16 ,2018-05-16 ,Subcontracted services_Subcontracted medical services,80,80,69,Subcontracted medical services,Subcontracted medical services
+251,251,2018-05-16 ,2018-05-16 ,Miscellaneous expenses_Other costs,80,80,70,Other costs,Other costs
+252,252,2018-10-15 ,2018-10-15 ,general running costs_Participants',2,2,57,Participants',Participants'
+253,253,2018-10-12 ,2018-10-12 ,All round Logistician _Mozi MUTWAMBAKA,55,55,71,Mozi MUTWAMBAKA,Mozi MUTWAMBAKA
+254,254,2018-10-12 ,2018-10-12 ,Finance Manager Assistant_Agatha TWEBAZE,55,55,72,Agatha TWEBAZE,Agatha TWEBAZE
+255,255,2018-10-16 ,2018-10-16 ,Purchase of Medical Items_Purchase of medical items,2,2,68,Purchase of medical items,Purchase of medical items
+256,256,2018-10-30 ,2018-10-30 ,Frais de fonctionnement_Publication,142,142,30,Publication,Publication
+257,257,2018-11-07 ,2018-11-07 ,Incentive pour participants_Participant incentives,39,39,58,Participant incentives,Participant incentives
+258,258,2019-05-09 ,2019-05-09 ,Expats_Field epidemiologist,112,112,3,Field epidemiologist,Field epidemiologist
+259,259,2019-06-04 ,2019-06-04 ,Administration_Submission to ethics,21,21,49,Submission to ethics,Submission to ethics
+260,260,2019-06-14 ,2019-06-14 ,,65,65,73,Inconnu,Unknown
+261,261,2019-10-25 ,2019-10-25 ,Traduction_Traduction,25,25,74,Traduction,Traduction
+262,262,2019-10-30 ,2019-10-30 ,Frais de personnel_Hôtel,21,21,33,Hôtel,Hôtel
+263,263,2020-08-25 ,2020-08-25 ,Field mentor_inconnu,112,112,75,inconnu,inconnu
+264,264,2021-03-01 ,2021-03-01 ,EXPE_Qualitative ,89,89,1,Qualitative ,Qualitative 
+265,265,2021-03-01 ,2021-03-01 ,billet_Billets avion,89,89,66,Billets avion,Billets avion
+266,266,2021-03-01 ,2021-03-01 ,Logistique_Transport international échantillons,89,89,43,Transport international échantillons,Transport international échantillons

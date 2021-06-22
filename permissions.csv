@@ -1,0 +1,27 @@
+rownames,perm_id,perm_name,module,group_name,perm_position
+1,1,administer enumerations,FastAdminMultiModule,ListsGroup,0
+2,2,CanValidateAnyoneCube,D2Module,D2,0
+3,3,CreateAndUpdateD2,D2Module,D2,0
+4,4,CanCreateDefaultViewsD2Permission,D2Module,D2,0
+5,5,AdminD2Permission,D2Module,D2,0
+6,6,CanEditDurationOfOthersUsersPermission,MSFD2Module,ComptagePermissionGroupName,0
+7,7,CanCreateProjectsPermission,MSFD2Module,ProjectPermissionGroupName,0
+8,8,CanManageProjectsStatusPermission,MSFD2Module,ProjectPermissionGroupName,0
+9,9,CanEditStartedProjectsPermission,MSFD2Module,ProjectPermissionGroupName,0
+10,10,CanManageArticles,MSFD2Module,RefPermissionGroupName,0
+11,11,CanManageNamedArticles,MSFD2Module,RefPermissionGroupName,0
+12,12,CanViewDurationOfOthersUsersPermission,MSFD2Module,ComptagePermissionGroupName,0
+13,13,CanEditOwnDurationPermission,MSFD2Module,ComptagePermissionGroupName,0
+14,14,PayeSessionAccess,PayeSessionModule,D2Cubes,0
+15,15,ProjetSessionAccess,ProjetSessionModule,D2Cubes,0
+16,16,view reports,ReportModule,ListsGroup,1320
+17,17,manage reporting fields,ReportModule,ListsGroup,1320
+18,18,import data,DataImportModule,,0
+19,19,administer users,UsersModule,,0
+20,20,AdminCollaboratorsPermission,CollaboratorsModule,RefPermissionGroupName,0
+21,21,ManualAffectationProjectCodePermission,EnvironmentsModule,Epicentre,0
+22,22,CanDeleteReportViews,ReportModule,ListsGroup,1320
+23,23,CanModifyReportViews,ReportModule,ListsGroup,1320
+24,24,AdminArcoleSynchronizations,ArcoleModule,D2,0
+25,25,CanManageReports,ReportModule,ListsGroup,1320
+26,26,CanChangeEndOfExpenditureCommitment,MSFD2Module,ProjectPermissionGroupName,0
