@@ -1,2 +1,2 @@
 rownames,administrable_settings_id,send_to_responsible_when_validated,send_to_responsible_when_saved,send_to_responsible_when_finished,send_to_responsible_when_refused,send_to_admins_when_validated,send_to_admins_when_saved,send_to_admins_when_finished,send_to_admins_when_refused,send_to_contributors_when_validated,send_to_contributors_when_saved,send_to_contributors_when_finished,send_to_contributors_when_refused,created,modified,created_by_id,last_modification_by_id
-1,1,0,0,1,0,0,0,1,0,1,1,1,1,2013-10-10,2021-02-18 ,,176
+1,1,0,0,1,0,1,0,1,1,1,1,1,1,2013-10-10,2021-06-23 ,,176

@@ -1,4 +1,4 @@
-﻿rowname,account_id,created,modified,code,created_by_id,last_modification_by_id,fiscal_burden_nature_id,text_fr,text_en
+rownames,account_id,created,modified,code,created_by_id,last_modification_by_id,fiscal_burden_nature_id,text_fr,text_en
 1,332,2014-02-05 ,2014-02-05 ,T60000,60,60,1,Médicaments,Medicines
 2,333,2014-02-05 ,2014-02-05 ,T60010,60,60,1,Vaccins,Vaccines
 3,334,2014-02-05 ,2014-02-05 ,T60020,60,60,1,Kits médicaux,Medical kits
