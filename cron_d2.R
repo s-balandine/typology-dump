@@ -66,7 +66,7 @@ for(i in 1:nrow(tables)) {
 }
 
 
-repo <- repository()
+repo <- repository('dump')
 
 config(repo, 
        user.name = "Serge Balandine",
