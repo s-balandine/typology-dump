@@ -1,0 +1,10 @@
+rownames,currency_info_id,is_inverse,currency_code,format_string,precision,name_fr,name_en
+1,1,0,EUR,# ##0.00,2,Euro,Euro
+2,2,0,USD,# ##0.00,2,Dollar,Dollar
+3,3,0,XOF,# ##0,0,Franc CFA,Franc CFA
+4,4,0,KES,# ##0.00,2,Kenyan Shilling,Kenyan Shilling
+5,5,0,MWK,# ##0.00,2,Malawi Kwacha,Malawi Kwacha
+6,6,0,UGX,# ##0.00,2,Shillling Ougandais,Ugandan Shilling
+7,7,0,GBP,# ##0.00,2,Livre Sterling,British Pound
+8,8,0,CDF,# ##0.00,2,Franc,Franc
+9,9,0,CHF,# ##0.00,2,Franc Suisse,Swiss franc

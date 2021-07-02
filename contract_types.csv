@@ -1,7 +1,0 @@
-rownames,contract_type_id,created,modified,code,created_by_id,last_modification_by_id,text_fr,text_en
-1,1,2013-11-08 ,2013-11-08 ,CDI,,,CDI,Contract for an unlimited period of time
-2,2,2013-11-08 ,2013-11-08 ,CDD,,,CDD,Contract for a limited period of time
-3,3,2013-11-08 ,2013-11-08 ,STG,,,STAGE,Internship
-4,4,2013-11-08 ,2013-11-08 ,INT,,,Interimaires,Temporary employee
-5,5,2013-11-08 ,2013-11-08 ,APP,,,Apprentissage,Apprenticeship
-6,6,2017-02-23 ,2017-02-23 ,6,60,60,Consultant extérieur - refacturé,Consultant - reinvoiced

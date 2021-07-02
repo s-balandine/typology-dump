@@ -1,9 +1,0 @@
-rownames,activity_id,created,modified,code,activity_type_code,created_by_id,last_modification_by_id,text_fr,text_en,order,only_for_admin
-1,1,2013-11-08 ,2018-07-20 ,consultation,1,,130,Epidémiologie de Terrain,Field Epidemiology,1,0
-2,2,2013-11-08 ,2016-12-21 ,research,2,,43,Recherche,Research,2,0
-3,3,2013-11-08 ,2016-12-23 ,training,4,,60,Formation,Training,3,0
-4,5,2013-11-08 ,2016-12-23 ,none,0,,60,Aucune,None,4,1
-5,7,2013-11-08 ,2016-12-23 ,internaltraining,0,,60,Formation interne,Internal training,5,1
-6,8,2013-11-08 ,2016-12-23 ,absence,0,,60,Absence,Absence,6,1
-7,9,2015-12-07 ,2016-12-23 ,9,3,60,60,Support au programme,Program support,0,0
-8,10,2017-02-15 ,2017-02-23 ,autrescientifique,2,60,60,Autre activité scientifique,Other scientific activity,0,1

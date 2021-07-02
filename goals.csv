@@ -1,8 +1,0 @@
-rownames,goal_id,created,modified,code,created_by_id,last_modification_by_id,text_fr,text_en
-1,1,2018-07-18 ,2019-07-23 ,goal_doc,,130,Description,Description
-2,2,2018-07-18 ,2018-07-18 ,goal_treatment,,,Traitement,Drug or Treatment
-3,3,2018-07-18 ,2018-07-18 ,goal_diag,,,Diagnostic,Diagnosis
-4,4,2018-07-18 ,2018-07-18 ,goal_prev,,,Prévention,Prevention
-5,5,2018-07-18 ,2018-07-18 ,goal_surv,,,Surveillance,Surveillance
-6,6,2018-07-18 ,2018-07-18 ,goal_strat,,,Stratégie,Strategy
-7,7,2018-07-18 ,2018-07-18 ,goal_other,,,Autre,Other

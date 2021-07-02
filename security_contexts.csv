@@ -1,5 +1,0 @@
-rownames,security_context_id,created,modified,code,created_by_id,last_modification_by_id,text_fr,text_en
-1,1,2018-07-18 ,2018-07-18 ,con_armed,,,Conflit armé,Armed Conflict
-2,2,2018-07-18 ,2018-07-18 ,con_postconflict,,,Post conflit,Post-Conflict
-3,3,2018-07-18 ,2018-07-18 ,con_instab,,,Instabilité interne,Internal Instability
-4,4,2018-07-18 ,2018-07-18 ,con_stab,,,Stable,Stable

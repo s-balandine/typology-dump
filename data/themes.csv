@@ -1,0 +1,77 @@
+rownames,theme_id,created,modified,code,created_by_id,last_modification_by_id,text_fr,text_en
+1,1,2013-11-08 ,2013-11-08 ,EXPE,,,Expertise,Expertise
+2,2,2013-11-08 ,2013-11-08 ,COUT,,,Coûts opérationnels,Operational costs
+3,3,2013-11-20 ,2013-11-20 ,Expats,55,55,Expats,Expats
+4,4,2013-11-23 ,2013-11-23 ,Medical Staff,55,55,Medical Staff,Medical Staff
+5,5,2013-11-27 ,2013-11-27 ,Research assiatnt,37,37,Research assiatnt,Research assiatnt
+6,6,2013-12-04 ,2013-12-04 ,National Staff,55,55,National Staff,National Staff
+7,7,2013-12-04 ,2013-12-04 ,Field of Study,55,55,Field of Study,Field of Study
+8,8,2013-12-03 ,2013-12-03 ,Communication,2,2,Communication,Communication
+9,9,2013-12-03 ,2013-12-03 ,Ressources humaines,26,26,Ressources humaines,Ressources humaines
+10,10,2013-12-05 ,2013-12-05 ,Human Resources (study nurse and data clerk),9,9,Human Resources (study nurse and data clerk),Human Resources (study nurse and data clerk)
+11,11,2013-12-05 ,2013-12-05 ,Human Resources Field,9,9,Human Resources Field,Human Resources Field
+12,12,2013-12-09 ,2013-12-09 ,Salles,63,63,Salles,Salles
+13,13,2013-12-09 ,2013-12-09 ,Technique,63,63,Technique,Technique
+14,14,2013-12-09 ,2013-12-09 ,Traiteur,63,63,Traiteur,Traiteur
+15,15,2013-12-09 ,2013-12-09 ,Prestations annexes,63,63,Prestations annexes,Prestations annexes
+16,16,2013-12-09 ,2013-12-09 ,Documents communication,63,63,Documents communication,Documents communication
+17,17,2013-12-09 ,2013-12-09 ,Maputo - LAM,26,26,Maputo - LAM,Maputo - LAM
+18,18,2013-12-09 ,2013-12-09 ,Ndhiwa - LAM,26,26,Ndhiwa - LAM,Ndhiwa - LAM
+19,19,2013-12-09 ,2013-12-09 ,Chiradzulu - LAM,26,26,Chiradzulu - LAM,Chiradzulu - LAM
+20,20,2013-12-09 ,2013-12-09 ,RDC - LAM,26,26,RDC - LAM,RDC - LAM
+21,21,2013-12-09 ,2013-12-09 ,Materiel communication,63,63,Materiel communication,Materiel communication
+22,22,2014-12-02 ,2014-12-02 ,Hébergement,63,63,Hébergement,Hébergement
+23,23,2013-12-09 ,2013-12-09 ,Perdiem guest JS,63,63,Perdiem guest JS,Perdiem guest JS
+24,24,2013-12-09 ,2013-12-09 ,DSMB and Scientific Committee,43,43,DSMB and Scientific Committee,DSMB and Scientific Committee
+25,25,2013-12-19 ,2013-12-19 ,ARCOLE,65,65,Données comptables,Accounting data
+26,26,2014-02-06 ,2014-02-06 ,Coûts administratifs,58,58,Coûts administratifs,Coûts administratifs
+27,27,2014-02-06 ,2014-02-06 ,Coûts de structure,58,58,Coûts de structure,Coûts de structure
+28,28,2014-11-27 ,2014-11-27 ,REPART,60,60,A répartir,To share out
+29,29,2014-12-02 ,2014-12-02 ,Achat non médicaux,63,63,Achat non médicaux,Achat non médicaux
+30,30,2014-12-02 ,2014-12-02 ,Frais de fonctionnement,63,63,Frais de fonctionnement,Frais de fonctionnement
+31,31,2014-12-02 ,2014-12-02 ,Services sous-traités,63,63,Services sous-traités,Services sous-traités
+32,32,2014-12-02 ,2014-12-02 ,Transport,63,63,Transport,Transport
+33,33,2014-12-02 ,2014-12-02 ,Frais de personnel,63,63,Frais de personnel,Frais de personnel
+34,34,2014-12-02 ,2014-12-02 ,Autres charges du personnel,63,63,Autres charges du personnel,Autres charges du personnel
+35,35,2014-12-03 ,2014-12-03 ,Medical Items,2,2,Medical Items,Medical Items
+36,36,2015-04-03 ,2015-04-03 ,Training,79,79,Training,Training
+37,37,2015-04-08 ,2015-04-08 ,Laboratory consumables,39,39,Laboratory consumables,Laboratory consumables
+38,38,2015-12-08 ,2015-12-08 ,Décentralisé,60,60,Décentralisé,Décentralisé
+39,39,2015-12-09 ,2015-12-09 ,Formation,59,59,Formation,Formation
+40,40,2016-04-06 ,2016-04-06 ,Coordination scientifique,63,63,Coordination scientifique,Coordination scientifique
+41,41,2016-04-06 ,2016-04-06 ,Préparation JS,63,63,Préparation JS,Préparation JS
+42,42,2016-04-06 ,2016-04-06 ,assurance,47,47,assurance,assurance
+43,43,2016-04-07 ,2016-04-07 ,Logistique,63,63,Logistique,Logistique
+44,44,2016-10-12 ,2016-10-12 ,Laboratory analysis,2,2,Laboratory analysis,Laboratory analysis
+45,45,2016-10-13 ,2016-10-13 ,Achats médicaux,56,56,Achats médicaux,Achats médicaux
+46,46,2016-10-13 ,2016-10-13 ,Achat d'articles médicaux,56,56,Achat d'articles médicaux,Achat d'articles médicaux
+47,47,2016-10-14 ,2016-10-14 ,Vente d'équipements,56,56,Vente d'équipements,Vente d'équipements
+48,48,2016-10-28 ,2016-10-28 ,External Laboratory services,9,9,External Laboratory services,External Laboratory services
+49,49,2016-10-31 ,2016-10-31 ,Administration,89,89,Administration,Administration
+50,50,2016-10-31 ,2016-10-31 ,Human resources,89,89,Human resources,Human resources
+51,51,2016-11-10 ,2016-11-10 ,ETUDE PRINCIPALE,56,56,ETUDE PRINCIPALE,ETUDE PRINCIPALE
+52,52,2016-11-10 ,2016-11-10 ,SOUS-ETUDE,56,56,SOUS-ETUDE,SOUS-ETUDE
+53,53,2017-03-02 ,2017-03-02 ,Objective 1,4,4,Objective 1,Objective 1
+54,54,2017-03-02 ,2017-03-02 ,Objective 2,4,4,Objective 2,Objective 2
+55,55,2017-03-02 ,2017-03-02 ,Objective 3 ,4,4,Objective 3 ,Objective 3 
+56,56,2017-05-26 ,2017-05-26 ,Authorizations,2,2,Authorizations,Authorizations
+57,57,2017-10-27 ,2017-10-27 ,general running costs,2,2,general running costs,general running costs
+58,58,2017-10-30 ,2017-10-30 ,Incentive pour participants,25,25,Incentive pour participants,Incentive pour participants
+59,59,2017-10-30 ,2017-10-30 ,incentives,25,25,incentives,incentives
+60,60,2017-11-03 ,2017-11-03 ,Non medical items,80,80,Non medical items,Non medical items
+61,61,2017-11-03 ,2017-11-03 ,Purchase of non medical items,80,80,Purchase of non medical items,Purchase of non medical items
+62,62,2017-11-03 ,2017-11-03 ,Staff costs,80,80,Staff costs,Staff costs
+63,63,2017-11-07 ,2017-11-07 ,Supervision Sites,53,53,Supervision Sites,Supervision Sites
+64,64,2017-11-07 ,2017-11-07 ,Supervision,53,53,Supervision,Supervision
+65,65,2017-11-07 ,2017-11-07 ,Supervision site,53,53,Supervision site,Supervision site
+66,66,2018-02-22 ,2018-02-22 ,billet,40,40,billet,billet
+67,67,2018-05-15 ,2018-05-15 ,Purcahse of medical items,80,80,Purcahse of medical items,Purcahse of medical items
+68,68,2018-05-15 ,2018-05-15 ,Purchase of Medical Items,80,80,Purchase of Medical Items,Purchase of Medical Items
+69,69,2018-05-16 ,2018-05-16 ,Subcontracted services,80,80,Subcontracted services,Subcontracted services
+70,70,2018-05-16 ,2018-05-16 ,Miscellaneous expenses,80,80,Miscellaneous expenses,Miscellaneous expenses
+71,71,2018-10-12 ,2018-10-12 ,All round Logistician ,55,55,All round Logistician ,All round Logistician 
+72,72,2018-10-12 ,2018-10-12 ,Finance Manager Assistant,55,55,Finance Manager Assistant,Finance Manager Assistant
+73,73,2019-06-14 ,2019-06-14 ,,65,65,Inconnu,Unknown
+74,74,2019-10-25 ,2019-10-25 ,Traduction,25,25,Traduction,Traduction
+75,75,2020-08-25 ,2020-08-25 ,Field mentor,112,112,Field mentor,Field mentor
+76,76,2020-12-06 ,2020-12-06 ,Rémunération du personnel,161,161,Rémunération du personnel,Rémunération du personnel

@@ -1,0 +1,14 @@
+rownames,health_structure_id,created,modified,code,created_by_id,last_modification_by_id,text_fr,text_en
+1,1,2018-07-18 ,2018-07-18 ,str-ipd,,,Hospitalisation,IPD
+2,2,2018-07-18 ,2018-07-18 ,'str-er,,,Salle d'urgence,Emergency Room
+3,3,2018-07-18 ,2018-07-18 ,'str-opd,,,Consultations,OPD
+4,4,2018-07-18 ,2018-07-18 ,'str-sur,,,Chirurgie,Surgery
+5,5,2018-07-18 ,2018-07-18 ,'str-ped,,,Pédiatrie,Paediatrics
+6,6,2018-07-18 ,2018-07-18 ,'str-mat,,,Maternité,Maternity
+7,7,2018-07-18 ,2018-07-18 ,'str-itfc,,,Centre intensif nutrition,ITFC
+8,8,2018-07-18 ,2018-07-18 ,'str-cholera,,,Centre Choléra,Cholera Centre
+9,9,2018-07-18 ,2018-07-18 ,'str-epidemic,,,Centre traitement épidémie,Epidemic Treatment Centre
+10,10,2018-07-18 ,2018-07-18 ,'str-lab,,,Laboratoire,Laboratory
+11,11,2018-07-18 ,2018-07-18 ,'str-mul,,,Multiple,Multiple
+12,12,2018-07-18 ,2018-07-18 ,'str-hyg,,,Hygiène,Hygiene
+13,13,2018-07-18 ,2018-07-18 ,'str-other,,,Autre,Other

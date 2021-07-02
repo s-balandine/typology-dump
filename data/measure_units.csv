@@ -1,0 +1,9 @@
+rownames,measure_unit_id,created,modified,code,created_by_id,last_modification_by_id,text_fr,text_en
+1,1,2013-11-08 ,2013-11-08 ,kg,,,kg,kg
+2,2,2013-11-08 ,2013-11-08 ,mo,,,Mois,Month
+3,3,2013-11-08 ,2015-06-19 ,day,,97,Jours,Days
+4,4,2013-11-08 ,2013-11-08 ,uni,,,Unité,Unit
+5,5,2013-11-08 ,2015-06-17 ,sam,,97,Echantillon,Sample
+6,6,2013-11-08 ,2013-11-08 ,yea,,,Année,Year
+7,7,2013-11-08 ,2013-11-08 ,gl,,,Gallon,Gallon
+8,8,2013-11-08 ,2015-06-17 ,li,,97,Litre,Litre

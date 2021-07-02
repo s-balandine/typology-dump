@@ -1,8 +1,0 @@
-rownames,trigger_id,created,modified,code,created_by_id,last_modification_by_id,text_fr,text_en
-1,1,2018-07-18 ,2018-07-18 ,tri_displacement,,,Déplacement population,Population displacement
-2,2,2018-07-18 ,2018-07-18 ,tri_outbreak,,,Epidémie,Outbreak
-3,3,2018-07-18 ,2018-07-18 ,tri_famine,,,Malnutrition ou famine,Malnutrition or famine
-4,4,2018-07-18 ,2018-07-18 ,tri_disaster,,,Catastrophe naturelle,Natural disaster
-5,5,2018-07-18 ,2018-07-18 ,tri_war,,,Guerre,War
-6,6,2018-07-18 ,2018-07-18 ,tri_improv,,,Besoin d'amélioration,Need for improvement
-7,7,2018-07-18 ,2018-07-18 ,tri_other,,,Autre,Other

@@ -1,5 +1,0 @@
-rownames,study_design_id,created,modified,code,created_by_id,last_modification_by_id,text_fr,text_en
-1,1,2018-07-18 ,2018-07-18 ,des_quant,,,Quantitatif ,Quantitative only
-2,2,2018-07-18 ,2018-07-18 ,des_qual,,,Qualitatif,Qualitative only
-3,3,2018-07-18 ,2018-07-18 ,des_mix,,,Mixte,Mixed
-4,4,2018-07-18 ,2018-07-18 ,des-other,,,Autre,Other

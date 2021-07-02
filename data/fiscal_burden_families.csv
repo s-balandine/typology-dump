@@ -1,0 +1,17 @@
+rownames,fiscal_burden_family_id,created,modified,code,created_by_id,last_modification_by_id,text_fr,text_en
+1,1,2013-11-08 ,2013-11-08 ,AMED,,,Achats médicaux,Purchase of medical items
+2,2,2013-11-08 ,2013-11-08 ,ANME,,,Achats non médicaux,Purchase of non medical items
+3,3,2013-11-08 ,2013-11-08 ,ATLO,,,Achat de terrain et locaux,Purchase of land and facilities
+4,4,2013-11-08 ,2013-11-08 ,SSTR,,,Services sous-traités,Subcontracted services
+5,5,2013-11-08 ,2013-11-08 ,TRAN,,,Transport,Transportation
+6,6,2013-11-08 ,2013-11-08 ,FFON,,,Frais de fonctionnement,General running costs
+7,7,2013-11-08 ,2013-11-08 ,FPER,,,Frais de personnel,Staff costs
+8,8,2013-11-08 ,2013-11-08 ,RECE,,,Recette,Income
+9,9,2013-11-08 ,2013-11-08 ,EXPE,,,Expertise,Expertise
+10,10,2013-12-05 ,2013-12-05 ,COUO,60,60,Coûts opérationnels,Operational costs
+11,11,2013-12-20 ,2013-12-20 ,Z0000,,,Hors du D2,Not in D2
+12,12,2013-12-20 ,2013-12-20 ,HEAD,60,60,Dépenses siège,Headquarters costs
+13,14,2014-02-05 ,2014-02-05 ,DOTA,60,60,Dotations,Depreciation
+14,15,2015-03-19 ,2015-03-19 ,OVERHEAD,60,60,Overhead,Overhead
+15,16,2017-10-12 ,2017-10-12 ,AUTGEST,60,60,Autres charges de gestion courante,Miscellaneous expenses
+16,17,2018-02-13 ,2018-02-13 ,REC,60,60,Recettes,Income

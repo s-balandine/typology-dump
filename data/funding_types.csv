@@ -1,0 +1,4 @@
+rownames,funding_type_id,created,modified,code,enable_rate_funding,created_by_id,last_modification_by_id,text_fr,text_en,enable_value_funding,only_for_admin
+1,1,2013-11-08 ,2016-12-21 ,rate,1,,43,Par pourcentage,By percentage,0,0
+2,2,2013-11-08 ,2016-12-23 ,nofunding,0,,60,Sans financement,No funding,0,1
+3,3,2013-11-08 ,2016-12-23 ,amount,0,,60,Par montant,By amount,1,1

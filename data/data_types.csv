@@ -1,0 +1,7 @@
+rownames,data_type_id,created,modified,code,created_by_id,last_modification_by_id,text_fr,text_en
+1,1,2018-07-18 ,2018-07-18 ,dat_routine,,,Routine,Routine 
+2,2,2018-07-18 ,2018-07-18 ,dat_program,,,Programme,Programme
+3,3,2018-07-18 ,2018-07-18 ,dat_study,,,Etude,Study 
+4,4,2018-07-18 ,2018-07-18 ,dat_mix,,,Mix,Mix (Programme or routine) + study)
+5,5,2018-07-18 ,2018-07-18 ,dat_secondanalyse,,,Analyses secondaire des données,Secondary Data Analyses 
+6,6,2018-07-18 ,2018-07-18 ,dat_na,,,N/A,N/A

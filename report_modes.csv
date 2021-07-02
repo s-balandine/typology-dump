@@ -1,6 +1,0 @@
-rownames,report_mode_id,invariant_id,user_control_path,name_fr,name_en
-1,1,PivotGrid,~\Fwamework\Reports\UserControls\PivotViewUserControl.ascx,Tableau croisé,Pivot
-2,2,Grid,~\Fwamework\Reports\UserControls\GridViewUserControl.ascx,Tableau,Grid
-3,3,Timeline,~\Fwamework\ReportTimeline\TimelineViewUserControl.ascx,Timeline,Timeline
-4,4,Html,~\Fwamework\ReportHtmlView\HtmlViewUserControl.ascx,Html vue,Html view
-5,5,Calendar,~\Fwamework\ReportCalendar\CalendarUserControl.ascx,Calendrier,Calendar

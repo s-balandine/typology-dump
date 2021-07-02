@@ -1,0 +1,1 @@
+C:/PROGRA~1/R/R-35~1.0/bin/Rscript.exe "C:\Users\Administrateur\Desktop\typology\cron1.R"

@@ -1,0 +1,23 @@
+rownames,final_impact_id,created,modified,code,created_by_id,last_modification_by_id,text_fr,text_en
+1,1,2018-07-18 ,2018-07-18 ,imp_guideloc,,,Guidelines/Protocoles locaux,Local guidelines/protocols
+2,2,2018-07-18 ,2018-07-18 ,imp_guide,,,Guidelines & politiques,Guideline or policy
+3,3,2018-07-18 ,2018-07-18 ,imp_guidewho,,,Guideline ou politique OMS,WHO Guideline or policy
+4,4,2018-07-18 ,2018-07-18 ,imp_guidenat,,,Guideline ou politique nationaux,National Guideline or policy
+5,5,2018-07-18 ,2018-07-18 ,imp_guideother,,,Guideline ou politique utres organisations,Other organization guideline or policy
+6,6,2018-07-18 ,2018-07-18 ,imp_eml,,,Liste Médicaments Essentiels,Essential Medicine List
+7,7,2018-07-18 ,2018-07-18 ,imp_nr,,,Nouvelle recherche,New research
+8,8,2018-07-18 ,2018-07-18 ,imp_newfund,,,Nouveaux Financements pour Recherche,New funding for further research
+9,9,2018-07-18 ,2018-07-18 ,imp_conf,,,Conferences,Conferences
+10,10,2018-07-18 ,2018-07-18 ,imp_media,,,Media,Media
+11,11,2018-07-18 ,2018-07-18 ,imp_meetwho,,,Meeting OMS,OMS meeting
+12,12,2018-07-18 ,2018-07-18 ,imp_advodoc,,,Documentation pour témoignage,Documentation for advocacy
+13,13,2018-07-18 ,2018-07-18 ,imp_opadfield,,,Guidance opérationnelle Terrain,Direct operational advice for field teams
+14,14,2018-07-18 ,2018-07-18 ,imp_survreinf,,,Renforcement de la surveillance,Reinforce surveillance
+15,15,2018-07-18 ,2018-07-18 ,imp_capimp,,,"Amélioration compétences via formation ou ""mentoring""", Improve capacity via training or mentoring
+16,16,2018-07-18 ,2018-07-18 ,imp_newprodlic,,,Contribution à l'enregistrement (nouveau produit), Contribute to licensure of a new product
+17,17,2018-07-18 ,2018-07-18 ,imp_testval,,,Validation d'un test ou d'une échelle de dépistage,Validate a test or screening scale
+18,18,2018-07-18 ,2018-07-18 ,imp_stakepres,,,Présentation Acteurs Importants,Presentation to stakeholders
+19,19,2018-07-18 ,2018-07-18 ,imp_surveysat,,,Enquête de Satisfaction (Formation),Satisfaction survey (training)
+20,20,2018-07-18 ,2018-07-18 ,imp_survimp,,,Enquête dimpact (Formation),Impact survey (training)
+21,21,2018-07-18 ,2018-07-18 ,imp_epitools,,,Amélioration ou création d'outils Epicentre,Improvement or creation of Epicentre tools
+22,22,2018-07-18 ,2018-07-18 ,imp_other,,,Autre,Other
