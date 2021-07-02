@@ -65,15 +65,7 @@ for(i in 1:nrow(tables)) {
   })
 }
 
-
-repo <- repository('dump')
-
-config(repo, 
-       user.name = "Serge Balandine",
-       user.email = "serge.balandine@epicentre.msf.org")
-config(repo)
-
 Sys.setenv(GITHUB_PAT="97cc6bf86c31a42fca2de32884cd1f1c4b1102ba")
 
-commit(repo, '.', all=T)
-push(repo, credentials = cred_token())
+system2('git', 'commit -ma "."')
+system2('git', 'push')
