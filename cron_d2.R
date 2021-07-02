@@ -47,7 +47,7 @@ dumpTable<-function(tablename){
     df<-dplyr::mutate(df, rownames = as.integer())
   }
   df<-dplyr::select(df, rownames, dplyr::everything())
-  readr::write_csv(df,path=sprintf('C:/Users/Administrateur/Desktop/typology/dump/%s.csv',tolower(tablename)), na = '')
+  readr::write_csv(df,path=sprintf('C:/Users/Administrateur/Desktop/typology/data/%s.csv',tolower(tablename)), na = '')
   
 }
 
