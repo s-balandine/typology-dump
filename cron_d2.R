@@ -7,10 +7,12 @@ setwd('C:/Users/Administrateur/Desktop/typology')
 
 RODBC::odbcCloseAll()
 
+# 10.129.22.187 OLD SERVER=10.129.16.51;
+
 rodbc<-NULL
 rodbc<-RODBC::odbcDriverConnect(
   "DRIVER={ODBC Driver 13 for SQL Server};
-  SERVER=10.129.16.51;
+  SERVER=10.129.22.187;
   Database=d2epicentre;
   uid=FWA_ro;
   pwd=LWs5gt#9jU7d")
