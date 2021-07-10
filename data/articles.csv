@@ -164,7 +164,7 @@ rownames,article_id,created,modified,code,editable_price,created_by_id,last_modi
 163,163,2013-11-15 ,2013-12-09 ,AR163,1,60,60,20,2,Responsable IT,IT manager
 164,164,2013-11-15 ,2017-09-07 ,AR164,1,60,60,4,4,Articles de secours,Emergency articles
 165,165,2013-11-15 ,2015-04-03 ,AR165,1,60,60,17,4,Consultant,Consultant
-166,166,2013-11-15 ,2013-11-15 ,AR166,0,60,60,20,2,Gestionnaire de stock Pharmacie,Pharmacy stock manager
+166,166,2013-11-15 ,2021-07-09 ,AR166,1,60,176,20,2,Gestionnaire de stock Pharmacie,Pharmacy stock manager
 167,167,2013-11-18 ,2013-11-18 ,AR167,1,60,60,20,2,Maître de recherche,Senior research associate
 168,168,2013-11-18 ,2013-11-18 ,AR168,1,60,60,20,2,Assistant de recherche junior,Junior research assistant
 169,169,2013-11-18 ,2013-11-18 ,AR169,1,60,60,20,2,Infirmière en chef,Head nurse
@@ -219,11 +219,11 @@ rownames,article_id,created,modified,code,editable_price,created_by_id,last_modi
 218,222,2013-11-25 ,2013-11-25 ,AR218,1,60,60,27,4,Autres services sous-traités,Other subcontracted services
 219,223,2013-11-27 ,2013-11-27 ,AR219,1,60,60,20,2,Travailleur social,Social worker
 220,224,2013-12-09 ,2013-12-09 ,AR220,1,60,60,20,2,Stagiaire,Internship
-221,225,2013-12-20 ,2014-04-15 ,Z0000,0,,65,31,4,Hors D2,Not in D2
+221,225,2013-12-20 ,2021-07-09 ,Z0000,1,,176,31,4,Hors D2,Not in D2
 222,226,2013-12-20 ,2013-12-20 ,AR221,1,60,60,31,4,Siège,Headquarters
 223,227,2014-01-03 ,2014-01-03 ,AR222,1,60,60,33,4,Dépenses diverses,Other expenses
 224,228,2014-02-05 ,2016-07-11 ,AR223,1,60,60,34,,Dotations,Depreciation
-225,229,2014-02-05 ,2014-02-05 ,AR224,0,60,60,35,4,Dotations provision financement,Dotations provision financement
+225,229,2014-02-05 ,2021-07-09 ,AR224,1,60,176,35,4,Dotations provision financement,Dotations provision financement
 226,230,2014-06-23 ,2016-06-10 ,AR225,1,60,60,20,2,Superviseur gardiens,Head watchman/head guard
 227,231,2014-06-23 ,2014-06-23 ,AR226,1,60,60,20,2,Superviseur transport,Transport Supervisor
 228,232,2014-07-24 ,2014-07-24 ,AR227,1,56,56,20,2,Communicateur,Communicateur
@@ -334,18 +334,18 @@ rownames,article_id,created,modified,code,editable_price,created_by_id,last_modi
 333,344,2018-07-24 ,2018-07-24 ,ARHYG,1,60,60,20,2,Hygieniste,Hygienist
 334,345,2018-10-19 ,2018-10-19 ,ARLOGICIEL,1,60,60,6,2,Logiciel ,Software
 335,346,2019-09-19 ,2019-09-19 ,ARSPLIT,1,60,60,5,4,Split,Split
-336,347,2020-10-13 ,2020-10-13 ,RS,0,165,165,20,,Référent scientifique ,Scientific referent 
+336,347,2020-10-13 ,2021-07-09 ,RS,1,165,176,20,,Référent scientifique ,Scientific referent 
 337,349,2020-10-23 ,2021-03-12 ,WS,1,165,176,17,4,Site Web,Website
 338,350,2020-10-23 ,2021-03-12 ,O365,1,165,176,17,4,O365,O365
-339,351,2021-04-27 ,2021-04-27 ,ARPHAR,0,140,140,20,2,Pharmacovigilance officer,Pharmacovigilance officer
-340,352,2021-04-27 ,2021-04-27 ,ARDAT,0,140,140,20,2,Data protection manager,Data protection manager
-341,354,2021-04-27 ,2021-04-27 ,ARDAT2,0,140,140,20,2,Data visualization,Data visualization
-342,355,2021-04-27 ,2021-04-27 ,ARSTA,0,140,140,20,2,Senior statistician,Senior statistician
-343,356,2021-04-27 ,2021-04-27 ,ARFIN,0,140,140,20,2,Grant manager,Grant manager
-344,357,2021-04-27 ,2021-04-27 ,ARRES,0,140,140,20,2,Clinical research associate,Clinical research associate
-345,358,2021-04-27 ,2021-04-27 ,ARSUP,0,140,140,20,2,Senior supervisor,Senior supervisor
-346,359,2021-04-27 ,2021-04-27 ,ARSTU,0,140,140,20,2,Study assistant,Study assistant
-347,360,2021-04-27 ,2021-04-27 ,ARDAT3,0,140,140,20,2,Data science coordinator,Data science coordinator
-348,361,2021-04-27 ,2021-04-27 ,ARCO,0,140,140,20,2,Coordinateur projet,Coordinateur projet
-349,362,2021-04-27 ,2021-04-27 ,ARFIN2,0,140,140,20,2,Responsable financier,Responsable financier
-350,363,2021-04-30 ,2021-04-30 ,ARSTA1,0,140,140,20,2,Statisticien,Statisticien
+339,351,2021-04-27 ,2021-07-09 ,ARPHAR,1,140,176,20,2,Pharmacovigilance officer,Pharmacovigilance officer
+340,352,2021-04-27 ,2021-07-09 ,ARDAT,1,140,176,20,2,Data protection manager,Data protection manager
+341,354,2021-04-27 ,2021-07-09 ,ARDAT2,1,140,176,20,2,Data visualization,Data visualization
+342,355,2021-04-27 ,2021-07-09 ,ARSTA,1,140,176,20,2,Senior statistician,Senior statistician
+343,356,2021-04-27 ,2021-07-09 ,ARFIN,1,140,176,20,2,Grant manager,Grant manager
+344,357,2021-04-27 ,2021-07-09 ,ARRES,1,140,176,20,2,Clinical research associate,Clinical research associate
+345,358,2021-04-27 ,2021-07-09 ,ARSUP,1,140,176,20,2,Senior supervisor,Senior supervisor
+346,359,2021-04-27 ,2021-07-09 ,ARSTU,1,140,176,20,2,Study assistant,Study assistant
+347,360,2021-04-27 ,2021-07-09 ,ARDAT3,1,140,176,20,2,Data science coordinator,Data science coordinator
+348,361,2021-04-27 ,2021-07-09 ,ARCO,1,140,176,20,2,Coordinateur projet,Coordinateur projet
+349,362,2021-04-27 ,2021-07-09 ,ARFIN2,1,140,176,20,2,Responsable financier,Responsable financier
+350,363,2021-04-30 ,2021-07-09 ,ARSTA1,1,140,176,20,2,Statisticien,Statisticien
