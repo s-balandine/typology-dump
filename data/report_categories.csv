@@ -1,7 +1,8 @@
-rownames,report_category_id,invariant_id,name_fr,name_en
-1,1,ComptageJours,Comptage jours,Days sheet
-2,2,Projects,Projets,Projects
-3,3,Dicos,Référentiels,Dictionnaries
-4,4,Paye,Paye,Salary
-5,5,Budget,Budget,Budget
-6,6,DataControl,Contrôle des données,Data control
+rownames,report_category_id,invariant_id,name_fr,name_en,order_index
+1,1,ComptageJours,Comptage jours,Days sheet,3
+2,2,Projects,Projets,Projects,4
+3,3,Dicos,Référentiels,Dictionnaries,1
+4,4,Paye,Paye,Salary,6
+5,5,Budget,Budget,Budget,5
+6,6,DataControl,Contrôle des données,Data control,2
+7,7,Dev,Rapports en cours de dev (réservé admin),Reports in progress (only for admin),99
