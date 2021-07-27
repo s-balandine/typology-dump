@@ -2,7 +2,7 @@ rownames,report_parameter_id,external_id,caption,default_value,is_readonly,popul
 1,1,1,Période début,,0,select convert(varchar(20) start_date 111) as datevalue  convert(varchar(4)  year(start_date)) + '-' + right('0' + convert(varchar(2)  month(start_date)) 2) as perioddate from periods order by start_date desc,2,,
 2,2,2,Période fin,,0,select convert(varchar(20) start_date 111) as datevalue  convert(varchar(4)  year(start_date)) + '-' + right('0' + convert(varchar(2)  month(start_date)) 2) as perioddate from periods order by start_date desc,2,,
 3,3,3,Centre opérationnel,,0,select financer_id  [name] from financers order by [name],2,,
-4,4,4,Session projets détail,,0,select session_id  [name]  from d2session where code='Projet' order by session_id desc,2,,
+4,4,4,Session projets réalisé,,0,select session_id  [name]  from d2session where code='Projet' order by session_id desc,2,,
 5,5,5,Session projets référence 1,,0,select session_id  [name]  from d2session where code='Projet' order by session_id desc,2,,
 6,6,6,Session projets référence 2,,0,select session_id  [name]  from d2session where code='Projet' order by session_id desc,2,,
 7,7,7,Session projets référence 3,,0,select session_id  [name]  from d2session where code='Projet' order by session_id desc,2,,
