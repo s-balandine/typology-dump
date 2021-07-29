@@ -17,3 +17,4 @@ rownames,report_field_description_id,external_id,format,url,width,font_color,pol
 16,16,Sum1,# ##0.00,,,,,0,1,5,,,0,0,0,0,1,,1,
 17,17,MultiText,,,,,,0,1,0,,,0,0,0,0,0,,0,2
 18,18,MultiDate,,,,,,0,1,0,,,0,0,0,0,0,,0,3
+19,19,MultiYear,0,,,,,0,1,0,,,0,0,0,0,0,,0,2

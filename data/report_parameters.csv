@@ -13,3 +13,5 @@ rownames,report_parameter_id,external_id,caption,default_value,is_readonly,popul
 12,12,12,Session paye référence 2,,0,select session_id  [name]  from d2session where code='Paye' order by session_id desc,2,,
 13,13,13,Session paye référence 3,,0,select session_id  [name]  from d2session where code='Paye' order by session_id desc,2,,
 14,14,14,Session projets initiale,,0,select session_id  [name]  from d2session where code='Projet' order by session_id desc,2,,
+15,16,15,Année début,2021,0,SELECT DISTINCT ITEM_YEAR AS year1  ITEM_YEAR AS year2 FROM ArcoleItemsD2 ORDER BY ITEM_YEAR,2,,1
+16,17,16,Année fin,2021,0,SELECT DISTINCT ITEM_YEAR AS year1  ITEM_YEAR AS year2 FROM ArcoleItemsD2 ORDER BY ITEM_YEAR,2,,
