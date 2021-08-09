@@ -199,4 +199,4 @@ rownames,user_id,created,modified,email,password,first_name,last_name,phone,acti
 198,198,2021-06-18 ,2021-06-29 ,ERIC.ROCHE@EPICENTRE.MSF.ORG,cQanOND3Nmg=,Eric,ROCHE,,1,1,0,fr-FR,2021-06-29 ,194,185,
 199,199,2021-07-30 ,2021-07-30 ,Mathilde.mousset@epicentre.msf.org,H1roTfNKgqaN3vpKRVGrpA==,Mathilde,Mousset,,1,1,0,fr-FR,,116,161,161
 200,200,2021-07-30 ,2021-07-30 ,patrick.barks@epicentre.msf.org,H1roTfNKgqaN3vpKRVGrpA==,Patrick,Barks,,1,1,0,fr-FR,,116,161,161
-201,201,2021-08-06 ,2021-08-06 ,Epi-admin-D2@epicentre.msf.org ,mB+Kf9eWmkM=,Amanda,LOVELL,,1,1,1,fr-FR,,19,185,176
+201,201,2021-08-06 ,2021-08-06 ,Epi-admin-D2@epicentre.msf.org ,mB+Kf9eWmkM=,Amanda,LOVELL,,1,1,1,fr-FR,2021-08-08 ,19,185,176
