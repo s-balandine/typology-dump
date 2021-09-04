@@ -1899,3 +1899,437 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 1898,1920,2018-10-18 ,2018-10-18 ,AR264_Doors repairs/replacement ,Doors repairs/replacement ,1,55,55,,272
 1899,1921,2018-10-18 ,2018-10-18 ,AR193_Replacement Filters for the millipore Elix,Replacement Filters for the millipore Elix,1,55,55,,197
 1900,1922,2018-10-18 ,2018-10-18 ,AR193_Pipette stands,Pipette stands,1,55,55,,197
+1901,1923,2018-10-18 ,2018-10-18 ,AR193_Brady Label printer,Brady Label printer,1,55,55,,197
+1902,1924,2018-10-18 ,2018-10-18 ,AR193_Sample carrier boxes,Sample carrier boxes,1,55,55,,197
+1903,1925,2018-10-18 ,2018-10-18 ,AR193_Spare parts for refrigerated centrifuge-TB Lab,Spare parts for refrigerated centrifuge-TB Lab,1,55,55,,197
+1904,1926,2018-10-18 ,2018-10-18 ,AR120_Sample carrier envelopes,Sample carrier envelopes,1,55,55,,120
+1905,1927,2018-10-18 ,2018-10-18 ,AR120_General lab cleaning/disinfection materials ,General lab cleaning/disinfection materials ,1,55,55,,120
+1906,1928,2018-10-18 ,2018-10-18 ,AR262_Autoclave performance QC (Spores),Autoclave performance QC (Spores),1,55,55,,270
+1907,1929,2018-10-18 ,2018-10-18 ,AR31_Printers for BACTEC MGIT  BACTEC 9240  GeneXPERT  SYXMEX TAQMAN 48,Printers for BACTEC MGIT  BACTEC 9240  GeneXPERT  SYXMEX TAQMAN 48,1,55,55,,31
+1908,1930,2018-10-18 ,2018-10-18 ,AR32_General Lab ,General Lab ,1,55,55,,32
+1909,1931,2018-10-19 ,2018-10-19 ,AR54_Pharmacy support,Pharmacy support,1,55,55,,54
+1910,1932,2018-10-23 ,2018-10-23 ,AR54_Pharmacy support from OCP ,Pharmacy support from OCP ,1,55,55,,54
+1911,1933,2018-10-23 ,2018-10-23 ,AR7_Internal Auditing,Internal Auditing,1,55,55,,7
+1912,1934,2018-10-23 ,2018-10-23 ,AR7_AMREF Malaria Microcopy (Invite trainer),AMREF Malaria Microcopy (Invite trainer),1,55,55,,7
+1913,1935,2018-10-23 ,2018-10-23 ,AR7_ANREC,ANREC,1,55,55,,7
+1914,1936,2018-10-23 ,2018-10-23 ,AR7_Supply log - medical supply training ,Supply log - medical supply training ,1,55,55,,7
+1915,1937,2018-10-23 ,2018-10-23 ,AR7_HRCo Week ,HRCo Week ,1,55,55,,7
+1916,1938,2018-10-23 ,2018-10-23 ,AR54_Conrad,Conrad,1,55,55,,54
+1917,1939,2018-10-23 ,2018-10-23 ,AR54_Dr.Conrad,Dr.Conrad,1,55,55,,54
+1918,1940,2018-10-23 ,2018-10-23 ,AR54_Dr Marion from Kabale,Dr Marion from Kabale,1,55,55,,54
+1919,1941,2018-10-23 ,2018-10-23 ,AR191_Country Trial Manager,Country Trial Manager,1,55,55,,195
+1920,1942,2018-10-23 ,2018-10-23 ,AR191_,"",1,55,55,,195
+1921,1943,2018-10-23 ,2018-10-23 ,AR312_Country Trial Manager,Country Trial Manager,1,55,55,,323
+1922,1944,2018-10-23 ,2018-10-23 ,AR193_GenXpert module,GenXpert module,1,55,55,,197
+1923,1945,2018-10-23 ,2018-10-23 ,AR7_MURTI molecular biology training,MURTI molecular biology training,1,55,55,,7
+1924,1946,2018-10-23 ,2018-10-23 ,AR7_Biosafety & Biosecurity,Biosafety & Biosecurity,1,55,55,,7
+1925,1947,2018-10-23 ,2018-10-23 ,AR7_Sheilah Mbabazi_BNS,Sheilah Mbabazi_BNS,1,55,55,,7
+1926,1948,2018-10-23 ,2018-10-23 ,AR21_Equipement,Equipement,1,140,140,,21
+1927,1949,2018-10-23 ,2018-10-23 ,AR103_reprise cablage reseau et téléphonique,reprise cablage reseau et téléphonique,1,140,140,,103
+1928,1950,2018-10-23 ,2018-10-23 ,AR203_Maisons,Maisons,1,140,140,,207
+1929,1951,2018-10-23 ,2018-10-23 ,AR119_Support bactério,Support bactério,1,140,140,,119
+1930,1952,2018-10-23 ,2018-10-23 ,AR148_THINAN,THINAN,1,140,140,,148
+1931,1953,2018-10-23 ,2018-10-23 ,AR255_ISABELLE,ISABELLE,1,140,140,,263
+1932,1954,2018-10-23 ,2018-10-23 ,AR144_SAMAKE Moussa,SAMAKE Moussa,1,140,140,,144
+1933,1955,2018-10-23 ,2018-10-23 ,AR42_Hard top 4*4,Hard top 4*4,1,140,140,,42
+1934,1956,2018-10-23 ,2018-10-23 ,AR196_Equipement de bureau,Equipement de bureau,1,140,140,,200
+1935,1957,2018-10-23 ,2018-10-23 ,AR180_Equipement Radio,Equipement Radio,1,140,140,,182
+1936,1958,2018-10-23 ,2018-10-23 ,AR196_Réfrigérateurs,Réfrigérateurs,1,140,140,,200
+1937,1959,2018-10-23 ,2018-10-23 ,AR205_MAISONS,MAISONS,1,140,140,,209
+1938,1960,2018-10-23 ,2018-10-23 ,AR234_Bureaux,Bureaux,1,140,140,,239
+1939,1961,2018-10-23 ,2018-10-23 ,AR234_Maisons,Maisons,1,140,140,,239
+1940,1962,2018-10-23 ,2018-10-23 ,AR17_Bureaux,Bureaux,1,140,140,,17
+1941,1963,2018-10-23 ,2018-10-23 ,AR264_pharmacie,pharmacie,1,140,140,,272
+1942,1964,2018-10-23 ,2018-10-23 ,AR262_Instincteur,Instincteur,1,140,140,,270
+1943,1965,2018-10-23 ,2018-10-23 ,AR195_tenue de travail,tenue de travail,1,140,140,,199
+1944,1966,2018-10-23 ,2018-10-23 ,AR264_Plomberie,Plomberie,1,140,140,,272
+1945,1967,2018-10-23 ,2018-10-23 ,AR199_Clinique Magori,Clinique Magori,1,140,140,,203
+1946,1968,2018-10-23 ,2018-10-23 ,AR199_Pharmacie Bourja,Pharmacie Bourja,1,140,140,,203
+1947,1969,2018-10-23 ,2018-10-23 ,AR199_Pharmacie 17 Portes,Pharmacie 17 Portes,1,140,140,,203
+1948,1970,2018-10-23 ,2018-10-23 ,AR199_Clinique Tattali,Clinique Tattali,1,140,140,,203
+1949,1971,2018-10-24 ,2018-10-24 ,AR134_Laboratory reagent,Laboratory reagent,1,55,55,,134
+1950,1972,2018-10-24 ,2018-10-24 ,AR56_Accomodation + per diem for monitoring visits of the 2nd site,Accomodation + per diem for monitoring visits of the 2nd site,1,55,55,,56
+1951,1973,2018-10-24 ,2018-10-24 ,AR7_Annual National Research Ethics Conference,Annual National Research Ethics Conference,1,55,55,,7
+1952,1974,2018-10-24 ,2018-10-24 ,AR7_Countionous Quality Improvement,Countionous Quality Improvement,1,55,55,,7
+1953,1975,2018-10-24 ,2018-10-24 ,AR7_Monitoring clinical trials (Quintiles) ,Monitoring clinical trials (Quintiles) ,1,55,55,,7
+1954,1976,2018-10-24 ,2018-10-24 ,AR7_National Nurses's Day Celebration and Annual Scientific Conference (AGM),National Nurses's Day Celebration and Annual Scientific Conference (AGM),1,55,55,,7
+1955,1977,2018-10-24 ,2018-10-24 ,AR7_Annual Research Dissemination Conference organised by MUST,Annual Research Dissemination Conference organised by MUST,1,55,55,,7
+1956,1978,2018-10-24 ,2018-10-24 ,AR7_AHRMC - ADVANCED HR MANAGEMENT COURSE,AHRMC - ADVANCED HR MANAGEMENT COURSE,1,55,55,,7
+1957,1979,2018-10-24 ,2018-10-24 ,AR7_Counselling Training (Refresher and Follow-up)by consultant from MUST ,Counselling Training (Refresher and Follow-up)by consultant from MUST ,1,55,55,,7
+1958,1980,2018-10-24 ,2018-10-24 ,AR7_Micro Research Training by MNCHI ( Maternal Newborn and Child Health Institute) of MUST,Micro Research Training by MNCHI ( Maternal Newborn and Child Health Institute) of MUST,1,55,55,,7
+1959,1981,2018-10-24 ,2018-10-24 ,AR7_Human Subject Protection training by MUST (3 days training),Human Subject Protection training by MUST (3 days training),1,55,55,,7
+1960,1982,2018-10-24 ,2018-10-24 ,AR7_Infection control training,Infection control training,1,55,55,,7
+1961,1983,2018-10-24 ,2018-10-24 ,AR7_Infection control & Waste Management ,Infection control & Waste Management ,1,55,55,,7
+1962,1984,2018-10-24 ,2018-10-24 ,AR7_AHRMC or Leadership,AHRMC or Leadership,1,55,55,,7
+1963,1985,2018-10-24 ,2018-10-24 ,AR7_AHRMC/Leadership,AHRMC/Leadership,1,55,55,,7
+1964,1986,2018-10-24 ,2018-10-24 ,AR7_SANOU ,SANOU ,1,55,55,,7
+1965,1987,2018-10-25 ,2018-10-25 ,AR7_Watsan,Watsan,1,140,140,,7
+1966,1988,2018-10-25 ,2018-10-25 ,AR213_Visa de travail,Visa de travail,1,140,140,,217
+1967,1989,2018-10-25 ,2018-10-25 ,AR152_Pam,Pam,1,140,140,,152
+1968,1990,2018-10-25 ,2018-10-25 ,AR202_international,international,1,140,140,,206
+1969,1991,2018-10-25 ,2018-10-25 ,AR264_Zone de déchet,Zone de déchet,1,140,140,,272
+1970,1992,2018-10-25 ,2018-10-25 ,AR311_Souna,Souna,1,140,140,,322
+1971,1993,2018-10-25 ,2018-10-25 ,AR297_Doukoure,Doukoure,1,140,140,,307
+1972,1994,2018-10-25 ,2018-10-25 ,AR163_Hamza,Hamza,1,140,140,,163
+1973,1995,2018-10-26 ,2018-10-26 ,AR199_Contribution Epicentre au CHR,Contribution Epicentre au CHR,1,140,140,,203
+1974,1996,2018-10-30 ,2018-10-30 ,AR211_IBRAHIM,IBRAHIM,1,140,140,,215
+1975,1997,2018-11-05 ,2019-01-21 ,ARNEPA,Expertise - Estelle Pasquier,1,60,60,161,97
+1976,1998,2018-11-09 ,2018-11-09 ,AR199_MERES ACCOMPAGNANTES,MERES ACCOMPAGNANTES,1,140,140,,203
+1977,1999,2018-11-09 ,2018-11-09 ,AR211_ANCIENNETE,ANCIENNETE,1,140,140,,215
+1978,2000,2018-11-09 ,2018-11-09 ,AR196_Equipement Energie,Equipement Energie,1,140,140,,200
+1979,2001,2018-11-09 ,2018-11-09 ,AR7_THINAN,THINAN,1,140,140,,7
+1980,2002,2018-11-09 ,2018-11-09 ,AR7_SANA,SANA,1,140,140,,7
+1981,2003,2018-11-09 ,2018-11-09 ,AR7_Informatique,Informatique,1,140,140,,7
+1982,2004,2018-11-09 ,2018-11-09 ,AR7_instincteur,instincteur,1,140,140,,7
+1983,2005,2019-02-20 ,2019-02-20 ,AR1_Mateus KAMBALE,Mateus KAMBALE,1,55,55,,1
+1984,2006,2019-02-20 ,2019-02-20 ,AR1_Alaleh ABADPOUR,Alaleh ABADPOUR,1,55,55,,1
+1985,2007,2019-02-20 ,2019-02-20 ,AR1_Pharmacy Coordinator,Pharmacy Coordinator,1,55,55,,1
+1986,2008,2019-02-20 ,2019-02-20 ,AR1_Vaccine trial Coordinator,Vaccine trial Coordinator,1,55,55,,1
+1987,2009,2019-02-20 ,2019-02-20 ,AR144_Alaleh ABADPOUR,Alaleh ABADPOUR,1,55,55,,144
+1988,2010,2019-02-20 ,2019-02-20 ,AR1_Vaccine trials Coordinator,Vaccine trials Coordinator,1,55,55,,1
+1989,2011,2019-02-20 ,2019-02-20 ,AR235_Mateus KAMBALE,Mateus KAMBALE,1,55,55,,240
+1990,2012,2019-02-20 ,2019-02-20 ,AR5_Alaleh ABADPOUR,Alaleh ABADPOUR,1,55,55,,5
+1991,2013,2019-02-20 ,2019-02-20 ,AR5_Mateus KAMBALE,Mateus KAMBALE,1,55,55,,5
+1992,2014,2019-02-20 ,2019-02-20 ,AR63_DQOs,DQOs,1,55,55,,63
+1993,2015,2019-02-21 ,2019-02-21 ,ARTAB_MEMO/2 tablets  and 2 scanner,MEMO/2 tablets  and 2 scanner,1,55,55,,341
+1994,2016,2019-02-21 ,2019-02-21 ,AR10_Solar/Genset Back up power for cold chain,Solar/Genset Back up power for cold chain,1,55,55,,10
+1995,2017,2019-02-22 ,2019-02-22 ,AR7_Practical training in clinical data management by FHI,Practical training in clinical data management by FHI,1,55,55,,7
+1996,2018,2019-02-22 ,2019-02-22 ,AR312_Halidou,Halidou,1,140,140,,323
+1997,2019,2019-02-22 ,2019-02-22 ,AR211_Prime de panier,Prime de panier,1,140,140,,215
+1998,2020,2019-02-22 ,2019-02-22 ,AR69_SOURGO ABDOUL AZIZ,SOURGO ABDOUL AZIZ,1,140,140,,69
+1999,2021,2019-02-22 ,2019-02-22 ,AR140_Rehabilitation B1 & 2,Rehabilitation B1 & 2,1,140,140,,140
+2000,2022,2019-02-22 ,2019-02-22 ,AR211_prime de transport,prime de transport,1,140,140,,215
+2001,2023,2019-02-25 ,2019-03-04 ,AR126_Expertise - Robert Nsaibirni,Expertise - Robert Nsaibirni,0,25,60,,126
+2002,2024,2019-02-26 ,2019-02-26 ,ARNEXPFT,Expertise  - Fara Temessadouno,1,60,60,149,97
+2003,2025,2019-02-26 ,2019-02-26 ,ARNEC,Expertise - Emeline Calvez,1,60,60,169,97
+2004,2026,2019-02-26 ,2019-02-26 ,ARNRN,Expertise - Robert Nasaibirni,1,60,60,170,97
+2005,2027,2019-03-11 ,2019-03-11 ,AR155_Operational costs envelope,Operational costs envelope,1,55,55,,155
+2006,2028,2019-03-11 ,2021-01-29 ,AR97N78,Expertise - Maria Lightowler,1,60,176,171,97
+2007,2029,2019-03-12 ,2019-03-12 ,ANGM,Expertise - Grace Mambula,1,60,60,172,97
+2008,2030,2019-03-12 ,2019-03-12 ,ARNPC,Expertise - Paul Campbell,1,60,60,173,97
+2009,2031,2019-03-31 ,2019-04-01 ,AR62_NATURINDA Cricient,NATURINDA Cricient,1,55,55,,62
+2010,2032,2019-03-31 ,2019-04-01 ,AR5_TB Studies Coordinator,TB Studies Coordinator,1,55,55,,5
+2011,2033,2019-03-31 ,2019-04-01 ,AR74_NERIMA Caroline,NERIMA Caroline,1,55,55,,74
+2012,2034,2019-04-23 ,2019-04-23 ,AR306_SANI Abdoulaye,SANI Abdoulaye,1,56,56,,316
+2013,2035,2019-04-30 ,2019-04-30 ,ARLOGICIEL_Logiciel IT,Logiciel IT,1,140,140,,345
+2014,2036,2019-04-30 ,2019-04-30 ,AROFF_Nouveau bureau ,Nouveau bureau ,1,140,140,,324
+2015,2037,2019-04-30 ,2019-04-30 ,AR264_Nouveau Bureau,Nouveau Bureau,1,140,140,,272
+2016,2038,2019-05-01 ,2019-05-01 ,AR10_Nouveau bureau,Nouveau bureau,1,140,140,,10
+2017,2039,2019-05-01 ,2019-05-01 ,AR204_Nouveau Bureau,Nouveau Bureau,1,140,140,,208
+2018,2040,2019-05-01 ,2019-05-01 ,AR9_Nouveau Bureau,Nouveau Bureau,1,140,140,,9
+2019,2041,2019-05-01 ,2019-05-01 ,AR45_Nouveau bureau,Nouveau bureau,1,140,140,,45
+2020,2042,2019-05-01 ,2019-05-01 ,AR196_Nouveau bureau,Nouveau bureau,1,140,140,,200
+2021,2043,2019-05-01 ,2019-05-01 ,AR200_Nouveau Bureau,Nouveau Bureau,1,140,140,,204
+2022,2044,2019-05-01 ,2019-05-01 ,AR14_Nouveau Bureau,Nouveau Bureau,1,140,140,,14
+2023,2045,2019-05-07 ,2019-05-07 ,AR213_Journée Scientifique,Journée Scientifique,1,140,140,,217
+2024,2046,2019-05-07 ,2019-05-07 ,AR17_Nouveau Bureau,Nouveau Bureau,1,140,140,,17
+2025,2047,2019-05-08 ,2019-05-08 ,AR69_Sup.Enquêteurs,Sup.Enquêteurs,1,140,140,,69
+2026,2048,2019-05-13 ,2019-05-13 ,AR150_Benchmarking cost Scientific Positions,Benchmarking cost Scientific Positions,1,55,55,,150
+2027,2049,2019-05-14 ,2019-05-14 ,AR144_Moreen KEMBABAZI,Moreen KEMBABAZI,1,55,55,,144
+2028,2050,2019-05-14 ,2019-05-14 ,AR235_Daniel Atwine,Daniel Atwine,1,55,55,,240
+2029,2051,2019-05-14 ,2019-05-14 ,AR168_Naome Natukunda,Naome Natukunda,1,55,55,,168
+2030,2052,2019-05-14 ,2019-05-14 ,AR169_,"",1,55,55,,169
+2031,2053,2019-05-14 ,2019-05-14 ,AR168_Juvenal NKERAMAHAME,Juvenal NKERAMAHAME,1,55,55,,168
+2032,2054,2019-05-15 ,2019-05-15 ,AR199_Consultation gastroenterite Niger,Consultation gastroenterite Niger,1,140,140,,203
+2033,2055,2019-06-03 ,2019-06-04 ,AR211_Epicentre field Epi,Epicentre field Epi,1,21,21,,215
+2034,2056,2019-06-24 ,2019-06-24 ,ARNES,Expertise - Erica Simons,1,60,60,174,97
+2035,2057,2019-10-06 ,2019-10-06 ,AR71_Rabi AMADOU,Rabi AMADOU,1,140,140,,71
+2036,2058,2019-10-06 ,2019-10-06 ,AR252_BOUBACAR SALOU Rachid,BOUBACAR SALOU Rachid,1,140,140,,260
+2037,2059,2019-10-06 ,2019-10-06 ,AR75_IDDO,IDDO,1,140,140,,75
+2038,2060,2019-10-06 ,2019-10-06 ,AR306_KARIM BARKE Souleymane,KARIM BARKE Souleymane,1,140,140,,316
+2039,2061,2019-10-06 ,2019-10-06 ,AR278_ABDOUL KADER,ABDOUL KADER,1,140,140,,287
+2040,2062,2019-10-06 ,2019-10-06 ,AR228_BACHIR,BACHIR,1,140,140,,233
+2041,2063,2019-10-06 ,2019-10-06 ,AR212_STAFF NAT,STAFF NAT,1,140,140,,216
+2042,2064,2019-10-06 ,2019-10-06 ,AR195_Matériel IT,Matériel IT,1,140,140,,199
+2043,2065,2019-10-06 ,2019-10-06 ,AR206_Postpaid,Postpaid,1,140,140,,210
+2044,2066,2019-10-06 ,2019-10-06 ,AR140_GRANDS TRAVAUX,GRANDS TRAVAUX,1,140,140,,140
+2045,2067,2019-10-06 ,2019-10-06 ,AR12_Plombérie,Plombérie,1,140,140,,12
+2046,2068,2019-10-10 ,2019-10-15 ,AR7_,"",1,55,55,,7
+2047,2069,2019-10-10 ,2019-10-15 ,AR204_General Maintenace ,General Maintenace ,1,55,55,,208
+2048,2070,2019-10-10 ,2019-10-15 ,AR303_NERIMA Caroline,NERIMA Caroline,1,55,55,,313
+2049,2071,2019-10-14 ,2019-10-14 ,ARLAV_AMADOU Kabirou,AMADOU Kabirou,1,56,56,,334
+2050,2072,2019-10-14 ,2019-10-14 ,AR59_GARBA Soumana,GARBA Soumana,1,56,56,,59
+2051,2073,2019-10-15 ,2019-10-15 ,AR284_Ibrahim Sendagire,Ibrahim Sendagire,1,55,55,,294
+2052,2074,2019-10-15 ,2019-10-15 ,AR195_IT  Office equipment & software renewal,IT  Office equipment & software renewal,1,55,55,,199
+2053,2075,2019-10-16 ,2019-10-16 ,AR168_,"",1,55,55,,168
+2054,2076,2019-10-16 ,2019-10-16 ,AR168_Ssekyanzi Bob,Ssekyanzi Bob,1,55,55,,168
+2055,2077,2019-10-17 ,2019-10-20 ,AR136_Medisell (CC Machine),Medisell (CC Machine),1,55,55,,136
+2056,2078,2019-10-17 ,2019-10-20 ,AR136_Replacement Filters for the millipore Elix,Replacement Filters for the millipore Elix,1,55,55,,136
+2057,2079,2019-10-30 ,2019-10-30 ,AR35_Hôtel,Hôtel,1,21,21,9,35
+2058,2080,2019-11-06 ,2019-11-06 ,AR211_Marie Burton,Marie Burton,1,161,161,,215
+2059,2081,2019-11-06 ,2019-11-06 ,AR211_Rebecca Grais,Rebecca Grais,1,161,161,,215
+2060,2082,2019-11-06 ,2019-11-06 ,AR211_Marie-Françoise Scherrer,Marie-Françoise Scherrer,1,161,161,,215
+2061,2083,2019-11-06 ,2019-11-06 ,AR211_Rockyath Makarimi,Rockyath Makarimi,1,161,161,,215
+2062,2084,2019-11-06 ,2021-02-10 ,AR211_OUMAR TOURE,OUMAR TOURE,1,161,178,,215
+2063,2085,2019-11-06 ,2019-11-06 ,AR211_Alaleh Abapour,Alaleh Abapour,1,161,161,,215
+2064,2086,2019-11-06 ,2019-11-06 ,AR211_Anton Camacho,Anton Camacho,1,161,161,,215
+2065,2087,2019-11-06 ,2019-11-06 ,AR211_Ibrahim/Souna,Ibrahim/Souna,1,161,161,,215
+2066,2088,2019-11-06 ,2019-11-06 ,AR211_Paul Campbell,Paul Campbell,1,161,161,,215
+2067,2089,2019-11-06 ,2019-11-06 ,AR211_Patrick Barks,Patrick Barks,1,161,161,,215
+2068,2090,2019-11-06 ,2019-11-06 ,AR211_Mathilde Mousset,Mathilde Mousset,1,161,161,,215
+2069,2091,2019-11-06 ,2019-11-06 ,AR211_Grace Mambula,Grace Mambula,1,161,161,,215
+2070,2092,2019-11-06 ,2019-11-06 ,AR211_Flavio Finger,Flavio Finger,1,161,161,,215
+2071,2093,2019-11-06 ,2019-11-06 ,AR211_Hamza Salissou,Hamza Salissou,1,161,161,,215
+2072,2094,2019-11-06 ,2019-11-06 ,AR211_David Bontemps,David Bontemps,1,161,161,,215
+2073,2095,2019-11-06 ,2019-11-06 ,AR211_Souleymane Abdou,Souleymane Abdou,1,161,161,,215
+2074,2096,2019-11-06 ,2019-11-06 ,AR211_Fanny Harter,Fanny Harter,1,161,161,,215
+2075,2097,2019-11-06 ,2019-11-06 ,AR211_Soumah Aboubacar,Soumah Aboubacar,1,161,161,,215
+2076,2098,2019-11-06 ,2019-11-06 ,AR211_Abdul-Aziz Mamaty,Abdul-Aziz Mamaty,1,161,161,,215
+2077,2099,2020-05-27 ,2020-05-27 ,AR73_Expertise - Robert Nsaibirni,Expertise - Robert Nsaibirni,1,164,164,,73
+2078,2100,2020-05-27 ,2020-05-27 ,AR97_Expertise - Robert Nsaibirni,Expertise - Robert Nsaibirni,1,164,164,,97
+2079,2101,2020-11-06 ,2020-11-06 ,AR11_Refrigérateur  Draps  Canapé...,Refrigérateur  Draps  Canapé...,1,140,140,,11
+2080,2102,2020-11-06 ,2020-11-06 ,AR196_Carte mère Pour Générateur,Carte mère Pour Générateur,1,140,140,,200
+2081,2103,2020-11-06 ,2020-11-06 ,AR14_Carte mère Pour générateur,Carte mère Pour générateur,1,140,140,,14
+2082,2104,2020-11-06 ,2020-11-06 ,ARSPLIT_Split Pour Pharmacie et Maison,Split Pour Pharmacie et Maison,1,140,140,,346
+2083,2105,2020-11-06 ,2020-11-06 ,AR21_Achat Téléphones,Achat Téléphones,1,140,140,,21
+2084,2106,2020-11-06 ,2020-11-06 ,AR24_Renouvellement Stock IT Ordi,Renouvellement Stock IT Ordi,1,140,140,,24
+2085,2107,2020-11-06 ,2020-11-06 ,AR197_Cartouches d'Encre Imprimante& Produits d'Entretien IT,Cartouches d'Encre Imprimante& Produits d'Entretien IT,1,140,140,,201
+2086,2108,2020-11-06 ,2020-11-06 ,AR197_Intendance Bureau  Labo  Labo PCR  Pharmacie,Intendance Bureau  Labo  Labo PCR  Pharmacie,1,140,140,,201
+2087,2109,2020-11-06 ,2020-11-06 ,AR45_Bureau  Pharmacie  Labo  Labo PCR,Bureau  Pharmacie  Labo  Labo PCR,1,140,140,,45
+2088,2110,2020-11-06 ,2020-11-06 ,AR45_Bureau  Pharmacie  Labo  Labo PCR  Maisons,Bureau  Pharmacie  Labo  Labo PCR  Maisons,1,140,140,,45
+2089,2111,2020-11-06 ,2020-11-06 ,AR17_Bureau  Pharmacie  Labo,Bureau  Pharmacie  Labo,1,140,140,,17
+2090,2112,2020-11-06 ,2020-11-06 ,AR195_Matériels Electriques,Matériels Electriques,1,140,140,,199
+2091,2113,2020-11-06 ,2020-11-06 ,AR10_Pharmacie et Bureau,Pharmacie et Bureau,1,140,140,,10
+2092,2114,2020-11-06 ,2020-11-06 ,AR10_Maison 1 2 3 et 4,Maison 1 2 3 et 4,1,140,140,,10
+2093,2115,2020-11-06 ,2020-11-06 ,AR9_Pharmacie et Bureau,Pharmacie et Bureau,1,140,140,,9
+2094,2116,2020-11-06 ,2020-11-06 ,AR9_Maison 1 2 3 et 4,Maison 1 2 3 et 4,1,140,140,,9
+2095,2117,2020-11-06 ,2020-11-06 ,ARGAZ_Maisons et Labo,Maisons et Labo,1,140,140,,335
+2096,2118,2020-11-06 ,2020-11-06 ,AR206_Flotte Orange PREPAID,Flotte Orange PREPAID,1,140,140,,210
+2097,2119,2020-11-06 ,2020-11-06 ,AR206_Abonnement Canal Maison Expat,Abonnement Canal Maison Expat,1,140,140,,210
+2098,2120,2020-11-06 ,2020-11-06 ,AR22_Abonnement VSAT,Abonnement VSAT,1,140,140,,22
+2099,2121,2020-11-06 ,2020-11-06 ,AR22_Extension Câblage réseau Bureau,Extension Câblage réseau Bureau,1,140,140,,22
+2100,2122,2020-11-06 ,2020-11-06 ,AR8_Maison 1 2 3 et 4,Maison 1 2 3 et 4,1,140,140,,8
+2101,2123,2020-11-06 ,2020-11-06 ,AR34_Responsable du Centre,Responsable du Centre,1,140,140,,34
+2102,2124,2020-11-06 ,2020-11-06 ,AR200_Contribution Annuelle CHR Maradi,Contribution Annuelle CHR Maradi,1,140,140,,204
+2103,2125,2020-11-06 ,2020-11-06 ,AR12_Bureau  Pharmacie  Labo et Maisons,Bureau  Pharmacie  Labo et Maisons,1,140,140,,12
+2104,2126,2020-11-06 ,2020-11-06 ,AR12_Garage Intersection,Garage Intersection,1,140,140,,12
+2105,2127,2020-11-06 ,2020-11-06 ,AR12_Entretien Générateur,Entretien Générateur,1,140,140,,12
+2106,2128,2020-11-06 ,2020-11-06 ,AR7_French Foot GUINDO,French Foot GUINDO,1,140,140,,7
+2107,2129,2020-11-06 ,2020-11-06 ,AR143_Journaliers de Remplacement et Supports Travaux,Journaliers de Remplacement et Supports Travaux,1,140,140,,143
+2108,2130,2020-11-06 ,2020-11-06 ,AR213_Prévision 20% Pour Augmentation Salaire 2021,Prévision 20% Pour Augmentation Salaire 2021,1,140,140,,217
+2109,2131,2020-11-06 ,2020-11-06 ,AR140_Labo et Labo PCR,Labo et Labo PCR,1,140,140,,140
+2110,2132,2020-11-06 ,2020-11-06 ,AR140_Bureau  Pharmacie Labo  Labo PCR et Maisons,Bureau  Pharmacie Labo  Labo PCR et Maisons,1,140,140,,140
+2111,2133,2020-11-06 ,2020-11-06 ,AR140_Bureau Principal,Bureau Principal,1,140,140,,140
+2112,2134,2020-11-06 ,2020-11-06 ,AR200_Zone à Déchet CHR Maradi,Zone à Déchet CHR Maradi,1,140,140,,204
+2113,2135,2020-11-06 ,2020-11-06 ,AR200_Labo et Labo PCR,Labo et Labo PCR,1,140,140,,204
+2114,2136,2020-11-06 ,2020-11-06 ,AR200_Bureau Principal,Bureau Principal,1,140,140,,204
+2115,2137,2020-11-06 ,2020-11-06 ,AR200_Bureau  Pharmacie  Labo  Labo PCR et Maisons,Bureau  Pharmacie  Labo  Labo PCR et Maisons,1,140,140,,204
+2116,2138,2020-11-06 ,2020-11-06 ,AR213_Ancienneté,Ancienneté,1,140,140,,217
+2117,2139,2020-11-06 ,2020-11-06 ,AR213_Solde de Tout Compte prévisionnel,Solde de Tout Compte prévisionnel,1,140,140,,217
+2118,2140,2020-11-06 ,2020-11-06 ,AR1_Expat & Staff Nat,Expat & Staff Nat,1,140,140,,1
+2119,2141,2020-11-06 ,2020-11-06 ,AR202_Billet PAM & Ticket de Bus,Billet PAM & Ticket de Bus,1,140,140,,206
+2120,2142,2020-11-06 ,2020-11-06 ,AR92_Responsable du Centre OUSMANE GUINDO,Responsable du Centre OUSMANE GUINDO,1,140,140,,92
+2121,2143,2020-11-06 ,2020-11-06 ,AR187_MENSSAH Teko,MENSSAH Teko,1,140,140,,191
+2122,2144,2020-11-06 ,2020-11-06 ,AR135_MOUSSA SAMAKE,MOUSSA SAMAKE,1,140,140,,135
+2123,2145,2020-11-06 ,2020-11-06 ,AR255_CORINNE MAMIAFO-TCHOULA,CORINNE MAMIAFO-TCHOULA,1,140,140,,263
+2124,2146,2020-11-06 ,2020-11-06 ,ARSPLIT_Salle de Mise en Observation Cabinet Médical,Salle de Mise en Observation Cabinet Médical,1,140,140,,346
+2125,2147,2020-11-06 ,2020-11-06 ,AR196_Refrigérateur  Ventilateur,Refrigérateur  Ventilateur,1,140,140,,200
+2126,2148,2020-11-06 ,2020-11-06 ,AR234_Cabinet Médical,Cabinet Médical,1,140,140,,239
+2127,2149,2020-11-06 ,2020-11-06 ,AR45_Cabinet Médical,Cabinet Médical,1,140,140,,45
+2128,2150,2020-11-06 ,2020-11-06 ,AR9_Cabinet Médical,Cabinet Médical,1,140,140,,9
+2129,2151,2020-11-06 ,2020-11-06 ,AR10_Cabinet Médical,Cabinet Médical,1,140,140,,10
+2130,2152,2020-11-06 ,2020-11-06 ,AR22_Modem Orange,Modem Orange,1,140,140,,22
+2131,2153,2020-11-06 ,2020-11-06 ,AR15_Coût remboursement Frais Medicaux,Coût remboursement Frais Medicaux,1,140,140,,15
+2132,2154,2020-11-06 ,2020-11-06 ,AR46_Médicaments Commande Internationale Cabinet,Médicaments Commande Internationale Cabinet,1,140,140,,46
+2133,2155,2020-12-06 ,2020-12-06 ,AR211_Soazic Gardais,Soazic Gardais,1,161,161,,215
+2134,2156,2020-12-06 ,2020-12-06 ,AR211_Robert Nsaibirni,Robert Nsaibirni,1,161,161,,215
+2135,2157,2020-12-06 ,2020-12-06 ,AR211_Matthew Coldiron,Matthew Coldiron,1,161,161,,215
+2136,2158,2021-01-13 ,2021-01-13 ,AR97N75,Expertise - Marc Gastellu,1,176,176,137,97
+2137,2159,2021-01-28 ,2021-01-29 ,AR97N76,Expertise - Birgit  Nikolay,1,176,176,176,97
+2138,2160,2021-01-29 ,2021-01-29 ,AR97N79,Expertise - Robin Nesbitt,1,176,176,178,97
+2139,2161,2021-01-29 ,2021-01-29 ,AR97N80,Expertise - Flavio Finger,1,176,176,177,97
+2140,2162,2021-02-04 ,2021-02-04 ,AR205_Electricité,Electricité,1,178,178,,209
+2141,2163,2021-02-04 ,2021-02-04 ,AR159_MAIGA MAHAMADOU,MAIGA MAHAMADOU,1,178,178,,159
+2142,2164,2021-02-04 ,2021-02-04 ,AR250_NGOUMBOUTE MBOUBO IBRAHIM,NGOUMBOUTE MBOUBO IBRAHIM,1,178,178,,258
+2143,2165,2021-02-04 ,2021-02-04 ,AR213_Prime Panier & Astreinte,Prime Panier & Astreinte,1,178,178,,217
+2144,2166,2021-02-04 ,2021-02-04 ,AR54_Major Andoumé+MCD HD+Gardien,Major Andoumé+MCD HD+Gardien,1,178,178,,54
+2145,2167,2021-02-04 ,2021-02-04 ,AR69_MAMATY ABDOUL AZIZ,MAMATY ABDOUL AZIZ,1,178,178,,69
+2146,2168,2021-02-07 ,2021-02-07 ,AR291_LAOUALI CHAIBOU,LAOUALI CHAIBOU,1,178,178,,301
+2147,2169,2021-02-07 ,2021-02-07 ,AR197_Bureau Maison Pharmacie ,Bureau Maison Pharmacie ,1,178,178,,201
+2148,2170,2021-02-07 ,2021-02-07 ,AR197_Bureau et Pharmacie,Bureau et Pharmacie,1,178,178,,201
+2149,2171,2021-02-07 ,2021-02-07 ,AR45_Bureau Pharmacie Maison,Bureau Pharmacie Maison,1,178,178,,45
+2150,2172,2021-02-07 ,2021-02-07 ,AR12_Bureau  Pharmacie et Maisons,Bureau  Pharmacie et Maisons,1,178,178,,12
+2151,2173,2021-02-09 ,2021-02-09 ,AR282_CORINNE MAMIAFO-TCHOULA,CORINNE MAMIAFO-TCHOULA,1,178,178,,291
+2152,2174,2021-02-09 ,2021-02-09 ,ARHYG_SANI LAOUALI,SANI LAOUALI,1,178,178,,344
+2153,2175,2021-02-09 ,2021-02-09 ,AR90_ISSAKA SOUMANA SOUNA,ISSAKA SOUMANA SOUNA,1,178,178,,90
+2154,2176,2021-02-09 ,2021-02-09 ,AR202_Frais de Transport Patient Etude,Frais de Transport Patient Etude,1,178,178,,206
+2155,2177,2021-02-09 ,2021-02-09 ,AR223_Dotations Gardien Thé Sucre  Charbon,Dotations Gardien Thé Sucre  Charbon,1,178,178,,228
+2156,2178,2021-02-09 ,2021-02-09 ,ARGAZ_Maisons,Maisons,1,178,178,,335
+2157,2179,2021-02-09 ,2021-02-09 ,AR234_Thé  Sucre  Lipton Pour Staff Labo PCR,Thé  Sucre  Lipton Pour Staff Labo PCR,1,178,178,,239
+2158,2180,2021-02-09 ,2021-02-09 ,AR195_Produits d'Entretien Labo PCR,Produits d'Entretien Labo PCR,1,178,178,,199
+2159,2181,2021-02-09 ,2021-02-09 ,AR7_Formation Staff CERMES,Formation Staff CERMES,1,178,178,,7
+2160,2182,2021-02-09 ,2021-02-09 ,AR204_Petites Réparations Labo PCR,Petites Réparations Labo PCR,1,178,178,,208
+2161,2183,2021-02-09 ,2021-02-09 ,AR213_Prestation Superviseur Labo,Prestation Superviseur Labo,1,178,178,,217
+2162,2184,2021-02-10 ,2021-02-10 ,AR200_Bureau  Pharmacie  Maisons,Bureau  Pharmacie  Maisons,1,178,178,,204
+2163,2185,2021-02-10 ,2021-02-10 ,AR1_Expat Labo,Expat Labo,1,178,178,,1
+2164,2186,2021-02-10 ,2021-02-10 ,AR211_ATTACHE RECHERCHE CLINIQUE,ATTACHE RECHERCHE CLINIQUE,1,178,178,,215
+2165,2187,2021-02-10 ,2021-02-10 ,AR211_ASSISTANT RECHERCHE CLINIQUE,ASSISTANT RECHERCHE CLINIQUE,1,178,178,,215
+2166,2188,2021-02-10 ,2021-02-10 ,AR211_10% RESPONSABLE FIN,10% RESPONSABLE FIN,1,178,178,,215
+2167,2189,2021-02-10 ,2021-02-10 ,AR211_10% RESPONSABLE RH,10% RESPONSABLE RH,1,178,178,,215
+2168,2190,2021-02-10 ,2021-02-10 ,AR211_10% SUPERVISEUR LOG,10% SUPERVISEUR LOG,1,178,178,,215
+2169,2191,2021-02-10 ,2021-02-10 ,AR1_OUMAR TOURE,OUMAR TOURE,1,178,178,,1
+2170,2192,2021-02-15 ,2021-02-15 ,AR235_Rebecca GRAIS,Rebecca GRAIS,1,140,140,,240
+2171,2193,2021-02-15 ,2021-02-15 ,AR91_Céline LANGENDORF,Céline LANGENDORF,1,140,140,,91
+2172,2194,2021-02-15 ,2021-02-15 ,AR151_Robert NSAIBIRNI,Robert NSAIBIRNI,1,140,140,,151
+2173,2195,2021-02-15 ,2021-02-15 ,AR284_Soazic GARDAIS,Soazic GARDAIS,1,140,140,,294
+2174,2196,2021-02-15 ,2021-02-15 ,AR202_Billets d'avion,Billets d'avion,1,140,140,,206
+2175,2197,2021-02-15 ,2021-02-15 ,AR239_DSMB fees,DSMB fees,1,140,140,,243
+2176,2198,2021-02-15 ,2021-02-15 ,AR154_PHRP,PHRP,1,140,140,,154
+2177,2199,2021-02-15 ,2021-02-15 ,AR73_Souna GARBA,Souna GARBA,1,140,140,,73
+2178,2200,2021-02-15 ,2021-02-15 ,AR312_Ousmane GUINDO,Ousmane GUINDO,1,140,140,,323
+2179,2201,2021-02-15 ,2021-02-15 ,AR297_Danise EMILE,Danise EMILE,1,140,140,,307
+2180,2202,2021-02-15 ,2021-02-15 ,AR211_Aitana JUAN GINER,Aitana JUAN GINER,1,140,140,,215
+2181,2203,2021-02-15 ,2021-02-15 ,AR211_Susan RATTIGAN,Susan RATTIGAN,1,140,140,,215
+2182,2204,2021-02-16 ,2021-02-16 ,AR312_Youssouf KABORE,Youssouf KABORE,1,140,140,,323
+2183,2205,2021-02-16 ,2021-02-16 ,AR5_Youssouf KABORE,Youssouf KABORE,1,140,140,,5
+2184,2206,2021-02-16 ,2021-02-16 ,AR1_Youssouf KABORE,Youssouf KABORE,1,140,140,,1
+2185,2207,2021-02-16 ,2021-02-16 ,AR194_Defribulators(AED),Defribulators(AED),1,140,140,,198
+2186,2208,2021-02-16 ,2021-02-16 ,AR191_IDDO Ibrahima,IDDO Ibrahima,1,140,140,,195
+2187,2209,2021-02-16 ,2021-02-16 ,AR88_Celine LEMIUS,Celine LEMIUS,1,140,140,,88
+2188,2210,2021-02-16 ,2021-02-16 ,AR148_DOUDJE Yvon,DOUDJE Yvon,1,140,140,,148
+2189,2211,2021-02-16 ,2021-02-16 ,AR303_ISSAKA Soumana,ISSAKA Soumana,1,140,140,,313
+2190,2212,2021-02-16 ,2021-02-16 ,AR211_Nadia FAYYAD,Nadia FAYYAD,1,140,140,,215
+2191,2213,2021-02-17 ,2021-02-17 ,AR68_Remplaçant IRO,Remplaçant IRO,1,140,140,,68
+2192,2214,2021-02-17 ,2021-02-17 ,AR75_IRO Souley,IRO Souley,1,140,140,,75
+2193,2215,2021-02-18 ,2021-02-18 ,AR97_GARDAIS Soazic,GARDAIS Soazic,1,140,140,,97
+2194,2216,2021-02-18 ,2021-02-18 ,AR97_MOUSSET Mathilde,MOUSSET Mathilde,1,140,140,,97
+2195,2217,2021-02-22 ,2021-02-22 ,AR144_Moussa Samaké,Moussa Samaké,1,140,140,,144
+2196,2218,2021-02-22 ,2021-02-22 ,AR92_Ousmane Guindo,Ousmane Guindo,1,140,140,,92
+2197,2219,2021-02-22 ,2021-02-22 ,AR148_Yvon Doudjé,Yvon Doudjé,1,140,140,,148
+2198,2220,2021-02-22 ,2021-02-22 ,AR305_Idi DOUTCHI,Idi DOUTCHI,1,140,140,,315
+2199,2221,2021-02-22 ,2021-02-22 ,AR212_Afsar Khan,Afsar Khan,1,140,140,,216
+2200,2222,2021-02-22 ,2021-02-22 ,AR5_Afsar Khan,Afsar Khan,1,140,140,,5
+2201,2223,2021-02-22 ,2021-02-22 ,ARASS_Aboubacar Gado,Aboubacar Gado,1,140,140,,331
+2202,2224,2021-02-22 ,2021-02-22 ,AR1_Afsar Khan,Afsar Khan,1,140,140,,1
+2203,2225,2021-02-22 ,2021-02-22 ,AR91_CO-Celine Langendorf,CO-Celine Langendorf,1,140,140,,91
+2204,2226,2021-02-22 ,2021-02-22 ,AR211_CO-Nadia Fayyad,CO-Nadia Fayyad,1,140,140,,215
+2205,2227,2021-02-22 ,2021-02-22 ,AR88_CO-Celine Lemius,CO-Celine Lemius,1,140,140,,88
+2206,2228,2021-02-22 ,2021-02-22 ,AR187_CO-Teko Menssah,CO-Teko Menssah,1,140,140,,191
+2207,2229,2021-02-23 ,2021-02-23 ,AR211_Consultant Ruwan Ratnayake,Consultant Ruwan Ratnayake,1,166,166,,215
+2208,2230,2021-03-03 ,2021-03-03 ,AR211_Coût opérationnel - Robert Nsaibirni,Coût opérationnel - Robert Nsaibirni,1,161,161,170,215
+2209,2231,2021-03-03 ,2021-03-03 ,AR211_Coût opérationnel - Arthur Makadi,Coût opérationnel - Arthur Makadi,1,161,161,,215
+2210,2232,2021-03-03 ,2021-03-03 ,AR211_Coût opérationnel - Rebecca Grais,Coût opérationnel - Rebecca Grais,1,161,161,,215
+2211,2233,2021-03-03 ,2021-03-03 ,AR211_Coût opérationnel - David Bontemps,Coût opérationnel - David Bontemps,1,161,161,,215
+2212,2234,2021-03-03 ,2021-03-03 ,AR211_Coût opérationnel - Céline Lemius,Coût opérationnel - Céline Lemius,1,161,161,,215
+2213,2235,2021-03-03 ,2021-03-03 ,AR211_Coût opérationnel - Anton Camacho,Coût opérationnel - Anton Camacho,1,161,161,114,215
+2214,2236,2021-03-03 ,2021-03-03 ,AR211_Coût opérationnel - Marine Durthaler,Coût opérationnel - Marine Durthaler,1,161,161,,215
+2215,2237,2021-03-03 ,2021-03-03 ,AR211_Coût opérationnel - Soazic Gardais,Coût opérationnel - Soazic Gardais,1,161,161,,215
+2216,2238,2021-03-03 ,2021-03-03 ,AR211_Coût opérationnel - Paul Campbell,Coût opérationnel - Paul Campbell,1,161,161,,215
+2217,2239,2021-03-03 ,2021-03-03 ,AR211_Coût opérationnel - Patrick Barks,Coût opérationnel - Patrick Barks,1,161,161,,215
+2218,2240,2021-03-03 ,2021-03-03 ,AR211_Coût opérationnel - Mathilde Mousset,Coût opérationnel - Mathilde Mousset,1,161,161,,215
+2219,2241,2021-03-03 ,2021-03-03 ,AR211_Coût opérationnel - Yann Geay,Coût opérationnel - Yann Geay,1,161,161,,215
+2220,2242,2021-03-03 ,2021-03-03 ,AR211_Coût opérationnel - Grace Mambula,Coût opérationnel - Grace Mambula,1,161,161,,215
+2221,2243,2021-03-07 ,2021-03-07 ,AR91_Coût opérationnel - Céline Langendorf,Coût opérationnel - Céline Langendorf,1,161,161,,91
+2222,2244,2021-03-07 ,2021-03-07 ,AR211_Coût opérationnel,Coût opérationnel,1,161,161,,215
+2223,2245,2021-03-07 ,2021-03-07 ,AR284_Coût opérationnel - Soazic Gardais,Coût opérationnel - Soazic Gardais,1,161,161,,294
+2224,2246,2021-03-07 ,2021-03-07 ,AR211_Coût opérationnel - Aitana Juan Giner,Coût opérationnel - Aitana Juan Giner,1,161,161,,215
+2225,2247,2021-03-07 ,2021-03-07 ,AR151_Coût opéarationnel - Robert Nsaibirni,Coût opéarationnel - Robert Nsaibirni,1,161,161,,151
+2226,2248,2021-03-07 ,2021-03-07 ,AR297_Coût opérationnel - Danise France Emile,Coût opérationnel - Danise France Emile,1,161,161,,307
+2227,2249,2021-03-07 ,2021-03-07 ,AR235_Coût opérationnel - Rebecca Grais,Coût opérationnel - Rebecca Grais,1,161,161,,240
+2228,2250,2021-03-07 ,2021-03-07 ,AR97_Expertise - Soazic Gardais,Expertise - Soazic Gardais,1,161,161,,97
+2229,2251,2021-03-07 ,2021-03-07 ,AR211_Coût opérationnel - Alexandra Ascorra,Coût opérationnel - Alexandra Ascorra,1,161,161,,215
+2230,2252,2021-03-07 ,2021-03-07 ,AR97_Expertise - Maëlenn Gouillou,Expertise - Maëlenn Gouillou,1,161,161,,97
+2231,2253,2021-03-07 ,2021-03-07 ,AR211_Coût opérationnel - Maëlenn Gouillou,Coût opérationnel - Maëlenn Gouillou,1,161,161,,215
+2232,2254,2021-03-07 ,2021-03-07 ,AR211_Coût opérationnel - Elisabeth Baudin,Coût opérationnel - Elisabeth Baudin,1,161,161,,215
+2233,2255,2021-03-07 ,2021-03-07 ,AR88_Coût opérationnel - Céline Lemius,Coût opérationnel - Céline Lemius,1,161,161,,88
+2234,2256,2021-03-07 ,2021-03-07 ,AR211_Coût opérationnel - Nadia Fayad,Coût opérationnel - Nadia Fayad,1,161,161,,215
+2235,2257,2021-03-07 ,2021-03-07 ,AR211_Coût opérationnel - Renaud Vatrinet,Coût opérationnel - Renaud Vatrinet,1,161,161,,215
+2236,2258,2021-03-30 ,2021-03-30 ,AR89_Coût opérationnel-Nasir NASEER,Coût opérationnel-Nasir NASEER,1,140,140,,89
+2237,2259,2021-03-30 ,2021-03-30 ,AR89_Coût opérationnel - Nasir NASEER,Coût opérationnel - Nasir NASEER,1,140,140,,89
+2238,2260,2021-03-30 ,2021-03-30 ,AR88_Coût opérationnel - Suresh KIRUPAKARAN,Coût opérationnel - Suresh KIRUPAKARAN,1,140,140,,88
+2239,2261,2021-04-27 ,2021-04-27 ,AR97_Morgane Dujmovic,Expertise - Morgane Dujmovic,1,176,176,179,97
+2240,2262,2021-04-27 ,2021-04-27 ,ARSUP_Rebecca Grais,Rebecca Grais,1,140,140,,358
+2241,2263,2021-04-27 ,2021-04-27 ,ARSTA_Elisabeth Baudin,Elisabeth Baudin,1,140,140,,355
+2242,2264,2021-04-27 ,2021-04-27 ,ARDAT_Robert Nsaibirni,Robert Nsaibirni,1,140,140,,352
+2243,2265,2021-04-27 ,2021-04-27 ,ARPHAR_Grace Mambula,Grace Mambula,1,140,140,,351
+2244,2266,2021-04-27 ,2021-04-27 ,ARDAT2_Paul Campbell,Paul Campbell,1,140,140,,354
+2245,2267,2021-04-27 ,2021-04-27 ,ARFIN_David Bontemps,David Bontemps,1,140,140,,356
+2246,2268,2021-04-27 ,2021-04-27 ,ARRES_Soazic Gardais,Soazic Gardais,1,140,140,,357
+2247,2269,2021-04-27 ,2021-04-27 ,ARRES_Coût opérationnel - Soazic Gardais,Coût opérationnel - Soazic Gardais,1,140,140,,357
+2248,2270,2021-04-27 ,2021-04-27 ,ARSTA_Coût opérationnel - Elisabeth Baudin,Coût opérationnel - Elisabeth Baudin,1,140,140,,355
+2249,2271,2021-04-27 ,2021-04-27 ,ARFIN_Coût opérationnel - David Bontemps,Coût opérationnel - David Bontemps,1,140,140,,356
+2250,2272,2021-04-27 ,2021-04-27 ,ARDAT2_Coût opérationnel - Paul Campbell,Coût opérationnel - Paul Campbell,1,140,140,,354
+2251,2273,2021-04-27 ,2021-04-27 ,AR88_A recruter,A recruter,1,140,140,,88
+2252,2274,2021-04-27 ,2021-04-27 ,AR73_Coût opérationnel Mathilde Mousset,Coût opérationnel Mathilde Mousset,1,140,140,,73
+2253,2275,2021-04-27 ,2021-04-27 ,AR73_Coût opérationnel - Mathilde Mousset,Coût opérationnel - Mathilde Mousset,1,140,140,,73
+2254,2276,2021-04-27 ,2021-04-27 ,ARPHAR_Coût opérationnel - Grace Mambula,Coût opérationnel - Grace Mambula,1,140,140,,351
+2255,2277,2021-04-27 ,2021-04-27 ,ARSUP_Coût opérationnel - Rebecca Grais,Coût opérationnel - Rebecca Grais,1,140,140,,358
+2256,2278,2021-04-27 ,2021-04-27 ,AR73_Coût opérationnel - Patrick Barks,Coût opérationnel - Patrick Barks,1,140,140,,73
+2257,2279,2021-04-27 ,2021-04-27 ,ARSTA_Coût opérationnel - Anton Camacho,Coût opérationnel - Anton Camacho,1,140,140,,355
+2258,2280,2021-04-27 ,2021-04-27 ,ARDAT_Coût opérationnel - Robert Nsaibirni,Coût opérationnel - Robert Nsaibirni,1,140,140,,352
+2259,2281,2021-04-27 ,2021-04-27 ,ARSTU_Coût opérationnel - Arthur Makadi,Coût opérationnel - Arthur Makadi,1,140,140,,359
+2260,2282,2021-04-27 ,2021-04-27 ,ARDAT3_Coût opérationnel - Marine Durthaler,Coût opérationnel - Marine Durthaler,1,140,140,,360
+2261,2283,2021-04-27 ,2021-04-27 ,AR144_Coût opérationnel - Nadia Fayad,Coût opérationnel - Nadia Fayad,1,140,140,,144
+2262,2284,2021-04-28 ,2021-04-28 ,AR281_Coût opérationnel - Danise Emile,Coût opérationnel - Danise Emile,1,140,140,,290
+2263,2285,2021-04-28 ,2021-04-28 ,AR255_Coût opérationnel - Corine Mamiafo,Coût opérationnel - Corine Mamiafo,1,140,140,,263
+2264,2286,2021-04-28 ,2021-04-28 ,AR148_Coût opérationnel - Yvon Doudjé,Coût opérationnel - Yvon Doudjé,1,140,140,,148
+2265,2287,2021-04-28 ,2021-04-28 ,AR187_Coût opérationnel - Teko Menssah,Coût opérationnel - Teko Menssah,1,140,140,,191
+2266,2288,2021-04-28 ,2021-04-28 ,AR144_Coût opérationnel - Moussa Samaké,Coût opérationnel - Moussa Samaké,1,140,140,,144
+2267,2289,2021-04-28 ,2021-04-28 ,AR303_Coût opérationnel - Issaka Soumana,Coût opérationnel - Issaka Soumana,1,140,140,,313
+2268,2290,2021-04-28 ,2021-04-28 ,RM1_Coût opérationnel Afsar Khan,Coût opérationnel Afsar Khan,1,140,140,,343
+2269,2291,2021-04-28 ,2021-04-28 ,AR212_Coût opérationnel - Afsar Khan,Coût opérationnel - Afsar Khan,1,140,140,,216
+2270,2292,2021-04-28 ,2021-04-28 ,RM1_Coût opérationnel - Afsar Khan,Coût opérationnel - Afsar Khan,1,140,140,,343
+2271,2293,2021-04-28 ,2021-04-28 ,AR90_Coût opérationnel - Issaka Soumana,Coût opérationnel - Issaka Soumana,1,140,140,,90
+2272,2294,2021-04-28 ,2021-04-28 ,AR92_Coût opérationnel - Ousmane Guindo,Coût opérationnel - Ousmane Guindo,1,140,140,,92
+2273,2295,2021-04-28 ,2021-04-28 ,AR311_Coût opérationnel - Souna Garba,Coût opérationnel - Souna Garba,1,140,140,,322
+2274,2296,2021-04-30 ,2021-04-30 ,ARSTA1_Coût opérationnel - Maëlenn Gouillou,Coût opérationnel - Maëlenn Gouillou,1,140,140,,363
+2275,2297,2021-04-30 ,2021-04-30 ,AR97_Expertise - Mathilde Mousset,Expertise - Mathilde Mousset,1,140,140,,97
+2276,2298,2021-04-30 ,2021-04-30 ,ARCO_Coût opérationnel - Aitana JUAN GINER,Coût opérationnel - Aitana JUAN GINER,1,140,140,,361
+2277,2299,2021-04-30 ,2021-04-30 ,AR97_Huiwu Chen,Expertise - Huiwu Chen,1,176,176,180,97
+2278,2300,2021-05-19 ,2021-05-19 ,AR147_Coût opérationnel - Danise Emile,Coût opérationnel - Danise Emile,1,140,140,,147
+2279,2301,2021-05-19 ,2021-05-19 ,ARMONDATA_Coût opérationnel - Souna Garba,Coût opérationnel - Souna Garba,1,140,140,,328
+2280,2302,2021-05-19 ,2021-05-19 ,ARCO_Coût opérationnel - Boni Ale,Coût opérationnel - Boni Ale,1,140,140,,361
+2281,2303,2021-05-19 ,2021-05-19 ,AR73_Coût opérationnel - Mark Ndifon,Coût opérationnel - Mark Ndifon,1,140,140,,73
+2282,2304,2021-05-19 ,2021-05-19 ,AR284_Coût opérationnel - Aethur Makadi,Coût opérationnel - Aethur Makadi,1,140,140,,294
+2283,2305,2021-05-19 ,2021-05-19 ,ARSTA1_Coût opérationnel - Yves Amevoin,Coût opérationnel - Yves Amevoin,1,140,140,,363
+2284,2306,2021-05-19 ,2021-05-19 ,ARSTA1_Coût opérationnel - Aminata Ndiaye,Coût opérationnel - Aminata Ndiaye,1,140,140,,363
+2285,2307,2021-05-19 ,2021-05-19 ,AR73_A Recruter,A Recruter,1,140,140,,73
+2286,2308,2021-05-19 ,2021-05-19 ,AR73_Coût opérationnel - Eric Youm,Coût opérationnel - Eric Youm,1,140,140,,73
+2287,2309,2021-05-19 ,2021-05-19 ,AR73_Coût opérationnel - Denis Opio,Coût opérationnel - Denis Opio,1,140,140,,73
+2288,2310,2021-05-19 ,2021-05-19 ,AR284_Coût opérationnel - Arthur Makadi,Coût opérationnel - Arthur Makadi,1,140,140,,294
+2289,2311,2021-05-19 ,2021-05-19 ,ARSTU_Coût opérationnel - Susan Rattigan,Coût opérationnel - Susan Rattigan,1,140,140,,359
+2290,2312,2021-05-19 ,2021-05-19 ,AR274_Coût opérationnel - Danise Emile,Coût opérationnel - Danise Emile,1,140,140,,283
+2291,2313,2021-05-19 ,2021-05-19 ,AR163_Coût opérationnel - Hamza Salissou,Coût opérationnel - Hamza Salissou,1,140,140,,163
+2292,2314,2021-05-20 ,2021-05-20 ,AR97_Expertise - Patrick Barks,Expertise - Patrick Barks,1,177,177,,97
+2293,2315,2021-05-20 ,2021-05-20 ,AR97_Expertise - Marine Durthaler,Expertise - Marine Durthaler,1,177,177,,97
+2294,2316,2021-05-20 ,2021-06-01 ,AR211_Salary Joseph Sagara,Salary Joseph Sagara,1,170,170,,215
+2295,2317,2021-05-20 ,2021-06-01 ,AR1_Plane ticket Joseph Sagara 2x aller-retour,Plane ticket Joseph Sagara 2x aller-retour,1,170,170,,1
+2296,2318,2021-05-20 ,2021-06-01 ,AR5_Per diem Joseph Sagara,Per diem Joseph Sagara,1,170,170,,5
+2297,2319,2021-05-20 ,2021-06-01 ,AR5_Per diem Halidou,Per diem Halidou,1,170,170,,5
+2298,2320,2021-05-20 ,2021-06-01 ,AR211_Salary Epidemio field Halidou,Salary Epidemio field Halidou,1,170,170,,215
+2299,2321,2021-05-20 ,2021-06-01 ,AR1_Plane ticket Birgit,Plane ticket Birgit,1,170,170,,1
+2300,2322,2021-05-20 ,2021-06-01 ,AR1_Plane ticket Halidou,Plane ticket Halidou,1,170,170,,1
+2301,2323,2021-05-20 ,2021-06-01 ,AR97_Expertise days for support & data analysis added in R2,Expertise days for support & data analysis added in R2,1,170,170,,97
+2302,2324,2021-05-20 ,2021-06-01 ,AR211_Salary Pascal Ouedrago,Salary Pascal Ouedrago,1,170,170,,215
+2303,2325,2021-05-20 ,2021-06-01 ,AR211_Salary Erica Simons,Salary Erica Simons,1,170,170,,215
+2304,2326,2021-05-20 ,2021-06-01 ,AR1_Plane ticket- Pascal,Plane ticket- Pascal,1,170,170,,1
+2305,2327,2021-05-20 ,2021-06-01 ,AR97_Data analysis support & Dashboard,Data analysis support & Dashboard,1,170,170,,97
+2306,2328,2021-05-20 ,2021-06-01 ,AR5_Travel-Birgit,Travel-Birgit,1,170,170,,5
+2307,2329,2021-05-20 ,2021-06-01 ,AR211_Salary- Joseph Sagara,Salary- Joseph Sagara,1,170,170,,215
+2308,2330,2021-05-20 ,2021-06-01 ,AR3_Travel-Birgit,Travel-Birgit,1,170,170,,3
+2309,2331,2021-05-20 ,2021-06-01 ,AR1_Travel-Birgit,Travel-Birgit,1,170,170,,1
+2310,2333,2021-05-20 ,2021-05-20 ,AR97_Ruwan Ratnayake,Expertise - Ruwan Ratnayake,1,176,176,181,97
+2311,2334,2021-05-20 ,2021-05-20 ,AR97_Khasan Ibragimov,Expertise - Khasan Ibragimov,1,176,176,182,97
+2312,2335,2021-05-21 ,2021-05-21 ,ARRES_Coût opérationnel - Renault Vatrinet,Coût opérationnel - Renault Vatrinet,1,140,140,,357
+2313,2336,2021-05-21 ,2021-05-21 ,ARRES_Coût opérationel - Renaud Vatrinet,Coût opérationel - Renaud Vatrinet,1,140,140,,357
+2314,2337,2021-05-28 ,2021-05-28 ,AR87_transféré vers code projet_830186,transféré vers code projet_830186,1,185,185,,87
+2315,2338,2021-05-31 ,2021-05-31 ,ARCO_A recruter,A recruter,1,140,140,,361
+2316,2339,2021-05-31 ,2021-05-31 ,AR226_Coût opérationnel - Clementine Junot,Coût opérationnel - Clementine Junot,1,140,140,,231
+2317,2345,2021-06-15 ,2021-06-15 ,AR202_Taxi-Robin,Taxi-Robin,1,168,168,,206
+2318,2346,2021-06-16 ,2021-06-16 ,AR97_expertise-Sibylle Grestl,expertise-Sibylle Grestl,1,20,20,,97
+2319,2347,2021-06-16 ,2021-06-16 ,AR211_Salaire-Erica Simons,Salaire-Erica Simons,1,20,20,,215
+2320,2353,2021-06-16 ,2021-06-16 ,AR97_Expertise-Klaudia Porten,Expertise-Klaudia Porten,1,20,20,,97
+2321,2356,2021-06-16 ,2021-06-16 ,AR211_Slry-Gaston Komanda-RDC,Slry-Gaston Komanda-RDC,1,105,105,,215
+2322,2357,2021-06-16 ,2021-06-16 ,AR97_Expertise - Intern Ana-Katharina Klein,Expertise - Intern Ana-Katharina Klein,1,105,105,,97
+2323,2358,2021-06-16 ,2021-06-16 ,AR97_Expertise - Denis Ardiet,Expertise - Denis Ardiet,1,105,105,,97
+2324,2359,2021-06-16 ,2021-06-16 ,AR97_Expertise - Coordo support (to be identified),Expertise - Coordo support (to be identified),1,105,105,,97
+2325,2360,2021-06-16 ,2021-06-16 ,AR211_Slry-Study Coordinator (to be identified),Slry-Study Coordinator (to be identified),1,105,105,,215
+2326,2361,2021-06-18 ,2021-06-18 ,AR97_Expertise-Mathilde Mousset,Expertise-Mathilde Mousset,1,20,20,,97
+2327,2367,2021-06-18 ,2021-06-18 ,AR97_Expertise-Paul Campbell,Expertise-Paul Campbell,1,20,20,,97
+2328,2368,2021-06-18 ,2021-06-18 ,AR97_Expertise-Denis Ardiet,Expertise-Denis Ardiet,1,20,20,,97
+2329,2369,2021-06-23 ,2021-06-23 ,AR97_Expertise - Lise Grout,Expertise - Lise Grout,1,62,62,,97
+2330,2370,2021-06-24 ,2021-06-24 ,AR211_Indeminite-Intern-Support_PI_Ana-katharina.klein,Indeminite-Intern-Support_PI_Ana-katharina.klein,1,105,105,,215
+2331,2371,2021-06-25 ,2021-06-25 ,AR165_Lise Grout,Lise Grout,1,62,62,82,165
+2332,2372,2021-06-25 ,2021-06-25 ,AR211_Salary: Tadele Geshu,Salary: Tadele Geshu,1,84,84,,215
+2333,2373,2021-06-30 ,2021-06-30 ,AR97_Expertise - Héloise LUCCACIONI,Expertise - Héloise LUCCACIONI,1,148,148,,97
+2334,2374,2021-06-30 ,2021-06-30 ,AR97_Expertise - Nolwenn CONAN,Expertise - Nolwenn CONAN,1,185,185,,97
