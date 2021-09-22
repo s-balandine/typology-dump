@@ -23080,7 +23080,7 @@ rownames,work_duration_id,created,modified,comments,duration,created_by_id,last_
 23079,26180,2021-08-30 ,2021-08-30 ,,1,153,153,104,601,153
 23080,26181,2021-08-30 ,2021-08-30 ,,4,153,153,104,862,153
 23081,26182,2021-08-30 ,2021-08-30 ,,3,153,153,104,1146,153
-23082,26183,2021-08-30 ,2021-08-30 ,,2,153,153,104,1208,153
+23082,26183,2021-08-30 ,2021-09-21 ,,2,153,185,104,211,153
 23083,26184,2021-08-30 ,2021-08-30 ,writing TCV article (no more days on the budget)  support to BRAMU,7,153,153,104,211,153
 23084,26185,2021-08-30 ,2021-08-30 ,3 sick  1 family first  2 vacation,6,84,84,104,208,84
 23085,26186,2021-08-30 ,2021-08-30 ,final report discussion  final edits,4,84,84,104,564,84
@@ -23315,7 +23315,17 @@ rownames,work_duration_id,created,modified,comments,duration,created_by_id,last_
 23314,26431,2021-09-15 ,2021-09-15 ,Weekly epi updates  regular epi analysis of national and regional trends.  Management of data personnel & activities. Closure of project and final epi report,7,187,187,104,1249,187
 23315,26432,2021-09-15 ,2021-09-15 ,Document review,17,187,187,105,1238,187
 23316,26433,2021-09-15 ,2021-09-15 ,Weekly epi updates & epi sitreps  collaboration with field epi  regular epi analysis of national and regional trends. ,5,187,187,105,1250,187
-23317,26435,2021-09-16 ,2021-09-16 ,,20,142,142,105,1246,142
+23317,26435,2021-09-16 ,2021-09-21 ,,15,142,142,105,1246,142
 23318,26436,2021-09-16 ,2021-09-16 ,only worked 3 days (start of contract the 28th) and all on project code 811567,3,185,185,102,1249,187
 23319,26437,2021-09-20 ,2021-09-20 ,Appuis au processus de recrutement épi Nigéria. appuis à l'enquête SMRT Burkina. Concept not psycho stimulation malnut.,15,138,138,105,855,138
 23320,26438,2021-09-20 ,2021-09-20 ,Community based surveillance tools development.  Appuis ux missions à la surveillance (bulletin épidémiologique),3,138,138,105,1061,138
+23321,26439,2021-09-21 ,2021-09-21 ,SAMU meetings,2,142,142,105,211,142
+23322,26440,2021-09-21 ,2021-09-21 ,,1,142,142,105,208,142
+23323,26441,2021-09-21 ,2021-09-21 ,,4,170,170,105,208,170
+23324,26442,2021-09-21 ,2021-09-21 ,Update of dashboards and running sitrep scripts  Update of sitrep script,4,170,170,105,1226,170
+23325,26443,2021-09-21 ,2021-09-21 ,Protocol Seroprevalence community  update of dashboards  meetings  Visit LBB,10,170,170,105,961,170
+23326,26444,2021-09-21 ,2021-09-21 ,Laboratory database  discussion and draft,0.5,170,170,105,1209,170
+23327,26445,2021-09-21 ,2021-09-21 ,Data analysis plan discussion  data cleaning discussion,1,170,170,105,1213,170
+23328,26446,2021-09-21 ,2021-09-21 ,Discussion with Corinne - intervention document,0.5,170,170,105,1243,170
+23329,26447,2021-09-21 ,2021-09-21 ,Module on modelling,2,170,170,105,1197,170
+23330,26448,2021-09-21 ,2021-09-21 ,,4,81,81,105,1050,81
