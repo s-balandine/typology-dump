@@ -2357,3 +2357,6 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2356,2400,2021-10-01 ,2021-10-01 ,ARASS_Rabi AMADOU,Rabi AMADOU,1,152,152,,331
 2357,2401,2021-10-05 ,2021-10-05 ,AR97_Nadia FAYAD,Expertise - Nadia FAYAD,1,176,176,186,97
 2358,2402,2021-10-05 ,2021-10-05 ,AR97_Danise Emile,Expertise - Danise Emile,1,176,176,185,97
+2359,2403,2021-10-12 ,2021-10-12 ,AR97_,"",1,177,177,,97
+2360,2404,2021-10-12 ,2021-10-12 ,AR97_Expertise - Yves Amevoin ,Expertise - Yves Amevoin ,1,177,177,,97
+2361,2405,2021-10-12 ,2021-10-12 ,AR97_A recruter - Dev VBA,A recruter - Dev VBA,1,177,177,,97
