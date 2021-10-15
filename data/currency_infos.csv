@@ -8,3 +8,5 @@ rownames,currency_info_id,is_inverse,currency_code,format_string,precision,name_
 7,7,0,GBP,# ##0.00,2,Livre Sterling,British Pound
 8,8,0,CDF,# ##0.00,2,Franc,Franc
 9,9,0,CHF,# ##0.00,2,Franc Suisse,Swiss franc
+10,10,0,ETB,# #0.00,0,Birr éthiopien,Ethiopian Birrs
+11,11,0,SDG,# #0.00,0,Live soudanaise,Sudanese Pound
