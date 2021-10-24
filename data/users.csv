@@ -192,7 +192,7 @@ rownames,user_id,created,modified,email,password,first_name,last_name,phone,acti
 191,191,2021-04-19 ,2021-04-20 ,joseph.sagara@epicentre.msf.org,pmJlS5IX0leKfk4rvMNePQ==,Joseph Amadomon,Sagara,,0,1,0,fr-FR,2021-04-20 ,170,185,185
 192,192,2021-04-19 ,2021-05-03 ,halidou.salou@epicentre.msf.org,6eEYB59bzro=,Halidou,Salou,,0,1,0,fr-FR,2021-04-20 ,170,185,185
 193,193,2021-04-27 ,2021-04-27 ,khasan.ibragimov@epicentre.msf.org,cG2Yv/OqxCM=,Khasan,IBRAGIMOV,,1,1,0,en-GB,2021-05-05 ,84,185,185
-194,194,2021-05-20 ,2021-10-21 ,amanda.lovell@epicentre.msf.org,Xvn4GLo80ovTBcw9dtCTKg==,Amanda,Lovell,,1,0,0,en-GB,2021-10-22 ,19,160,194
+194,194,2021-05-20 ,2021-10-21 ,amanda.lovell@epicentre.msf.org,Xvn4GLo80ovTBcw9dtCTKg==,Amanda,Lovell,,1,0,0,en-GB,2021-10-23 ,19,160,194
 195,195,2021-05-25 ,2021-05-25 ,Soazic.Gardais@epicentre.msf.org,dJ1ZkjIESNdhQgFOv3a8WA==,Soazic,Gardais,,1,0,0,fr-FR,,43,161,161
 196,196,2021-05-25 ,2021-05-25 ,Danise.Emile@epicentre.msf.org,H1roTfNKgqZx54Hf9OwQpg==,Danise,Emile,,1,0,0,fr-FR,,43,161,161
 197,197,2021-05-25 ,2021-05-25 ,nadia.fayad@epicentre.msf.org,H1roTfNKgqZx54Hf9OwQpg==,Nadia,Fayad,,1,0,0,fr-FR,,11,161,161
@@ -204,4 +204,4 @@ rownames,user_id,created,modified,email,password,first_name,last_name,phone,acti
 203,203,2021-09-22 ,2021-09-22 ,Issoufou.ABDOULAHI@epicentre.msf.org,MVEF9ujDigKPHLkfQpMjPA==,Issoufou,Abdoulahi,,1,0,0,fr-FR,2021-10-15 ,152,161,161
 204,204,2021-09-24 ,2021-09-24 ,bastien.mollo@epicentre.msf.org,5r2bwkDB/yM=,Bastien,MOLLO,,1,1,0,fr-FR,2021-09-30 ,52,176,176
 205,205,2021-10-14 ,2021-10-14 ,nouha.touati@epicentre.msf.org,e7FPfakwMa0=, Nouha,TOUATI,,1,1,0,fr-FR,2021-10-20 ,33,176,176
-206,206,2021-10-20 ,2021-10-20 ,dan.nyehangane@epicentre.msf.org,e7FPfakwMa0=,Dan,NYEHANGANE,,1,1,0,fr-FR,2021-10-20 ,80,176,176
+206,206,2021-10-20 ,2021-10-20 ,dan.nyehangane@epicentre.msf.org,e7FPfakwMa0=,Dan,NYEHANGANE,,1,1,0,fr-FR,2021-10-23 ,80,176,176
