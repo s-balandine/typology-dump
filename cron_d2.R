@@ -67,7 +67,7 @@ for(i in 1:nrow(tables)) {
   })
 }
 
-Sys.setenv(GITHUB_PAT="97cc6bf86c31a42fca2de32884cd1f1c4b1102ba")
+Sys.setenv(GITHUB_PAT="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")
 
 system2('git', 'commit -ma "."')
 system2('git', 'push')
