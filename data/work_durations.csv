@@ -23674,3 +23674,7 @@ rownames,work_duration_id,created,modified,comments,duration,created_by_id,last_
 23673,26834,2021-11-10 ,2021-11-10 ,,3,28,28,106,211,28
 23674,26835,2021-11-10 ,2021-11-10 ,,1,28,28,106,208,28
 23675,26836,2021-11-10 ,2021-11-10 , ,3,28,28,106,1131,28
+23676,26837,2021-11-15 ,2021-11-15 ,Mise en place lab database for ELISA results; follow-up with lab on ELISA results and ID issues,2,170,170,106,1209,170
+23677,26838,2021-11-15 ,2021-11-15 ,Visit LBB; testing Alert thresholds and revision of surveillance document; automated analyses and alert tables,13,170,170,106,961,170
+23678,26839,2021-11-15 ,2021-11-15 ,recuperation days 20-25th October,4,170,170,106,208,170
+23679,26840,2021-11-15 ,2021-11-15 ,Testing measles alert thresholds,2,170,170,106,1226,170
