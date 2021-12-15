@@ -56,3 +56,4 @@ rownames,financer_id,created,modified,code,name,by_project_facturation,expertise
 55,55,2020-10-12 ,2020-10-12 ,EPI2,Epicentre autofinancement,1,,,,1,0,165,165
 56,56,2020-10-29 ,2020-10-29 ,GATES,Gates Fundation,1,,,,0,3,161,161
 57,57,2021-02-18 ,2021-02-18 ,LEAP,MSF-UK LEAP,1,,,,0,2,176,176
+58,58,2021-12-14 ,2021-12-14 ,VIDO,Vaccine and Infectious Disease Organization,0,,,,0,3,161,161
