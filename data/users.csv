@@ -51,7 +51,7 @@ rownames,user_id,created,modified,email,password,first_name,last_name,phone,acti
 50,50,2013-11-08 ,2021-02-09 ,sarala.nicholas@epicentre.msf.org,2Zbe5rR4evs=,Sarala,Nicholas,,1,0,0,en-GB,2021-10-22 ,21,,176
 51,51,2013-11-08 ,2021-02-01 ,sophie.masson@epicentre.msf.org,lorNV+Yyim8=,Sophie,Masson,,0,0,0,fr-FR,2018-09-03 ,33,,176
 52,52,2013-11-08 ,2021-10-06 ,thomas.roederer@epicentre.msf.org,vwoG/ZCGNHE=,Thomas,Roederer,,1,0,0,fr-FR,2021-12-13 ,3,,176
-53,53,2013-11-08 ,2020-12-17 ,yap.boum@epicentre.msf.org,+o2y7VQu1PIBDZKM6T1MLg==,Yap,Boum,,1,0,0,fr-FR,2021-11-08 ,19,,176
+53,53,2013-11-08 ,2020-12-17 ,yap.boum@epicentre.msf.org,+o2y7VQu1PIBDZKM6T1MLg==,Yap,Boum,,1,0,0,fr-FR,2021-12-20 ,19,,176
 54,54,2013-11-08 ,2021-02-01 ,yolanda.muller@epicentre.msf.org,ta7dMVquKaQ0HLhhqMpp5g==,Yolanda,Muller,,0,0,0,fr-FR,2015-07-15 ,43,,176
 55,55,2013-11-08 ,2021-07-05 ,nasir.naseer@epicentre.msf.org,Mk9/8FJKZEQ=,Nasir,Naseer,,1,0,0,en-GB,2021-12-14 ,80,,161
 56,56,2013-11-08 ,2021-12-01 ,Aminatou.DJIBRILLA@epicentre.msf.org,S7d03nO0TTA=,Aminatou,Djibrilla,,1,0,0,fr-FR,2021-11-16 ,43,,161
@@ -159,7 +159,7 @@ rownames,user_id,created,modified,email,password,first_name,last_name,phone,acti
 158,158,2019-03-12 ,2021-02-01 ,paul.campbell@epicentre.msf.org,aMPa+t4mR+ES0ttlz5NZ6Q==,Paul,Campbell,,1,0,0,en-GB,2019-12-16 ,116,60,176
 159,159,2019-05-20 ,2019-05-20 ,clemence.breard-gaillandre@epicentre.msf.org,lii0iJ33n7Oogayd/pJLwA==,Clémence,Breard,,1,0,0,fr-FR,2019-05-20 ,59,60,60
 160,160,2019-05-26 ,2021-02-03 ,xavier.audeon@epicentre.msf.org,jyCmAeX+7od2QXhmfLbgcw==,Xavier,Audéon,,1,0,1,fr-FR,2021-11-25 ,19,60,176
-161,161,2019-06-02 ,2021-12-10 ,david.bontemps@epicentre.msf.org,SZCQ2dZAbHZSuhaNmRTUiw==,David,Bontemps,,1,0,0,fr-FR,2021-12-15 ,43,60,161
+161,161,2019-06-02 ,2021-12-10 ,david.bontemps@epicentre.msf.org,SZCQ2dZAbHZSuhaNmRTUiw==,David,Bontemps,,1,0,0,fr-FR,2021-12-19 ,43,60,161
 162,162,2019-06-04 ,2021-02-09 ,laurence.denis@epicentre.msf.org,MepWzZbh2BA=,Laurence,Denis,,0,0,0,fr-FR,,33,60,176
 163,163,2019-06-05 ,2021-05-03 ,erica.simons@epicentre.msf.Org,u0UXCWuHh9AHabi0t//x/A==,Erica,Simons,,1,0,0,en-GB,2021-10-21 ,33,60,185
 164,164,2019-07-02 ,2020-11-23 ,alexis.smigielski@epicentre.msf.org,zpo0lxmg94MArfR8Pgq57A==,Alexis,Smigielski,,0,0,0,fr-FR,2020-11-19 ,19,60,176
