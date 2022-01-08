@@ -57,3 +57,4 @@ rownames,financer_id,created,modified,code,name,by_project_facturation,expertise
 56,56,2020-10-29 ,2020-10-29 ,GATES,Gates Fundation,1,,,,0,3,161,161
 57,57,2021-02-18 ,2021-02-18 ,LEAP,MSF-UK LEAP,1,,,,0,2,176,176
 58,58,2021-12-14 ,2021-12-14 ,VIDO,Vaccine and Infectious Disease Organization,0,,,,0,3,161,161
+59,59,2022-01-07 ,2022-01-07 ,ARS,PREVAC - ARS,1,701000,702100,,0,3,176,176
