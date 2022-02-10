@@ -2300,7 +2300,7 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2299,2356,2021-06-16 ,2021-06-16 ,AR211_Slry-Gaston Komanda-RDC,Slry-Gaston Komanda-RDC,1,105,105,,215
 2300,2357,2021-06-16 ,2022-02-07 ,AR97_Expertise - Ana Klein,Expertise - Ana Klein,1,105,176,,97
 2301,2358,2021-06-16 ,2022-02-07 ,AR97_Expertise - Denis-Luc ARDIET,Expertise - Denis-Luc ARDIET,1,105,176,87,97
-2302,2359,2021-06-16 ,2022-02-07 ,AR97_Expertise - A identifier,Expertise - A identifier,1,105,176,,97
+2302,2359,2021-06-16 ,2022-02-09 ,AR97_Expertise - A identifier_DEIF,Expertise - A identifier_DEIF,1,105,176,,97
 2303,2360,2021-06-16 ,2021-06-16 ,AR211_Slry-Study Coordinator (to be identified),Slry-Study Coordinator (to be identified),1,105,105,,215
 2304,2367,2021-06-18 ,2021-06-18 ,AR97_Expertise-Paul Campbell,Expertise-Paul Campbell,1,20,20,,97
 2305,2369,2021-06-23 ,2021-06-23 ,AR97_Expertise - Lise Grout,Expertise - Lise Grout,1,62,62,,97
@@ -2346,3 +2346,5 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2345,2411,2022-02-07 ,2022-02-07 ,AR97_Expertise - Maelle Charrier,Expertise - Maelle Charrier,1,176,176,200,97
 2346,2412,2022-02-07 ,2022-02-07 ,AR97_Expertise - Justin Bienvenu Eyong,Expertise - Justin Bienvenu Eyong,1,176,176,201,97
 2347,2413,2022-02-07 ,2022-02-07 ,AR97_Expertise - Catherine Eisenhauer,Expertise - Catherine Eisenhauer,1,176,176,202,97
+2348,2414,2022-02-09 ,2022-02-09 ,AR97_Expertise - Emelie Yonally Phillips,Expertise - Emelie Yonally Phillips,1,176,176,203,97
+2349,2415,2022-02-09 ,2022-02-09 ,AR97_Expertise - A identifier_DR,Expertise - A identifier_DR,1,176,176,,97
