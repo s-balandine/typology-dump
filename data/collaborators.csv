@@ -24,9 +24,9 @@ rownames,collaborator_id,created,modified,firstname,lastname,register_number,ema
 23,23,2013-11-08 ,2016-11-08 ,Francesco,Grandesso,80S011,francesco.grandesso@epicentre.msf.org,2009-09-23,,1,2009-09-23,1,1,1,,1,1,0.7,0,,60,1,7,1,10,498
 24,24,2013-11-08 ,2017-03-07 ,Francisco,Luquero,80S109,francisco.luquero@epicentre.msf.org,2009-11-02,,1,2013-03-01,1,0,1,,1,1,0.7,0,,60,2,6,1,10,500
 25,25,2013-11-08 ,2021-01-13 ,Fabienne,Nackers,80S055,fabienne.nackers@brussels.msf.org,2006-08-01,,1,2006-08-01,1,1,1,,1,1,0.346,4552,,176,3,6,1,10,500
-26,26,2013-11-08 ,2022-02-21 ,Héléna,HUERGA,80S119,helena.huerga@epicentre.msf.org,2009-03-01,,1,2013-12-01,1,1,1,,1,1,0.7,0,,176,1,7,1,10,498
+26,26,2013-11-08 ,2022-02-24 ,Helena,HUERGA,80S119,helena.huerga@epicentre.msf.org,2009-03-01,,1,2013-12-01,1,1,1,,1,1,0.7,0,,176,1,7,1,10,498
 27,27,2013-11-08 ,2014-12-11 ,Isabelle,Beauquesne,80S015,isabelle.beauquesne@epicentre.msf.org,2003-02-03,2013-12-31,0,2013-04-10,1,1,1,,1,0,0.7,0,,60,1,7,1,9,349
-28,28,2013-11-08 ,2016-11-08 ,Jihane,Ben Farhat,80S122,jihane.ben-farhat@epicentre.msf.org,2010-08-23,,1,2013-01-01,1,1,1,,1,1,0.7,0,,60,1,8,1,14,498
+28,28,2013-11-08 ,2022-02-24 ,Jihane,BEN-FARHAT,80S122,jihane.ben-farhat@epicentre.msf.org,2010-08-23,,1,2013-01-01,1,1,1,,1,1,0.7,0,,176,1,8,1,14,498
 29,29,2013-11-08 ,2014-12-11 ,Jean-François,Etard,80S099,jean-francois.etard@epicentre.msf.org,2009-02-02,2014-09-30,0,2009-02-02,1,1,0,,0,0,0.7,0,,60,1,2,1,11,331
 30,30,2013-11-08 ,2017-11-03 ,Jessica,sayyad,80S168,jessica.sayyad@epicentre.msf.org,2014-07-15,,1,2014-07-15,1,1,1,,1,1,0.608,0,,60,1,8,1,10,498
 31,31,2013-11-08 ,2014-12-11 ,Jonathan,Polonsky,80S101,jonathan.polonsky@epicentre.msf.org,2009-04-06,2014-05-16,0,2010-02-22,1,1,1,,1,0,0.7,0,,60,1,8,1,10,349
@@ -35,13 +35,13 @@ rownames,collaborator_id,created,modified,firstname,lastname,register_number,ema
 34,34,2013-11-08 ,2016-11-08 ,Lise,Denoeud,80S206,lise.denoeud@epicentre.msf.org,2013-01-07,,1,2013-01-07,1,1,1,,1,1,0.7,0,,60,1,7,1,10,500
 35,35,2013-11-08 ,2017-11-03 ,Marie-Amélie,Degail,80S179,marie-amelie.degail@epicentre.msf.org,2017-07-01,2017-12-31,1,2017-07-01,1,1,1,,1,1,0.7,0,,60,1,8,2,10,498
 36,36,2013-11-08 ,2014-12-11 ,Maryline,Bonnet,80S023,maryline.bonnet@epicentre.msf.org,2003-10-01,2014-08-31,0,2011-10-01,1,0,1,,1,1,0.2,8558.66942,,60,2,5,1,10,331
-37,37,2013-11-08 ,2021-01-29 ,Mathieu,Bastard,80S110,mathieu.bastard@geneva.msf.org,2011-04-01,,1,2010-01-11,1,0,1,,1,1,0.2,6530.82,,176,2,8,1,14,498
+37,37,2013-11-08 ,2022-02-24 ,Mathieu,BASTARD,80S110,mathieu.bastard@geneva.msf.org,2011-04-01,,1,2010-01-11,1,0,1,,1,1,0.2,6530.82,,176,2,8,1,14,498
 38,38,2013-11-08 ,2016-11-08 ,Matthew,Coldiron,80S157,matthew.coldiron@epicentre.msf.org,2011-03-15,,1,2016-07-01,1,1,1,,1,1,0.7,0,,60,1,6,1,10,500
 39,39,2013-11-08 ,2016-11-08 ,Marie-Hélène,Soulier,80S094,marie-helene.soulier@epicentre.msf.org,2015-01-01,,1,2015-01-01,1,1,1,,1,1,0.7,0,,60,1,7,1,10,498
 40,40,2013-11-08 ,2013-11-20 ,Nsanga,Besa,80S171,chantal.besa@epicentre.msf.org,2013-07-01,2013-07-13,0,2013-12-31,1,1,1,,1,0,0.7,0,,60,1,8,2,10,349
 41,41,2013-11-08 ,2013-11-20 ,Nathalie,Nicolay,80S118,nathalie.nicolay@epicentre.msf.org,2012-01-16,2013-07-15,0,2013-12-31,1,1,1,,1,0,0.7,0,,60,1,8,2,10,331
 42,42,2013-11-08 ,2016-07-12 ,Rebecca,Grais,80S029,rebecca.grais@epicentre.msf.org,2005-04-05,,1,2008-03-19,1,1,1,,1,1,0.608,6304.22,,60,1,17,1,11,500
-43,43,2013-11-08 ,2016-11-08 ,Serge,Balandine,80S030,serge.balandine@epicentre.msf.org,1999-05-01,,1,2009-01-01,1,1,1,,1,1,0.7,0,,60,1,8,1,17,498
+43,43,2013-11-08 ,2022-02-24 ,Serge,BALANDINE,80S030,serge.balandine@epicentre.msf.org,1999-05-01,,1,2009-01-01,1,1,1,,1,1,0.7,0,,176,1,8,1,17,498
 44,44,2013-11-08 ,2016-11-08 ,Sandra,Cohuet,80S031,sandra.cohuet@epicentre.msf.org,2010-06-01,,1,2016-01-01,1,1,1,,1,1,0.7,0,,60,1,6,1,10,498
 45,45,2013-11-08 ,2016-11-08 ,Saif,Eldin Abdallah,80S148,saif.abdallah@epicentre.msf.org,2011-10-11,,1,2011-10-11,1,1,1,,1,1,0.7,0,,60,1,8,1,10,498
 46,46,2013-11-08 ,2016-11-08 ,Sheila,Isanaka,80S164,sheila.isanaka@epicentre.msf.org,2011-09-08,,1,2013-08-01,1,1,1,,1,1,0.7,0,,60,1,6,1,10,500
@@ -169,7 +169,7 @@ rownames,collaborator_id,created,modified,firstname,lastname,register_number,ema
 168,168,2018-06-11 ,2018-06-11 ,Anaïs,Broban,MATAB,anais.broban@epicentre.msf.org,2018-06-04,,1,2018-06-11,1,1,1,,1,0,0,0,60,60,1,9,2,10,498
 169,169,2019-02-26 ,2019-02-26 ,Emeline,Calvez,80S450,emeline.calvez@epicentre.msf.org,2019-02-26,,1,2019-02-04,100,1,1,,1,0,0,0,60,60,1,12,1,4,192
 170,170,2019-02-26 ,2019-02-26 ,Robert,Nsaibirni,80SRN,robert.nsaibirni@epicentre.msf.org,2019-02-13,,1,2019-02-05,100,1,1,,1,0,0,0,60,60,1,6,2,10,703
-171,171,2019-03-11 ,2022-02-21 ,Maria Silvia ,LIGHTOWLER,80SML,maria.lightowler@brussels.msf.org,2019-03-04,,1,2019-03-05,0,1,0,,1,1,0,0,60,176,,7,1,31,573
+171,171,2019-03-11 ,2022-02-24 ,Maria,LIGHTOWLER,80SML,maria.lightowler@brussels.msf.org,2019-03-04,,1,2019-03-05,0,1,0,,1,1,0,0,60,176,,7,1,31,573
 172,172,2019-03-12 ,2019-03-12 ,Grace,MAMBULA,80SGR,grace.mambula@epicentre.msf.org,2019-03-07,2019-03-12,1,2019-03-11,100,1,1,,1,0,0,0,60,60,1,8,2,31,500
 173,173,2019-03-12 ,2019-03-12 ,Paul,Campbell,80SPC,paul.campbell@epicentre.msf.org,2019-03-12,2019-03-12,1,2019-03-12,100,1,1,,1,0,0,0,60,60,1,7,2,6,500
 174,174,2019-06-24 ,2022-02-07 ,Erica,Simons,80S350,erica.simons@epicentre.msf.org,2019-03-06,2019-04-17,1,2019-06-04,1,1,1,,1,0,0,0,60,176,1,9,2,10,997
