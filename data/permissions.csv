@@ -14,14 +14,15 @@ rownames,perm_id,perm_name,module,group_name,perm_position
 13,13,CanEditOwnDurationPermission,MSFD2Module,ComptagePermissionGroupName,0
 14,14,PayeSessionAccess,PayeSessionModule,D2Cubes,0
 15,15,ProjetSessionAccess,ProjetSessionModule,D2Cubes,0
-16,16,view reports,ReportModule,ListsGroup,1320
-17,17,manage reporting fields,ReportModule,ListsGroup,1320
+16,16,view reports,ReportModule,ReportingGroup,1320
+17,17,manage reporting fields,ReportModule,ReportingGroup,1320
 18,18,import data,DataImportModule,,0
 19,19,administer users,UsersModule,,0
 20,20,AdminCollaboratorsPermission,CollaboratorsModule,RefPermissionGroupName,0
 21,21,ManualAffectationProjectCodePermission,EnvironmentsModule,Epicentre,0
-22,22,CanDeleteReportViews,ReportModule,ListsGroup,1320
-23,23,CanModifyReportViews,ReportModule,ListsGroup,1320
+22,22,CanDeleteReportViews,ReportModule,ReportingGroup,1320
+23,23,CanModifyReportViews,ReportModule,ReportingGroup,1320
 24,24,AdminArcoleSynchronizations,ArcoleModule,D2,0
-25,25,CanManageReports,ReportModule,ListsGroup,1320
+25,25,CanManageReports,ReportModule,ReportingGroup,1320
 26,26,CanChangeEndOfExpenditureCommitment,MSFD2Module,ProjectPermissionGroupName,0
+27,27,CanManageImportWorkDays,ImportWorkDaysModule,"",0
