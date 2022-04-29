@@ -1,14 +1,14 @@
 rownames,named_article_id,created,modified,code,label,active,created_by_id,last_modification_by_id,collaborator_entity_id,article_id
 1,1,2013-11-08 ,2013-11-21 ,AR97N1,Expertise - Andrea Bernasconi,1,,65,1,97
 2,2,2013-11-08 ,2013-11-21 ,AR97N2,Expertise - Aitana Juan Giner,1,,65,2,97
-3,3,2013-11-08 ,2013-11-21 ,AR97N3,Expertise - Augusto Llosa,1,,65,3,97
+3,3,2013-11-08 ,2022-04-28 ,AR97_Expertise - Augusto LIosa,Expertise - Augusto LIosa,0,,176,3,97
 4,4,2013-11-08 ,2013-11-21 ,AR97N4,Expertise - Anne-Laure Page,1,,65,4,97
 5,5,2013-11-08 ,2013-11-21 ,AR97N5,Expertise - Andréa Minetti,1,,65,5,97
 6,6,2013-11-08 ,2013-11-21 ,AR97N6,Expertise - Alexandra Ngoran,1,,65,6,97
 7,7,2013-11-08 ,2013-11-21 ,AR97N7,Expertise - Amanda Tiffany,1,,65,7,97
 8,8,2013-11-08 ,2013-11-21 ,AR97N8,Expertise - Axelle Ronsse,1,,65,8,97
-9,9,2013-11-08 ,2013-11-21 ,AR97N9,Expertise - Birgit Schramm,1,,65,9,97
-10,10,2013-11-08 ,2013-11-21 ,AR97N10,Expertise - Brahima Touré,1,,65,10,97
+9,9,2013-11-08 ,2022-04-28 ,AR97_Expertise - Birgit SCHRAMM,Expertise - Birgit SCHRAMM,1,,176,9,97
+10,10,2013-11-08 ,2022-04-28 ,AR97_Expertise - Brahima TOURE,Expertise - Brahima TOURE,1,,176,10,97
 11,11,2013-11-08 ,2013-11-21 ,AR97N11,Expertise - Céline Langendorf,1,,65,11,97
 12,12,2013-11-08 ,2013-11-21 ,AR97N12,Expertise - Carrie Lee Teicher,1,,65,12,97
 13,13,2013-11-08 ,2013-11-21 ,AR97N13,Expertise - Caroline Marquer,1,,65,13,97
@@ -17,16 +17,16 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 16,16,2013-11-08 ,2013-11-21 ,AR97N16,Expertise - Danielle Michel,1,,65,16,97
 17,17,2013-11-08 ,2013-11-21 ,AR97N17,Expertise - David Maman,1,,65,17,97
 18,18,2013-11-08 ,2013-11-21 ,AR97N18,Expertise - Elisabeth Baudin,1,,65,18,97
-19,19,2013-11-08 ,2013-11-21 ,AR97N19,Expertise - Emmanuel Baron,1,,65,19,97
-20,20,2013-11-08 ,2013-11-21 ,AR97N20,Expertise - Emmanuel Grellety-Bosviel,1,,65,20,97
-21,21,2013-11-08 ,2013-11-21 ,AR97N21,Expertise - Elisabeth Poulet,1,,65,21,97
+19,19,2013-11-08 ,2022-04-28 ,AR97_Expertise - Emmanuel BARON,Expertise - Emmanuel BARON,1,,176,19,97
+20,20,2013-11-08 ,2022-04-28 ,AR97_Expertise - Emmanuel GRELLETY BOSVIEL,Expertise - Emmanuel GRELLETY BOSVIEL,1,,176,20,97
+21,21,2013-11-08 ,2022-04-28 ,AR97_Expertise - Elisabeth POULET,Expertise - Elisabeth POULET,1,,176,21,97
 22,22,2013-11-08 ,2013-11-21 ,AR97N22,Expertise - Elisabeth Sanchez Padilla,1,,65,22,97
-23,23,2013-11-08 ,2013-11-21 ,AR97N23,Expertise - Francesco Grandesso,1,,65,23,97
+23,23,2013-11-08 ,2022-04-28 ,AR97_Expertise - Francesco GRANDESSO,Expertise - Francesco GRANDESSO,1,,176,23,97
 24,24,2013-11-08 ,2013-11-21 ,AR97N24,Expertise - Francisco Luquero,1,,65,24,97
 25,25,2013-11-08 ,2013-11-21 ,AR97N25,Expertise - Fabienne Nackers,1,,65,25,97
-26,26,2013-11-08 ,2013-11-21 ,AR97N26,Expertise - Héléna Huerga,1,,65,26,97
+26,26,2013-11-08 ,2022-04-28 ,AR97_Expertise - Helena HUERGA,Expertise - Helena HUERGA,1,,176,26,97
 27,27,2013-11-08 ,2013-11-21 ,AR97N27,Expertise - Isabelle Beauquesne,1,,65,27,97
-28,28,2013-11-08 ,2013-11-21 ,AR97N28,Expertise - Jihane Ben Farhat,1,,65,28,97
+28,28,2013-11-08 ,2022-04-28 ,AR97_Expertise - Jihane BEN-FARHAT,Expertise - Jihane BEN-FARHAT,1,,176,28,97
 29,29,2013-11-08 ,2013-11-21 ,AR97N29,Expertise - Jean-François Etard,1,,65,29,97
 30,30,2013-11-08 ,2013-11-21 ,AR97N30,Expertise - Jessica Neerkorn,1,,65,30,97
 31,31,2013-11-08 ,2013-11-21 ,AR97N31,Expertise - Jonathan Polonsky,1,,65,31,97
@@ -35,23 +35,23 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 34,35,2013-11-08 ,2013-11-08 ,AR97N35,Expertise - Laurence Verdenal,1,,,,97
 35,36,2013-11-08 ,2013-11-21 ,AR97N36,Expertise - Marie-Amélie Degail,1,,65,35,97
 36,37,2013-11-08 ,2013-11-21 ,AR97N37,Expertise - Maryline Bonnet,1,,65,36,97
-37,38,2013-11-08 ,2013-11-21 ,AR97N38,Expertise - Mathieu Bastard,1,,65,37,97
+37,38,2013-11-08 ,2022-04-28 ,AR97_Expertise - Mathieu BASTARD,Expertise - Mathieu BASTARD,1,,176,37,97
 38,39,2013-11-08 ,2013-11-21 ,AR97N39,Expertise - Matthew Coldiron,1,,65,38,97
-39,40,2013-11-08 ,2013-11-21 ,AR97N40,Expertise - Marie-Hélène Soulier,1,,65,39,97
+39,40,2013-11-08 ,2022-04-28 ,AR97_Expertise - Marie-Hélène SOULIER,Expertise - Marie-Hélène SOULIER,1,,176,39,97
 40,41,2013-11-08 ,2013-11-21 ,AR97N41,Expertise - Chantal Nsanga-Besa,1,,65,40,97
 41,42,2013-11-08 ,2013-11-21 ,AR97N42,Expertise - Nathalie Nicolay,1,,65,41,97
 42,44,2013-11-08 ,2013-11-08 ,AR97N44,Expertise - Said Aberranne,1,,,,97
-43,45,2013-11-08 ,2013-11-21 ,AR97N45,Expertise - Serge Balandine,1,,65,43,97
+43,45,2013-11-08 ,2022-04-28 ,AR97_Expertise - Serge BALANDINE,Expertise - Serge BALANDINE,1,,176,43,97
 44,46,2013-11-08 ,2013-11-08 ,AR97N46,Expertise - Séverine Dupont,1,,,,97
 45,47,2013-11-08 ,2013-11-21 ,AR97N47,Expertise - Sandra Cohuet,1,,65,44,97
-46,48,2013-11-08 ,2013-11-21 ,AR97N48,Expertise - Saif Eldin Abdallah,1,,65,45,97
+46,48,2013-11-08 ,2022-04-28 ,AR97_Expertise - Saïf Eldin ABDALLAH,Expertise - Saïf Eldin ABDALLAH,1,,176,45,97
 47,49,2013-11-08 ,2013-11-21 ,AR97N49,Expertise - Sheila Isanaka,1,,65,46,97
-48,50,2013-11-08 ,2013-11-21 ,AR97N50,Expertise - Sarala Nicholas,1,,65,47,97
-49,51,2013-11-08 ,2013-11-21 ,AR97N51,Expertise - Sophie Masson,1,,65,48,97
-50,52,2013-11-08 ,2013-11-21 ,AR97N52,Expertise - Thomas Roederer,1,,65,49,97
-51,53,2013-11-08 ,2013-11-21 ,AR97N53,Expertise - Yap Boum,1,,65,50,97
+48,50,2013-11-08 ,2022-04-28 ,AR97_Expertise - Sarala NICHOLAS,Expertise - Sarala NICHOLAS,1,,176,47,97
+49,51,2013-11-08 ,2022-04-28 ,AR97_Expertise - Sophie MASSON,Expertise - Sophie MASSON,1,,176,48,97
+50,52,2013-11-08 ,2022-04-28 ,AR97_Expertise - Thomas ROEDERER,Expertise - Thomas ROEDERER,1,,176,49,97
+51,53,2013-11-08 ,2022-04-28 ,AR97_Expertise - Yap BOUM II,Expertise - Yap BOUM II,1,,176,50,97
 52,54,2013-11-08 ,2013-11-21 ,AR97N54,Expertise - Yolanda Muller,1,,65,51,97
-53,55,2013-11-08 ,2013-11-21 ,AR97N55,Expertise - Etienne Gignoux,1,,65,59,97
+53,55,2013-11-08 ,2022-04-28 ,AR97_Expertise - Etienne GIGNOUX,Expertise - Etienne GIGNOUX,1,,176,59,97
 54,56,2013-11-08 ,2013-11-08 ,FPER1,Coordinateur logistique - Christopher Hall,1,,,,88
 55,57,2013-11-08 ,2013-11-08 ,FPER2,Coordinateur logistique - Jean Damacene,1,,,,88
 56,58,2013-11-08 ,2013-11-08 ,FPER3,Coordinateur finance et ressources humaines - Garba,1,,,,89
@@ -1776,7 +1776,7 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 1775,1806,2018-02-28 ,2018-02-28 ,AR112_Commanade internationale,Commanade internationale,1,140,140,,112
 1776,1807,2018-02-28 ,2018-02-28 ,AR19_Chaises,Chaises,1,140,140,,19
 1777,1808,2018-02-28 ,2018-02-28 ,AR11_MAISON3,MAISON3,1,140,140,,11
-1778,1809,2018-03-02 ,2018-03-02 ,AR97_Expertise - Claire Bossard,Expertise - Claire Bossard,1,21,21,154,97
+1778,1809,2018-03-02 ,2022-04-28 ,AR97_Expertise - Claire BOSSARD,Expertise - Claire BOSSARD,1,21,176,154,97
 1779,1810,2018-03-05 ,2018-03-05 ,ARNCD,Expertise - Corine Danet,1,60,60,125,97
 1780,1811,2018-03-08 ,2018-10-25 ,ARNAA,Expertise - Alexandra Ascorra,1,60,60,166,97
 1781,1812,2018-03-27 ,2018-03-27 ,ARNKT,Expertise - Kevin Tang,1,60,60,164,97
