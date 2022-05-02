@@ -4703,3 +4703,4 @@ rownames,decision_id,comments_follow_up,comments_responsible,date,user_id,contri
 4702,4721,Refus du cube consolidé pour remettre l'Etat du cube de Terminé à En cours (Les lignes budgétaires de consultant ne sont pas associés à des articles nommés dans ton cube R1 2022 + Il faudra modifier aussi le prix unitaire en mettant 700 au lieu de 450 dans ton cube) correction à faire par Nolwenn CONAN. ,,2022-04-29 ,176,2153,2
 4703,4722,"","",2022-04-29 ,208,2198,0
 4704,4723,"","",2022-04-29 ,28,2151,0
+4705,4724,"","",2022-05-01 ,177,2177,0
