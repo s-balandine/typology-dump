@@ -28,7 +28,7 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 27,27,2013-11-08 ,2013-11-21 ,AR97N27,Expertise - Isabelle Beauquesne,1,,65,27,97
 28,28,2013-11-08 ,2022-04-28 ,AR97_Expertise - Jihane BEN-FARHAT,Expertise - Jihane BEN-FARHAT,1,,176,28,97
 29,29,2013-11-08 ,2013-11-21 ,AR97N29,Expertise - Jean-François Etard,1,,65,29,97
-30,30,2013-11-08 ,2013-11-21 ,AR97N30,Expertise - Jessica Neerkorn,1,,65,30,97
+30,30,2013-11-08 ,2022-05-04 ,AR97N30,Expertise - Jessica Neerkorn,0,,176,30,97
 31,31,2013-11-08 ,2013-11-21 ,AR97N31,Expertise - Jonathan Polonsky,1,,65,31,97
 32,32,2013-11-08 ,2013-11-21 ,AR97N32,Expertise - Kate Alberti,1,,65,32,97
 33,34,2013-11-08 ,2013-11-21 ,AR97N34,Expertise - Lise Denoeud,1,,65,34,97
@@ -1490,7 +1490,7 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 1489,1516,2017-05-24 ,2017-05-24 ,ARNTIBDECHE,Expertise - Thibaud De Chevigny,1,60,60,144,97
 1490,1517,2017-05-24 ,2017-05-24 ,ARNEUGA,Expertise - Eugenie Allessandro,0,60,60,126,97
 1491,1518,2017-05-26 ,2017-05-26 ,AR210_ERB,ERB,1,2,2,,214
-1492,1519,2017-05-31 ,2022-02-07 ,AR97_Expertise - Severine Frison,Expertise - Severine Frison,1,60,176,141,97
+1492,1519,2017-05-31 ,2022-05-04 ,AR97_Expertise - Severine Frison,Expertise - Severine Frison,0,60,176,141,97
 1493,1520,2017-09-06 ,2017-09-06 ,AR10_contribution eau et electricité,contribution eau et electricité,1,140,140,,10
 1494,1521,2017-09-06 ,2017-09-06 ,AR236_armoire métalique,armoire métalique,1,140,140,,241
 1495,1522,2017-09-06 ,2017-09-06 ,AR19_armoire métalique,armoire métalique,1,140,140,,19
@@ -1817,7 +1817,7 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 1816,1852,2018-09-21 ,2018-09-21 ,AR194_Cartouches ISTAT,Cartouches ISTAT,1,140,140,,198
 1817,1853,2018-09-21 ,2018-09-21 ,AR11_Chargeur centrifgeuse,Chargeur centrifgeuse,1,140,140,,11
 1818,1854,2018-10-10 ,2018-10-10 ,AR241_BRIGITTE,BRIGITTE,1,140,140,,246
-1819,1856,2018-10-11 ,2022-02-07 ,AR97_Expertise - Jeanne Haidar,Expertise - Jeanne Haidar,1,60,176,167,97
+1819,1856,2018-10-11 ,2022-05-04 ,AR97_Expertise - Jeanne Haidar,Expertise - Jeanne Haidar,0,60,176,167,97
 1820,1857,2018-10-11 ,2018-10-11 ,AR23_Kampala Office,Kampala Office,1,55,55,,23
 1821,1858,2018-10-11 ,2018-10-11 ,AROFF_Kampala Office,Kampala Office,1,55,55,,324
 1822,1859,2018-10-11 ,2018-10-11 ,AR197_Office supplies (cleaning materials  Sugar  tea /coffee),Office supplies (cleaning materials  Sugar  tea /coffee),1,55,55,,201
@@ -2372,4 +2372,4 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2371,2437,2022-05-03 ,2022-05-03 ,AR211_Field Epidemiologist TO BE HIRED,Field Epidemiologist TO BE HIRED,1,84,84,,215
 2372,2438,2022-05-03 ,2022-05-03 ,AR212_Azizur  Mohammed Rahman,Azizur  Mohammed Rahman,1,84,84,,216
 2373,2439,2022-05-03 ,2022-05-03 ,AR212_Field Epidemiologist TO BE HIRED,Field Epidemiologist TO BE HIRED,1,84,84,,216
-2374,2440,2022-05-03 ,2022-05-03 ,AR1_Field Epidemiologist TO BE HIRED,Field Epidemiologist TO BE HIRED,1,84,84,,1
+2374,2440,2022-05-03 ,2022-05-04 ,AR1_Field Epidemiologist TO BE HIRED,Field Epidemiologist TO BE HIRED,1,84,84,,1
