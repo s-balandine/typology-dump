@@ -198,7 +198,7 @@ rownames,collaborator_id,created,modified,firstname,lastname,register_number,ema
 197,198,2022-02-07 ,2022-04-27 ,Nolwenn,CONAN,02182,Nolwenn.CONAN@epicentre.msf.org,2022-01-01,2022-12-31,1,2022-01-01,0,0,0,,1,0,0,0,176,176,,9,6,32,1233
 198,199,2022-02-07 ,2022-04-27 ,Amna,HAIDER,02133,Amna.HAIDER@epicentre.msf.org,2020-02-24,2022-10-01,1,2020-02-24,0,0,0,,1,1,0,0,176,176,,9,2,10,1233
 199,200,2022-02-07 ,2022-04-27 ,Maelle,CHARRIER,00327,maelle.charrier@epicentre.msf.org,2021-09-02,2022-10-31,1,2021-09-02,0,0,0,,1,1,0,0,176,176,,9,2,27,1233
-200,201,2022-02-07 ,2022-04-26 ,Justin Bienvenu,EYONG,00709, justin.eyong@epicentre.msf.org,2021-09-27,2022-03-27,1,2021-09-27,0,0,0,,1,0,0,0,176,201,,9,2,10,1233
+200,201,2022-02-07 ,2022-05-05 ,Justin Bienvenu,EYONG,02185, justin.eyong@epicentre.msf.org,2021-09-27,2022-03-27,1,2021-09-27,0,0,0,,1,0,0,0,176,201,,9,2,10,1233
 201,202,2022-02-07 ,2022-04-26 ,Catherine,EISENHAUER,02126,catherine.eisenhauer@epicentre.msf.org,2022-01-17,2022-04-15,1,2022-01-17,0,0,0,,1,0,0,0,176,176,,9,2,10,1233
 202,203,2022-02-09 ,2022-04-27 ,Emelie,Yonally PHILLIPS,02179,emelie-yonally.phillips@epicentre.msf.org,2021-11-15,2022-07-15,1,2021-11-15,0,0,0,,1,0,0,0,176,176,,9,6,32,1233
 203,204,2022-04-21 ,2022-04-26 ,Martin,YAKUM,02176,matin.yakum@epicentre.msf.org,2022-05-15,,1,2022-05-15,0,0,0,,1,0,0,0,176,176,,9,1,10,1233
@@ -222,3 +222,6 @@ rownames,collaborator_id,created,modified,firstname,lastname,register_number,ema
 221,222,2022-04-27 ,2022-04-27 ,Métrey,TIV,02174,metrey.tiv@epicentre.msf.org,2022-02-01,2022-12-31,1,2022-02-01,0,0,0,,1,0,0,0,176,176,,9,6,32,1233
 222,223,2022-04-27 ,2022-04-27 ,Eric,YOUM,02158,eric.youm@epicentre.msf.org,2021-04-06,2023-04-05,1,2021-04-06,0,0,0,,1,0,0,0,176,176,,9,2,14,1235
 223,224,2022-04-27 ,2022-04-27 ,Emily,BRISKIN,02139,emily.briskin@epicentre.msf.org,2022-04-01,2022-05-15,1,2022-04-01,0,0,0,,1,0,0,0,176,176,,9,2,10,1233
+224,225,2022-05-05 ,2022-05-05 ,Halidou,SALOU,02156,halidou.salou@epicentre.msf.org,2022-01-17,2023-01-17,1,2022-01-17,0,0,0,,1,0,0,0,176,176,,9,2,10,1233
+225,226,2022-05-05 ,2022-05-05 ,Tadele Gashu,TEKA,02175,tadele.gashu@epicentre.msf.org,2022-05-24,2022-08-05,1,2022-05-24,0,0,0,,1,0,0,0,176,176,,9,2,10,1233
+226,227,2022-05-05 ,2022-05-05 ,Joseph Amadomon,SAGARA,02170,joseph.sagara@epicentre.msf.org,2021-01-19,2022-01-20,1,2021-01-19,0,0,0,,1,0,0,0,176,176,,9,2,10,1233
