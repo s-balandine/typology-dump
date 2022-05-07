@@ -194,7 +194,7 @@ rownames,collaborator_id,created,modified,firstname,lastname,register_number,ema
 193,194,2021-12-13 ,2022-04-27 , Nouha,TOUATI,00715,nouha.touati@epicentre.msf.org,2021-10-13,,1,2021-10-13,0,1,0,,1,0,0,0,176,176,,9,1,2,1233
 194,195,2022-01-24 ,2022-04-27 ,Lionel,PIVEAU,00730,lionel.piveau@epicentre.msf.org,2021-11-02,2022-02-02,1,2021-11-02,0,1,1,,1,1,0,0,176,176,1,13,2,3,1235
 195,196,2022-02-07 ,2022-04-26 ,Ana,KLEIN,00712,ana.klein@epicentre.msf.org,2022-02-14,2022-08-14,1,2022-02-14,0,0,0,,1,0,0,0,176,176,,9,4,10,1233
-196,197,2022-02-07 ,2022-04-27 ,Héloise,LUCACCIONI,00714,heloise.lucaccioni@epicentre.msf.org,2021-09-12,2022-03-12,1,2021-09-12,0,0,0,,1,0,0,0,176,176,,9,2,10,1233
+196,197,2022-02-07 ,2022-05-06 ,Héloise,LUCACCIONI,02183,heloise.lucaccioni@epicentre.msf.org,2021-09-12,2022-03-12,1,2021-09-12,0,0,0,,1,0,0,0,176,201,,9,2,10,1233
 197,198,2022-02-07 ,2022-04-27 ,Nolwenn,CONAN,02182,Nolwenn.CONAN@epicentre.msf.org,2022-01-01,2022-12-31,1,2022-01-01,0,0,0,,1,0,0,0,176,176,,9,6,32,1233
 198,199,2022-02-07 ,2022-04-27 ,Amna,HAIDER,02133,Amna.HAIDER@epicentre.msf.org,2020-02-24,2022-10-01,1,2020-02-24,0,0,0,,1,1,0,0,176,176,,9,2,10,1233
 199,200,2022-02-07 ,2022-04-27 ,Maelle,CHARRIER,00327,maelle.charrier@epicentre.msf.org,2021-09-02,2022-10-31,1,2021-09-02,0,0,0,,1,1,0,0,176,176,,9,2,27,1233
@@ -225,3 +225,13 @@ rownames,collaborator_id,created,modified,firstname,lastname,register_number,ema
 224,225,2022-05-05 ,2022-05-05 ,Halidou,SALOU,02156,halidou.salou@epicentre.msf.org,2022-01-17,2023-01-17,1,2022-01-17,0,0,0,,1,0,0,0,176,176,,9,2,10,1233
 225,226,2022-05-05 ,2022-05-05 ,Tadele Gashu,TEKA,02175,tadele.gashu@epicentre.msf.org,2022-05-24,2022-08-05,1,2022-05-24,0,0,0,,1,0,0,0,176,176,,9,2,10,1233
 226,227,2022-05-05 ,2022-05-05 ,Joseph Amadomon,SAGARA,02170,joseph.sagara@epicentre.msf.org,2021-01-19,2022-01-20,1,2021-01-19,0,0,0,,1,0,0,0,176,176,,9,2,10,1233
+227,228,2022-05-06 ,2022-05-06 ,Pascal Nomwendé,OUEDRAOGO,02149,pascal.ouedraogo@epicentre.msf.org,2021-10-13,2022-10-21,1,2021-10-13,0,0,0,,1,0,0,0,176,176,,9,2,10,1233
+228,229,2022-05-06 ,2022-05-06 ,Mohammad Azizur,RAHMAN,02162,mohammad-azizur.rahman@epicentre.msf.org,2022-01-03,2022-06-03,1,2022-01-03,0,0,0,,1,0,0,0,176,176,,9,2,10,1233
+229,230,2022-05-06 ,2022-05-06 ,Souleymane,ABDOU,80S541,souleymane.abdou@epicentre.msf.org,2021-09-17,2021-10-21,1,2021-09-17,0,0,0,,1,0,0,0,176,176,,9,2,8,1233
+230,231,2022-05-06 ,2022-05-06 ,Mohammad Azeem,ZMARIAL KAKAR,02147,mohammad.zmarial@epicentre.msf.org,2022-04-19,2023-04-18,1,2022-04-19,0,0,0,,1,0,0,0,176,176,,9,2,10,1233
+231,232,2022-05-06 ,2022-05-06 ,Rodney,KAITANO,02148,rodney.kaitano@epicentre.msf.org,2020-08-28,2022-08-31,1,2020-08-28,0,0,0,,1,0,0,0,176,176,,9,2,10,1233
+232,233,2022-05-06 ,2022-05-06 ,Suresh,KIRUPAKARAN,02146,suresh.kirupakaran@epicentre.msf.org,2019-06-16,2022-12-31,1,2019-06-16,0,0,0,,1,0,0,0,176,176,,4,2,19,1233
+233,234,2022-05-06 ,2022-05-06 ,Hassani Omari,MBEGA,02143,Hassani.MBEGA@epicentre.msf.org,2018-07-23,2022-12-31,1,2018-07-23,0,0,0,,1,0,0,0,176,176,,9,2,10,1233
+234,235,2022-05-06 ,2022-05-06 ,Nasir,NASEER,02144,Nasir.NASEER@epicentre.msf.org,2018-04-30,2022-12-31,1,2018-04-30,0,0,0,,1,0,0,0,176,176,,10,2,8,1233
+235,236,2022-05-06 ,2022-05-06 ,Jaclyn,SKIDMORE,02138,jaclyn.skidmore@epicentre.msf.org,2022-02-05,2023-02-01,1,2022-02-05,0,0,0,,1,0,0,0,176,176,,9,2,10,1233
+236,237,2022-05-06 ,2022-05-06 ,Carol,LIU,02169,carol.liu@epicentre.msf.org,2021-06-28,2022-02-16,1,2021-06-28,0,0,0,,1,0,0,0,176,176,,9,2,10,1233

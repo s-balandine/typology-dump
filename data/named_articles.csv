@@ -1732,7 +1732,7 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 1731,1761,2017-11-08 ,2017-11-08 ,ARMAINVEH_Garage intersection,Garage intersection,1,140,140,,337
 1732,1762,2017-11-08 ,2017-11-08 ,ARMAINVEH_Réparation locale,Réparation locale,1,140,140,,337
 1733,1763,2017-11-08 ,2017-11-08 ,AR21_Logiciel,Logiciel,1,56,56,,21
-1734,1764,2017-11-08 ,2022-05-06 ,AR211_Epidémiologiste - Halidou SALOU,Epidémiologiste - Halidou SALOU,1,140,176,225,215
+1734,1764,2017-11-08 ,2022-05-06 ,AR302_Salary - Halidou SALOU,Coût opérationnel  - Halidou SALOU,1,140,176,225,215
 1735,1765,2017-11-12 ,2022-04-27 ,AR97_Expertise - Rami MALAEB,Expertise - Rami MALAEB,1,60,176,150,97
 1736,1766,2017-11-13 ,2022-05-05 ,AREAD,Expertise - Amelie Dublineau,0,60,176,140,97
 1737,1768,2018-02-08 ,2018-02-08 ,AR234_Labo+Pharma,Labo+Pharma,1,140,140,,239
@@ -1986,7 +1986,7 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 1985,2022,2019-02-22 ,2019-02-22 ,AR211_prime de transport,prime de transport,1,140,140,,215
 1986,2023,2019-02-25 ,2019-03-04 ,AR126_Expertise - Robert Nsaibirni,Expertise - Robert Nsaibirni,0,25,60,,126
 1987,2024,2019-02-26 ,2022-04-27 ,AR97_Expertise - Fara Wagbo TEMESSADOUNO,Expertise - Fara Wagbo TEMESSADOUNO,1,60,176,149,97
-1988,2025,2019-02-26 ,2022-04-27 ,AR97_Expertise - Emeline CALVEZ,Expertise - Emeline CALVEZ,1,60,176,169,97
+1988,2025,2019-02-26 ,2022-05-06 ,AR154_Salary - Emeline CALVEZ,Coût opérationnel  - Emeline CALVEZ,1,60,176,169,215
 1989,2026,2019-02-26 ,2022-05-05 ,ARNRN,Expertise - Robert Nasaibirni,0,60,176,170,97
 1990,2027,2019-03-11 ,2019-03-11 ,AR155_Operational costs envelope,Operational costs envelope,1,55,55,,155
 1991,2028,2019-03-11 ,2022-04-27 ,AR97_Expertise - Maria LIGHTOWLER,Expertise - Maria LIGHTOWLER,1,60,176,171,97
@@ -2055,8 +2055,8 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2054,2091,2019-11-06 ,2019-11-06 ,AR211_Grace Mambula,Grace Mambula,1,161,161,,215
 2055,2092,2019-11-06 ,2019-11-06 ,AR211_Flavio Finger,Flavio Finger,1,161,161,,215
 2056,2093,2019-11-06 ,2019-11-06 ,AR211_Hamza Salissou,Hamza Salissou,1,161,161,,215
-2057,2094,2019-11-06 ,2019-11-06 ,AR211_David Bontemps,David Bontemps,1,161,161,,215
-2058,2095,2019-11-06 ,2019-11-06 ,AR211_Souleymane Abdou,Souleymane Abdou,1,161,161,,215
+2057,2094,2019-11-06 ,2022-05-06 ,AR211_David Bontemps,David Bontemps,0,161,176,,215
+2058,2095,2019-11-06 ,2022-05-06 ,AR300_Salary - Souleymane Abdou,Coût opérationnel - Souleymane Abdou,1,161,176,230,215
 2059,2096,2019-11-06 ,2022-05-05 ,AR211_Fanny Harter,Fanny Harter,0,161,176,,215
 2060,2097,2019-11-06 ,2019-11-06 ,AR211_Soumah Aboubacar,Soumah Aboubacar,1,161,161,,215
 2061,2098,2019-11-06 ,2019-11-06 ,AR211_Abdul-Aziz Mamaty,Abdul-Aziz Mamaty,1,161,161,,215
@@ -2192,7 +2192,7 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2191,2230,2021-03-03 ,2021-03-03 ,AR211_Coût opérationnel - Robert Nsaibirni,Coût opérationnel - Robert Nsaibirni,1,161,161,170,215
 2192,2231,2021-03-03 ,2021-03-03 ,AR211_Coût opérationnel - Arthur Makadi,Coût opérationnel - Arthur Makadi,1,161,161,,215
 2193,2232,2021-03-03 ,2021-03-03 ,AR211_Coût opérationnel - Rebecca Grais,Coût opérationnel - Rebecca Grais,1,161,161,,215
-2194,2233,2021-03-03 ,2021-03-03 ,AR211_Coût opérationnel - David Bontemps,Coût opérationnel - David Bontemps,1,161,161,,215
+2194,2233,2021-03-03 ,2022-05-06 ,AR300_Salary - David BONTEMPS,Coût opérationnel - David BONTEMPS,1,161,176,207,215
 2195,2234,2021-03-03 ,2021-03-03 ,AR211_Coût opérationnel - Céline Lemius,Coût opérationnel - Céline Lemius,1,161,161,,215
 2196,2235,2021-03-03 ,2021-03-03 ,AR211_Coût opérationnel - Anton Camacho,Coût opérationnel - Anton Camacho,1,161,161,114,215
 2197,2236,2021-03-03 ,2021-03-03 ,AR211_Coût opérationnel - Marine Durthaler,Coût opérationnel - Marine Durthaler,1,161,161,,215
@@ -2226,7 +2226,7 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2225,2264,2021-04-27 ,2021-04-27 ,ARDAT_Robert Nsaibirni,Robert Nsaibirni,1,140,140,,352
 2226,2265,2021-04-27 ,2021-04-27 ,ARPHAR_Grace Mambula,Grace Mambula,1,140,140,,351
 2227,2266,2021-04-27 ,2021-04-27 ,ARDAT2_Paul Campbell,Paul Campbell,1,140,140,,354
-2228,2267,2021-04-27 ,2021-04-27 ,ARFIN_David Bontemps,David Bontemps,1,140,140,,356
+2228,2267,2021-04-27 ,2022-05-06 ,ARFIN_David Bontemps,David Bontemps,0,140,176,,356
 2229,2268,2021-04-27 ,2021-04-27 ,ARRES_Soazic Gardais,Soazic Gardais,1,140,140,,357
 2230,2269,2021-04-27 ,2021-04-27 ,ARRES_Coût opérationnel - Soazic Gardais,Coût opérationnel - Soazic Gardais,1,140,140,,357
 2231,2270,2021-04-27 ,2021-04-27 ,ARSTA_Coût opérationnel - Elisabeth Baudin,Coût opérationnel - Elisabeth Baudin,1,140,140,,355
@@ -2277,10 +2277,10 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2276,2317,2021-05-20 ,2021-06-01 ,AR1_Plane ticket Joseph Sagara 2x aller-retour,Plane ticket Joseph Sagara 2x aller-retour,1,170,170,,1
 2277,2318,2021-05-20 ,2021-06-01 ,AR5_Per diem Joseph Sagara,Per diem Joseph Sagara,1,170,170,,5
 2278,2319,2021-05-20 ,2021-06-01 ,AR5_Per diem Halidou,Per diem Halidou,1,170,170,,5
-2279,2320,2021-05-20 ,2021-06-01 ,AR211_Salary Epidemio field Halidou,Salary Epidemio field Halidou,1,170,170,,215
+2279,2320,2021-05-20 ,2022-05-06 ,AR211_Salary Epidemio field Halidou,Salary Epidemio field Halidou,0,170,176,,215
 2280,2321,2021-05-20 ,2021-06-01 ,AR1_Plane ticket Birgit,Plane ticket Birgit,1,170,170,,1
 2281,2322,2021-05-20 ,2021-06-01 ,AR1_Plane ticket Halidou,Plane ticket Halidou,1,170,170,,1
-2282,2324,2021-05-20 ,2021-06-01 ,AR211_Salary Pascal Ouedrago,Salary Pascal Ouedrago,1,170,170,,215
+2282,2324,2021-05-20 ,2022-05-06 ,AR305_Salary - Pascal Nomwendé OUEDRAOGO,Coût opérationnel - Pascal Nomwendé OUEDRAOGO,1,170,176,228,215
 2283,2325,2021-05-20 ,2021-06-01 ,AR211_Salary Erica Simons,Salary Erica Simons,1,170,170,,215
 2284,2326,2021-05-20 ,2021-06-01 ,AR1_Plane ticket- Pascal,Plane ticket- Pascal,1,170,170,,1
 2285,2328,2021-05-20 ,2021-06-01 ,AR5_Travel-Birgit,Travel-Birgit,1,170,170,,5
@@ -2357,8 +2357,8 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2356,2422,2022-04-25 ,2022-04-25 ,ARASS_Administrateur Réseaux IT/Données,Administrateur Réseaux IT/Données,1,178,178,,331
 2357,2423,2022-04-25 ,2022-04-25 ,ARASS_AMADOU RABI,AMADOU RABI,1,178,178,,331
 2358,2424,2022-04-27 ,2022-04-27 ,AR97_Expertise - Jessica SAYYAD,Expertise - Jessica SAYYAD,1,176,176,30,97
-2359,2425,2022-04-27 ,2022-04-27 ,AR97_Expertise - Ghislain LEDUC,Expertise - Ghislain LEDUC,1,176,176,201,97
-2360,2426,2022-04-27 ,2022-04-27 ,AR97_Expertise - Muna IDRIS CORBINEAU,Expertise - Muna IDRIS CORBINEAU,1,176,176,209,97
+2359,2425,2022-04-27 ,2022-05-06 ,AR97_Expertise - Ghislain LEDUC,Expertise - Ghislain LEDUC,1,176,176,210,97
+2360,2426,2022-04-27 ,2022-05-06 ,AR300_Salary - Muna IDRIS CORBINEAU,Coût opérationnel  - Muna IDRIS CORBINEAU,1,176,176,209,215
 2361,2427,2022-04-27 ,2022-04-27 ,AR97_Expertise - Métrey TIV,Expertise - Métrey TIV,1,176,176,222,97
 2362,2428,2022-04-27 ,2022-04-27 ,AR97_Expertise - Franck LUTU LUWANYA,Expertise - Franck LUTU LUWANYA,1,176,176,216,97
 2363,2429,2022-04-27 ,2022-04-27 ,AR97_Expertise - Hayley KUNDE,Expertise - Hayley KUNDE,1,176,176,218,97
@@ -2368,14 +2368,14 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2367,2433,2022-04-29 ,2022-04-29 ,AR77_Franck Lutu,Franck Lutu,1,28,28,,77
 2368,2434,2022-05-02 ,2022-05-06 ,AR220_Stagiaire - Ana KLEIN,Stagiaire - Ana KLEIN,1,21,176,196,215
 2369,2435,2022-05-02 ,2022-05-05 ,AR165_Jean-François Etard,Jean-François Etard,0,21,176,,165
-2370,2436,2022-05-03 ,2022-05-03 ,AR211_Azizur  Mohammed Rahman,Azizur  Mohammed Rahman,1,84,84,,215
+2370,2436,2022-05-03 ,2022-05-06 ,AR302_Salary - Mohammed Azizur RAHMAN,Coût opérationnel - Mohammed Azizur RAHMAN,1,84,176,229,215
 2371,2437,2022-05-03 ,2022-05-03 ,AR211_Field Epidemiologist TO BE HIRED,Field Epidemiologist TO BE HIRED,1,84,84,,215
 2372,2438,2022-05-03 ,2022-05-03 ,AR212_Azizur  Mohammed Rahman,Azizur  Mohammed Rahman,1,84,84,,216
 2373,2439,2022-05-03 ,2022-05-03 ,AR212_Field Epidemiologist TO BE HIRED,Field Epidemiologist TO BE HIRED,1,84,84,,216
 2374,2440,2022-05-03 ,2022-05-04 ,AR1_Field Epidemiologist TO BE HIRED,Field Epidemiologist TO BE HIRED,1,84,84,,1
 2375,2441,2022-05-05 ,2022-05-05 ,AR97_Expertise - Francis Jaudel YUYA SEPTOH,Expertise - Francis Jaudel YUYA SEPTOH,1,176,176,214,97
 2376,2442,2022-05-05 ,2022-05-05 ,AR97_Expertise - Mark NDIFON NDIFON,Expertise - Mark NDIFON NDIFON,1,176,176,215,97
-2377,2446,2022-05-05 ,2022-05-05 ,AR97_Expertise - David BONTEMPS,Expertise - David BONTEMPS,1,176,176,207,97
+2377,2446,2022-05-05 ,2022-05-06 ,AR97_Expertise - David BONTEMPS,Expertise - David BONTEMPS,0,176,176,207,97
 2378,2447,2022-05-05 ,2022-05-05 ,AR97_Expertise - Boni Maxime ALE,Expertise - Boni Maxime ALE,1,176,176,205,97
 2379,2448,2022-05-05 ,2022-05-05 ,AR97_Expertise - Komlavi Yves AMEVOIN,Expertise - Komlavi Yves AMEVOIN,1,176,176,206,97
 2380,2449,2022-05-05 ,2022-05-05 ,AR97_Expertise - Aminata NDIAYE,Expertise - Aminata NDIAYE,1,176,176,57,97
@@ -2383,3 +2383,10 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2382,2452,2022-05-06 ,2022-05-06 ,AR220_Stagiaire - Sofia PAYOTTE,Stagiaire - Sofia PAYOTTE,1,176,176,217,215
 2383,2453,2022-05-06 ,2022-05-06 ,AR220_Stagiaire - Franck LUTU LUWANYA ,Stagiaire - Franck LUTU LUWANYA ,1,176,176,216,215
 2384,2454,2022-05-06 ,2022-05-06 ,AR220_Stagiaire - Hayley KUNDE,Stagiaire - Hayley KUNDE,1,176,176,218,215
+2385,2455,2022-05-06 ,2022-05-06 ,AR235_Salary - Mohammad Azeem ZMARIAL KAKAR,Coût opérationnel  - Mohammad Azeem ZMARIAL KAKAR,1,176,176,231,215
+2386,2456,2022-05-06 ,2022-05-06 ,AR255_Salary - Rodney KAITANO,Coût opérationnel  - Rodney KAITANO,1,176,176,232,215
+2387,2457,2022-05-06 ,2022-05-06 ,AR88_Salary - Suresh KIRUPAKARAN,Coût opérationnel  - Suresh KIRUPAKARAN,1,176,176,233,215
+2388,2458,2022-05-06 ,2022-05-06 ,AR187_Salary - Hassani Omari MBEGA,Coût opérationnel  - Hassani Omari MBEGA,1,176,176,234,215
+2389,2459,2022-05-06 ,2022-05-06 ,AR297_Salary - Nasir NASEER,Coût opérationnel  - Nasir NASEER,1,176,176,235,215
+2390,2460,2022-05-06 ,2022-05-06 ,AR302_Salary - Jaclyn SKIDMORE,Coût opérationnel  - Jaclyn SKIDMORE,1,176,176,236,215
+2391,2461,2022-05-06 ,2022-05-06 ,AR302_Salary - Carol LIU,Coût opérationnel  - Carol LIU,1,176,176,237,215
