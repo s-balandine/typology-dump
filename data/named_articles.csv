@@ -2188,7 +2188,7 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2187,2226,2021-02-22 ,2021-02-22 ,AR211_CO-Nadia Fayyad,CO-Nadia Fayyad,1,140,140,,215
 2188,2227,2021-02-22 ,2021-02-22 ,AR88_CO-Celine Lemius,CO-Celine Lemius,1,140,140,,88
 2189,2228,2021-02-22 ,2021-02-22 ,AR187_CO-Teko Menssah,CO-Teko Menssah,1,140,140,,191
-2190,2229,2021-02-23 ,2022-05-05 ,AR211_Consultant Ruwan Ratnayake,Consultant Ruwan Ratnayake,0,166,176,,215
+2190,2229,2021-02-23 ,2022-12-06 ,AR211_Coût opérationnel_Ruwan Ratnayake,Coût opérationnel - Ruwan Ratnayake,1,166,176,181,215
 2191,2230,2021-03-03 ,2021-03-03 ,AR211_Coût opérationnel - Robert Nsaibirni,Coût opérationnel - Robert Nsaibirni,1,161,161,170,215
 2192,2231,2021-03-03 ,2021-03-03 ,AR211_Coût opérationnel - Arthur Makadi,Coût opérationnel - Arthur Makadi,1,161,161,,215
 2193,2232,2021-03-03 ,2021-03-03 ,AR211_Coût opérationnel - Rebecca Grais,Coût opérationnel - Rebecca Grais,1,161,161,,215
@@ -2362,7 +2362,7 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2361,2427,2022-04-27 ,2022-04-27 ,AR97_Expertise - Métrey TIV,Expertise - Métrey TIV,1,176,176,222,97
 2362,2428,2022-04-27 ,2022-04-27 ,AR97_Expertise - Franck LUTU LUWANYA,Expertise - Franck LUTU LUWANYA,1,176,176,216,97
 2363,2429,2022-04-27 ,2022-04-27 ,AR97_Expertise - Hayley KUNDE,Expertise - Hayley KUNDE,1,176,176,218,97
-2364,2430,2022-04-27 ,2022-04-27 ,AR97_Expertise - Sofia PAYOTTE,Expertise - Sofia PAYOTTE,1,176,176,217,97
+2364,2430,2022-04-27 ,2022-12-06 ,AR97_Expertise - Sofia PAYOTTE,Expertise - Sofia PAYOTTE,1,176,176,217,97
 2365,2431,2022-04-27 ,2022-04-27 ,AR97_Expertise - Martin YAKUM,Expertise - Martin YAKUM,1,176,176,204,97
 2366,2432,2022-04-27 ,2022-04-27 ,AR97_Expertise - Emily BRISKIN,Expertise - Emily BRISKIN,1,176,176,224,97
 2367,2433,2022-04-29 ,2022-04-29 ,AR77_Franck Lutu,Franck Lutu,1,28,28,,77
@@ -2380,7 +2380,7 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2379,2448,2022-05-05 ,2022-05-05 ,AR97_Expertise - Komlavi Yves AMEVOIN,Expertise - Komlavi Yves AMEVOIN,1,176,176,206,97
 2380,2449,2022-05-05 ,2022-07-22 ,AR97_Expertise - Aminata NDIAYE,Expertise - Aminata NDIAYE,1,176,176,213,97
 2381,2450,2022-05-05 ,2022-05-05 ,AR97_Expertise - Eric YOUM,Expertise - Eric YOUM,1,176,176,223,97
-2382,2452,2022-05-06 ,2022-05-06 ,AR220_Stagiaire - Sofia PAYOTTE,Stagiaire - Sofia PAYOTTE,1,176,176,217,215
+2382,2452,2022-05-06 ,2022-12-06 ,AR220_Stagiaire - Sofia PAYOTTE,Stagiaire - Sofia PAYOTTE,0,176,176,217,215
 2383,2453,2022-05-06 ,2022-05-06 ,AR220_Stagiaire - Franck LUTU LUWANYA ,Stagiaire - Franck LUTU LUWANYA ,1,176,176,216,215
 2384,2454,2022-05-06 ,2022-05-06 ,AR220_Stagiaire - Hayley KUNDE,Stagiaire - Hayley KUNDE,1,176,176,218,215
 2385,2455,2022-05-06 ,2022-05-06 ,AR235_Salary - Mohammad Azeem ZMARIAL KAKAR,Coût opérationnel  - Mohammad Azeem ZMARIAL KAKAR,1,176,176,231,215
@@ -2430,8 +2430,8 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2429,2499,2022-10-02 ,2022-10-03 ,ARDON_Appui Accord Partenariat,Appui Accord Partenariat,1,178,178,,342
 2430,2500,2022-10-02 ,2022-10-03 ,ARDON_Contribution Annuelle CHR,Contribution Annuelle CHR,1,178,178,,342
 2431,2501,2022-10-02 ,2022-10-03 ,AR74_Médecin Principal Site,Médecin Principal Site,1,178,178,,74
-2432,2502,2022-10-03 ,2022-10-03 ,AR165_Sofia Payotte,Sofia Payotte,1,128,128,,165
-2433,2503,2022-10-03 ,2022-10-03 ,AR165_Giulia Scarpa,Giulia Scarpa,1,128,128,,165
+2432,2502,2022-10-03 ,2022-12-06 ,AR165_Sofia Payotte,Coût opérationnel _Sofia Payotte,1,128,176,,165
+2433,2503,2022-10-03 ,2022-12-06 ,AR165_Coût opérationnel_Giulia Scarpa,Coût opérationnel_Giulia Scarpa,0,128,176,187,165
 2434,2504,2022-10-03 ,2022-10-03 ,AR196_Tablettes,Tablettes,1,178,178,,200
 2435,2505,2022-10-04 ,2022-10-04 ,AR202_Transport de personne,Transport de personne,1,138,138,,206
 2436,2506,2022-10-10 ,2022-10-12 ,ARLOGICIEL_Licence Office 365,Licence Office 365,1,178,178,,345
@@ -2446,3 +2446,4 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2445,2515,2022-11-18 ,2022-11-18 ,AR300_Salary - Xavier VIAUX,Coût opérationnel - Xavier VIAUD,1,176,176,241,215
 2446,2516,2022-11-30 ,2022-11-30 ,AR235_Salary - Denis OPIO,Coût opérationnel  - Denis OPIO,1,176,176,242,215
 2447,2517,2022-12-05 ,2022-12-05 ,AR302_Salary - Soumana SOUNA GARBA,Coût opérationnel - Soumana SOUNA GARBA,1,176,176,243,215
+2448,2518,2022-12-06 ,2022-12-06 ,Coût opérationnel - Prathama RAGHAVAN,Coût opérationnel - Prathama RAGHAVAN,1,176,176,244,215
