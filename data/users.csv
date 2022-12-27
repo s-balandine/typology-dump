@@ -46,7 +46,7 @@ rownames,user_id,created,modified,email,password,first_name,last_name,phone,acti
 45,45,2013-11-08 ,2022-07-01 ,serge.balandine@epicentre.msf.org,OIKsA+j5qFo=,Serge,BALANDINE,,1,0,0,en-GB,2022-12-07 ,33,,176
 46,46,2013-11-08 ,2018-06-06 ,severine.dupont@epicentre.msf.org,MepWzZbh2BA=,Séverine,Dupont,,0,1,0,fr-FR,2013-11-08 ,43,,60
 47,47,2013-11-08 ,2021-02-01 ,sandra.cohuet@epicentre.msf.org,M/9+ujvQ40caTFWLvldGeg==,Sandra,Cohuet,,0,0,0,fr-FR,2019-06-21 ,33,,176
-48,48,2013-11-08 ,2022-07-01 ,saif.abdallah@epicentre.msf.org,kdMubEV9rnbRRRQMucsK7w==,Saïf Eldin,ABDALLAH,,1,0,0,en-GB,2022-12-09 ,21,,176
+48,48,2013-11-08 ,2022-07-01 ,saif.abdallah@epicentre.msf.org,kdMubEV9rnbRRRQMucsK7w==,Saïf Eldin,ABDALLAH,,1,0,0,en-GB,2022-12-26 ,21,,176
 49,49,2013-11-08 ,2022-02-24 ,sheila.isanaka@epicentre.msf.org,QYKnbdpLhJwStrl2P5nhgg==,Sheila,ISANAKA,,1,0,0,en-GB,2021-11-30 ,161,,176
 50,50,2013-11-08 ,2022-07-01 ,sarala.nicholas@epicentre.msf.org,2Zbe5rR4evs=,Sarala,NICHOLAS,,1,0,0,en-GB,2022-09-14 ,21,,176
 51,51,2013-11-08 ,2022-07-01 ,sophie.masson@epicentre.msf.org,uj59qZ9SvvkKGDQ6AnUASQ==,Sophie,Masson,,1,0,0,fr-FR,2022-12-19 ,33,,176
@@ -139,7 +139,7 @@ rownames,user_id,created,modified,email,password,first_name,last_name,phone,acti
 138,138,2017-05-31 ,2022-07-01 ,fara.temessadouno@epicentre.msf.org,5lc0iRpc5ZXJufwC043TQA==,Fara Wagbo,TEMESSADOUNO,,1,0,0,fr-FR,2022-10-11 ,33,60,176
 139,139,2017-07-19 ,2021-02-01 ,camille.fortas@epicentre.msf.org,D6b6v1MNv5cpj3R4Lm7hDw==,Camille,Fortas,,0,1,0,fr-FR,2018-07-09 ,43,60,176
 140,140,2017-08-17 ,2021-08-10 ,souleymane.abdou@epicentre.msf.org,sxhNaAOq/kUx43cGnx9gJVdk87eWy9Gz,Souleymane,Abdou,,1,0,0,fr-FR,2022-03-04 ,161,60,140
-141,141,2017-09-11 ,2022-07-01 ,rami.malaeb@epicentre.msf.org,l2HxdgTuQIuv16HEPyda0A==,Rami ,MALAEB,,1,0,0,en-GB,2022-12-06 ,33,60,176
+141,141,2017-09-11 ,2022-07-01 ,rami.malaeb@epicentre.msf.org,l2HxdgTuQIuv16HEPyda0A==,Rami ,MALAEB,,1,0,0,en-GB,2022-12-26 ,33,60,176
 142,142,2017-10-18 ,2022-07-06 ,claire.bossard@epicentre.msf.org,MepWzZbh2BA=,Claire,BOSSARD,,1,0,0,fr-FR,2022-12-21 ,21,60,176
 143,143,2017-11-03 ,2021-02-01 ,lana.oson@epicentre.msf.org,p76W+rNfzyDfmjY/CRVZSQ==,Lana,Oson,,0,1,0,en-GB,2017-12-18 ,33,60,176
 144,144,2017-11-03 ,2021-02-01 ,joafalcao@gmail.com,wQZIZNlHJrkvfEVMNbcOaA==,Joana,Falcao,,0,0,0,fr-FR,2018-02-07 ,33,60,176
