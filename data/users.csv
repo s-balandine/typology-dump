@@ -101,7 +101,7 @@ rownames,user_id,created,modified,email,password,first_name,last_name,phone,acti
 100,100,2015-09-25 ,2021-02-01 ,pauline.lefebvre@epicentre.msf.org,MepWzZbh2BA=,Pauline,Lefebvre,,0,1,0,fr-FR,,33,60,176
 101,101,2015-09-28 ,2021-02-01 ,florian.vogt@epicentre.msf.org,MepWzZbh2BA=,Florian,Vogt,,0,0,0,fr-FR,,33,60,176
 102,102,2015-09-28 ,2021-02-01 ,aline.philibert@epicentre.msf.org,MepWzZbh2BA=,Aline,Philibert,,0,1,0,fr-FR,,33,60,176
-103,103,2015-10-02 ,2021-02-03 ,gaetan.dagbe@epicentre.msf.org,IQ1vuJoXEE/XyvxEhQs5Kw==,Gaëtan,Dagbe,,1,0,0,fr-FR,2023-01-12 ,173,60,176
+103,103,2015-10-02 ,2021-02-03 ,gaetan.dagbe@epicentre.msf.org,IQ1vuJoXEE/XyvxEhQs5Kw==,Gaëtan,Dagbe,,1,0,0,fr-FR,2023-01-15 ,173,60,176
 104,104,2015-10-07 ,2021-02-01 ,franck.joncret@epicentre.msf.org,uV9kCQVTlXo9edxFT5EylA==,Franck,Joncret,,0,1,0,fr-FR,2019-06-11 ,19,60,176
 105,105,2015-10-20 ,2022-06-30 ,rebecca.coulborn@epicentre.msf.org,6BVeeYm/yxE=,Rebecca,Coulborn,,1,0,0,fr-FR,2022-10-10 ,3,60,176
 106,106,2015-10-21 ,2021-02-03 ,marie-francoise.scherrer@epicentre.msf.org,z8hEPIhND6E=,Marie-Françoise,Scherrer,,1,0,0,fr-FR,2019-12-27 ,43,60,176
@@ -211,5 +211,5 @@ rownames,user_id,created,modified,email,password,first_name,last_name,phone,acti
 210,210,2022-06-30 ,2022-06-30 ,zachary.grais@epicentre.msf.org,ZTNY2V9mHDhC/pGHthY1cw==,Zachary,GRAIS,,1,0,0,fr-FR,2022-07-11 ,165,176,176
 211,211,2022-07-06 ,2022-07-06 ,Lise.GROUT@epicentre.msf.org,OwfHF69YKLqhJbp/2lDBqA==,Lise,GROUT,,1,0,0,fr-FR,2022-10-14 ,62,176,176
 212,212,2022-11-17 ,2022-11-18 ,LEON.SALUMU@EPICENTRE.MSF.ORG,xFmXlJbTU9UCRmV1PhVWOQ==,Leon,SALUMU,,1,0,0,fr-FR,2022-11-21 ,33,176,176
-213,213,2022-12-21 ,2023-01-05 ,damiano.kaufa@epicentre.msf.org,K/LUq8iK2bwuz8pZAYbVDw==,Damiano Jonathan,KAUFA,,1,0,0,en-GB,2023-01-05 ,80,176,176
+213,213,2022-12-21 ,2023-01-05 ,damiano.kaufa@epicentre.msf.org,K/LUq8iK2bwuz8pZAYbVDw==,Damiano Jonathan,KAUFA,,1,0,0,en-GB,2023-01-15 ,80,176,176
 214,214,2022-12-21 ,2022-12-21 ,xavier.viaud@epicentre.msf.org,wRlVj1znf9v31+aRbHK27w==,Xavier, VIAUD,,1,1,0,fr-FR,,194,176,176
