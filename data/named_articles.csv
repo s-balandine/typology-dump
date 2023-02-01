@@ -2386,9 +2386,9 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2385,2455,2022-05-06 ,2022-05-06 ,AR235_Salary - Mohammad Azeem ZMARIAL KAKAR,Coût opérationnel  - Mohammad Azeem ZMARIAL KAKAR,1,176,176,231,215
 2386,2456,2022-05-06 ,2022-05-06 ,AR255_Salary - Rodney KAITANO,Coût opérationnel  - Rodney KAITANO,1,176,176,232,215
 2387,2457,2022-05-06 ,2022-05-06 ,AR88_Salary - Suresh KIRUPAKARAN,Coût opérationnel  - Suresh KIRUPAKARAN,1,176,176,233,215
-2388,2458,2022-05-06 ,2022-05-06 ,AR187_Salary - Hassani Omari MBEGA,Coût opérationnel  - Hassani Omari MBEGA,1,176,176,234,215
+2388,2458,2022-05-06 ,2023-01-31 ,AR211_Coût opérationnel- Hassani Omari MBEGA,Coût opérationnel  - Hassani Omari MBEGA,1,176,176,234,215
 2389,2459,2022-05-06 ,2022-05-06 ,AR297_Salary - Nasir NASEER,Coût opérationnel  - Nasir NASEER,1,176,176,235,215
-2390,2460,2022-05-06 ,2022-05-06 ,AR302_Salary - Jaclyn SKIDMORE,Coût opérationnel  - Jaclyn SKIDMORE,1,176,176,236,215
+2390,2460,2022-05-06 ,2023-01-31 ,AR211_Salary - Jaclyn SKIDMORE,Coût opérationnel  - Jaclyn SKIDMORE,1,176,176,236,215
 2391,2461,2022-05-06 ,2022-05-06 ,AR302_Salary - Carol LIU,Coût opérationnel  - Carol LIU,1,176,176,237,215
 2392,2462,2022-05-08 ,2022-05-08 ,AR235_Eva Ferreras,Eva Ferreras,1,166,166,116,240
 2393,2463,2022-05-08 ,2022-05-08 ,ARSUP_Cout Opérationel - Dora Tchiasso,Cout Opérationel - Dora Tchiasso,1,166,166,,358
@@ -2451,5 +2451,11 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2450,2520,2022-12-20 ,2022-12-21 ,AR165_Coût opérationnel_Todd SWARTHOUT,Coût opérationnel - Todd SWARTHOUT,1,176,176,246,165
 2451,2521,2022-12-20 ,2023-01-16 ,AR97_Expertise - Wendelin MOSER,Expertise - Wendelin MOSER,0,176,176,247,97
 2452,2522,2022-12-21 ,2022-12-21 ,AR165_Coût opérationnel_Morgane DUJMOVIC,Coût opérationnel - Morgane DUJMOVIC,1,176,176,179,165
-2453,2523,2022-12-21 ,2022-12-21 ,AR297_Salary -Damiano Jonathan KAUFA,Coût opérationnel  - Damiano Jonathan KAUFA,1,176,176,248,215
+2453,2523,2022-12-21 ,2023-01-31 ,AR211_Salary -Damiano Jonathan KAUFA,Coût opérationnel  - Damiano Jonathan KAUFA,1,176,176,248,215
 2454,2524,2023-01-16 ,2023-01-16 ,AR305_Salary - Wendelin MOSER,Coût opérationnel - Wendelin MOSER,1,176,176,247,215
+2455,2525,2023-01-31 ,2023-01-31 ,AR97_Expertise - Martin SCHNEIDER,Expertise - Martin SCHNEIDER,1,176,176,142,97
+2456,2526,2023-01-31 ,2023-01-31 ,AR97_Expertise - Valérie BRIAND,Expertise - Valérie BRIAND,1,176,176,250,97
+2457,2527,2023-01-31 ,2023-01-31 ,AR211_Valérie BRIAND,coût opérationnel - Valérie BRIAND,1,176,176,250,215
+2458,2528,2023-01-31 ,2023-01-31 ,AR211_Coût opérationnel - Douglas MBANG MASSOM,Coût opérationnel - Douglas MBANG MASSOM,1,176,176,251,215
+2459,2529,2023-01-31 ,2023-01-31 ,AR211_Coût opérationnel - Mohammad Azizur RAHMAN,coût opérationnel - Mohammad Azizur RAHMAN,1,176,176,229,215
+2460,2530,2023-01-31 ,2023-01-31 ,AR211_Coût opérationnel - Tambe ELVIS AKEM,Coût opérationnel - Tambe ELVIS AKEM,1,176,176,252,215

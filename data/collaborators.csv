@@ -228,7 +228,7 @@ rownames,collaborator_id,created,modified,firstname,lastname,register_number,ema
 227,228,2022-05-06 ,2022-05-06 ,Pascal Nomwendé,OUEDRAOGO,02149,pascal.ouedraogo@epicentre.msf.org,2021-10-13,2022-10-21,1,2021-10-13,0,0,0,,1,0,0,0,176,176,,9,2,10,1233
 228,229,2022-05-06 ,2022-05-06 ,Mohammad Azizur,RAHMAN,02162,mohammad-azizur.rahman@epicentre.msf.org,2022-01-03,2022-06-03,1,2022-01-03,0,0,0,,1,0,0,0,176,176,,9,2,10,1233
 229,230,2022-05-06 ,2022-05-06 ,Souleymane,ABDOU,80S541,souleymane.abdou@epicentre.msf.org,2021-09-17,2021-10-21,1,2021-09-17,0,0,0,,1,0,0,0,176,176,,9,2,8,1233
-230,231,2022-05-06 ,2022-05-06 ,Mohammad Azeem,ZMARIAL KAKAR,02147,mohammad.zmarial@epicentre.msf.org,2022-04-19,2023-04-18,1,2022-04-19,0,0,0,,1,0,0,0,176,176,,9,2,10,1233
+230,231,2022-05-06 ,2023-01-31 ,Mohammad Azeem,ZMARIAL KAKAR,02147,mohammad.zmarial@epicentre.msf.org,2022-04-19,2023-04-18,0,2022-04-19,0,0,0,,1,0,0,0,176,176,,9,2,10,1233
 231,232,2022-05-06 ,2022-05-06 ,Rodney,KAITANO,02148,rodney.kaitano@epicentre.msf.org,2020-08-28,2022-08-31,1,2020-08-28,0,0,0,,1,0,0,0,176,176,,9,2,10,1233
 232,233,2022-05-06 ,2022-05-06 ,Suresh,KIRUPAKARAN,02146,suresh.kirupakaran@epicentre.msf.org,2019-06-16,2022-12-31,1,2019-06-16,0,0,0,,1,0,0,0,176,176,,4,2,19,1233
 233,234,2022-05-06 ,2022-05-06 ,Hassani Omari,MBEGA,02143,Hassani.MBEGA@epicentre.msf.org,2018-07-23,2022-12-31,1,2018-07-23,0,0,0,,1,0,0,0,176,176,,9,2,10,1233
@@ -246,3 +246,7 @@ rownames,collaborator_id,created,modified,firstname,lastname,register_number,ema
 245,246,2022-12-20 ,2022-12-20 ,Todd,Swarthout,02205,toddswarth@yahoo.com,2022-10-01,2023-02-28,1,2022-10-01,0,0,0,,1,0,0,0,176,176,,19,6,32,1233
 246,247,2022-12-20 ,2022-12-20 ,Wendelin,MOSER,02206,wendeline.moser@epicentre.msf.org,2023-01-16,2024-01-16,1,2023-01-16,0,0,0,,1,0,0,0,176,176,,9,2,10,1233
 247,248,2022-12-21 ,2022-12-21 ,Damiano Jonathan,KAUFA,02195,damiano.kaufa@epicentre.msf.org,2023-01-02,2024-01-01,1,2023-01-02,0,0,0,,1,0,0,0,176,176,6,10,2,8,1233
+248,249,2023-01-31 ,2023-01-31 ,Martin,SCHNEIDER,02211,martin.schneider@epicentre.msf.org,2023-02-08,2023-05-07,1,2023-02-08,0,0,0,,1,0,0,0,176,176,1,9,2,10,1233
+249,250,2023-01-31 ,2023-01-31 ,Valérie,BRIAND,02204,valerie.briand@epicentre.msf.org,2023-02-01,,1,2023-02-01,0,0,0,,1,0,0,0,176,176,1,17,1,11,1235
+250,251,2023-01-31 ,2023-01-31 ,Douglas,MBANG MASSOM,02210,douglas.mbang-massom@epicentre.msf.org,2023-02-04,2023-07-04,1,2023-02-04,0,0,0,,1,0,0,0,176,176,,9,2,10,1233
+251,252,2023-01-31 ,2023-01-31 ,Tambe,Elvis AKEM,02188,tambe-elvis.akem@epicentre.msf.org,2022-06-13,2023-06-13,1,2022-06-13,0,0,0,,1,0,0,0,176,176,,9,2,10,1233
