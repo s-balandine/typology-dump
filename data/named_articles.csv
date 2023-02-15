@@ -2220,7 +2220,7 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2219,2258,2021-03-30 ,2022-12-21 ,AR89_Coût opérationnel-Nasir NASEER,Coût opérationnel-Nasir NASEER,0,140,176,,89
 2220,2259,2021-03-30 ,2022-12-21 ,AR89_Coût opérationnel - Nasir NASEER,Coût opérationnel - Nasir NASEER,0,140,176,,89
 2221,2260,2021-03-30 ,2021-03-30 ,AR88_Coût opérationnel - Suresh KIRUPAKARAN,Coût opérationnel - Suresh KIRUPAKARAN,1,140,140,,88
-2222,2261,2021-04-27 ,2022-12-21 ,AR97_Expertise - Morgane DUJMOVIC,Expertise - Morgane DUJMOVIC,0,176,176,179,97
+2222,2261,2021-04-27 ,2023-02-14 ,AR97_Expertise - Morgane DUJMOVIC,Expertise - Morgane DUJMOVIC,1,176,176,179,97
 2223,2262,2021-04-27 ,2021-04-27 ,ARSUP_Rebecca Grais,Rebecca Grais,1,140,140,,358
 2224,2263,2021-04-27 ,2021-04-27 ,ARSTA_Elisabeth Baudin,Elisabeth Baudin,1,140,140,,355
 2225,2264,2021-04-27 ,2021-04-27 ,ARDAT_Robert Nsaibirni,Robert Nsaibirni,1,140,140,,352
@@ -2450,7 +2450,7 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2449,2519,2022-12-12 ,2022-12-21 ,AR165_Coût opérationnel_Barbara Elisabeth HESSEL,Coût opérationnel_Barbara Elisabeth HESSEL,1,176,176,245,165
 2450,2520,2022-12-20 ,2023-02-01 ,AR165_Coût opérationnel_Todd SWARTHOUT,Coût opérationnel - Todd SWARTHOUT,0,176,176,246,165
 2451,2521,2022-12-20 ,2023-01-16 ,AR97_Expertise - Wendelin MOSER,Expertise - Wendelin MOSER,0,176,176,247,97
-2452,2522,2022-12-21 ,2022-12-21 ,AR165_Coût opérationnel_Morgane DUJMOVIC,Coût opérationnel - Morgane DUJMOVIC,1,176,176,179,165
+2452,2522,2022-12-21 ,2023-02-14 ,AR165_Coût opérationnel_Morgane DUJMOVIC,Coût opérationnel - Morgane DUJMOVIC,0,176,176,179,165
 2453,2523,2022-12-21 ,2023-02-01 ,AR211_Coût opérationnel -Damiano Jonathan KAUFA,Coût opérationnel  - Damiano Jonathan KAUFA,1,176,176,248,215
 2454,2524,2023-01-16 ,2023-01-16 ,AR305_Salary - Wendelin MOSER,Coût opérationnel - Wendelin MOSER,1,176,176,247,215
 2455,2525,2023-01-31 ,2023-01-31 ,AR97_Expertise - Martin SCHNEIDER,Expertise - Martin SCHNEIDER,1,176,176,142,97
@@ -2486,3 +2486,6 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2485,2556,2023-02-01 ,2023-02-01 ,AR202_Coût opérationnel - Claire BOSSARD,Coût opérationnel - Claire BOSSARD,1,176,176,154,206
 2486,2557,2023-02-01 ,2023-02-01 ,AR97_Expertise - Todd SWARTHOUT,Expertise -Todd SWARTHOUT,1,176,176,246,97
 2487,2558,2023-02-01 ,2023-02-01 ,AR97_Expertise -Sybille GERSTL,Expertise - Sybille GERSTL,1,176,176,100,97
+2488,2559,2023-02-14 ,2023-02-14 ,AR97_Expertise - Jonathan POLONSKY,Expertise - Jonathan POLONSKY,1,176,176,31,97
+2489,2560,2023-02-14 ,2023-02-14 ,AR202_Coût opérationnel - Jonathan POLONSKY,Coût opérationnel - Jonathan POLONSKY,1,176,176,31,206
+2490,2561,2023-02-14 ,2023-02-14 ,AR202_Coût opérationnel - Morgane DUJMOVIC,Coût opérationnel - Morgane DUJMOVIC,1,176,176,179,206
