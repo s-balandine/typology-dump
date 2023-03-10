@@ -2443,7 +2443,7 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2442,2512,2022-10-13 ,2022-10-14 ,AR70_KALLA MARIA DORA,KALLA MARIA DORA,1,178,178,,70
 2443,2513,2022-11-02 ,2022-11-02 ,AR97_Expertise - Sophie MEAKIN,Expertise - Sophie MEAKIN,1,176,176,238,97
 2444,2514,2022-11-18 ,2023-02-01 ,AR211_Coût opérationnel - Leon SALUMU,Coût opérationnel  - Leon SALUMU,1,176,176,240,215
-2445,2515,2022-11-18 ,2022-11-18 ,AR300_Salary - Xavier VIAUX,Coût opérationnel - Xavier VIAUD,1,176,176,241,215
+2445,2515,2022-11-18 ,2023-03-09 ,AR300_Salary - Xavier VIAUD,Coût opérationnel - Xavier VIAUD,1,176,176,241,215
 2446,2516,2022-11-30 ,2022-11-30 ,AR235_Salary - Denis OPIO,Coût opérationnel  - Denis OPIO,1,176,176,242,215
 2447,2517,2022-12-05 ,2022-12-05 ,AR302_Salary - Soumana SOUNA GARBA,Coût opérationnel - Soumana SOUNA GARBA,1,176,176,243,215
 2448,2518,2022-12-06 ,2023-02-01 ,AR97_Expertise - Prathama RAGHAVAN,Expertise - Prathama RAGHAVAN,1,176,176,244,97
@@ -2489,3 +2489,5 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2488,2559,2023-02-14 ,2023-02-14 ,AR97_Expertise - Jonathan POLONSKY,Expertise - Jonathan POLONSKY,1,176,176,31,97
 2489,2560,2023-02-14 ,2023-02-14 ,AR202_Coût opérationnel - Jonathan POLONSKY,Coût opérationnel - Jonathan POLONSKY,1,176,176,31,206
 2490,2561,2023-02-14 ,2023-02-14 ,AR202_Coût opérationnel - Morgane DUJMOVIC,Coût opérationnel - Morgane DUJMOVIC,1,176,176,179,206
+2491,2562,2023-03-09 ,2023-03-09 ,AR97_Expertise - Muna,Expertise - Muna IDRIS CORBINEAU,1,176,176,209,97
+2492,2563,2023-03-09 ,2023-03-09 ,AR97_Expertise - Xavier VIAUD,Expertise - Xavier VIAUD,1,176,176,241,97
