@@ -2489,5 +2489,5 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2488,2559,2023-02-14 ,2023-02-14 ,AR97_Expertise - Jonathan POLONSKY,Expertise - Jonathan POLONSKY,1,176,176,31,97
 2489,2560,2023-02-14 ,2023-02-14 ,AR202_Coût opérationnel - Jonathan POLONSKY,Coût opérationnel - Jonathan POLONSKY,1,176,176,31,206
 2490,2561,2023-02-14 ,2023-02-14 ,AR202_Coût opérationnel - Morgane DUJMOVIC,Coût opérationnel - Morgane DUJMOVIC,1,176,176,179,206
-2491,2562,2023-03-09 ,2023-03-09 ,AR97_Expertise - Muna,Expertise - Muna IDRIS CORBINEAU,1,176,176,209,97
-2492,2563,2023-03-09 ,2023-03-09 ,AR97_Expertise - Xavier VIAUD,Expertise - Xavier VIAUD,1,176,176,241,97
+2491,2562,2023-03-09 ,2023-03-16 ,AR97_Expertise - Muna,Expertise - Muna IDRIS CORBINEAU,0,176,176,209,97
+2492,2563,2023-03-09 ,2023-03-16 ,AR97_Expertise - Xavier VIAUD,Expertise - Xavier VIAUD,0,176,176,241,97
