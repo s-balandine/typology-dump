@@ -1132,7 +1132,7 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 1131,1151,2016-03-31 ,2016-03-31 ,AR74_YACOUBA HAMANI Aboubacar,YACOUBA HAMANI Aboubacar,1,56,56,,74
 1132,1152,2016-03-31 ,2016-03-31 ,AR74_HAMADOU DAME Abdoul Nasser,HAMADOU DAME Abdoul Nasser,1,56,56,,74
 1133,1153,2016-03-31 ,2016-03-31 ,AR74_MAKARA DJIZO Roukéa,MAKARA DJIZO Roukéa,1,56,56,,74
-1134,1154,2016-03-31 ,2016-03-31 ,AR300,Assistant Responsable Finances,1,56,56,,215
+1134,1154,2016-03-31 ,2023-03-22 ,AR300,Assistant Responsable Finances,0,56,176,,215
 1135,1156,2016-03-31 ,2016-03-31 ,AR301,Assistant Responsable Ressources Humaines,1,56,56,,215
 1136,1157,2016-03-31 ,2016-03-31 ,AR302,Lavandier,1,56,56,,215
 1137,1158,2016-03-31 ,2016-03-31 ,AR59_TCHALAKI Rafiatou,TCHALAKI Rafiatou,1,56,56,,59
@@ -2192,7 +2192,7 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2191,2230,2021-03-03 ,2021-03-03 ,AR211_Coût opérationnel - Robert Nsaibirni,Coût opérationnel - Robert Nsaibirni,1,161,161,170,215
 2192,2231,2021-03-03 ,2021-03-03 ,AR211_Coût opérationnel - Arthur Makadi,Coût opérationnel - Arthur Makadi,1,161,161,,215
 2193,2232,2021-03-03 ,2021-03-03 ,AR211_Coût opérationnel - Rebecca Grais,Coût opérationnel - Rebecca Grais,1,161,161,,215
-2194,2233,2021-03-03 ,2022-05-06 ,AR300_Salary - David BONTEMPS,Coût opérationnel - David BONTEMPS,1,161,176,207,215
+2194,2233,2021-03-03 ,2023-03-22 ,AR300_Salary - David BONTEMPS,Coût opérationnel - David BONTEMPS,0,161,176,207,215
 2195,2234,2021-03-03 ,2021-03-03 ,AR211_Coût opérationnel - Céline Lemius,Coût opérationnel - Céline Lemius,1,161,161,,215
 2196,2235,2021-03-03 ,2021-03-03 ,AR211_Coût opérationnel - Anton Camacho,Coût opérationnel - Anton Camacho,1,161,161,114,215
 2197,2236,2021-03-03 ,2021-03-03 ,AR211_Coût opérationnel - Marine Durthaler,Coût opérationnel - Marine Durthaler,1,161,161,,215
@@ -2298,7 +2298,7 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2297,2347,2021-06-16 ,2021-06-16 ,AR211_Salaire-Erica Simons,Salaire-Erica Simons,1,20,20,,215
 2298,2353,2021-06-16 ,2022-04-27 ,AR97_Expertise - Klaudia PORTEN,Expertise - Klaudia PORTEN,1,20,176,33,97
 2299,2356,2021-06-16 ,2021-06-16 ,AR211_Slry-Gaston Komanda-RDC,Slry-Gaston Komanda-RDC,1,105,105,,215
-2300,2357,2021-06-16 ,2022-04-27 ,AR97_Expertise - Ana KLEIN,Expertise - Ana KLEIN,1,105,176,196,97
+2300,2357,2021-06-16 ,2023-03-22 ,AR97_Expertise - Ana KLEIN,Expertise - Ana KLEIN,0,105,176,196,97
 2301,2358,2021-06-16 ,2022-02-07 ,AR97_Expertise - Denis-Luc ARDIET,Expertise - Denis-Luc ARDIET,1,105,176,87,97
 2302,2359,2021-06-16 ,2022-02-09 ,AR97_Expertise - A identifier_DEIF,Expertise - A identifier_DEIF,1,105,176,,97
 2303,2360,2021-06-16 ,2021-06-16 ,AR211_Slry-Study Coordinator (to be identified),Slry-Study Coordinator (to be identified),1,105,105,,215
@@ -2366,7 +2366,7 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2365,2431,2022-04-27 ,2022-04-27 ,AR97_Expertise - Martin YAKUM,Expertise - Martin YAKUM,1,176,176,204,97
 2366,2432,2022-04-27 ,2022-04-27 ,AR97_Expertise - Emily BRISKIN,Expertise - Emily BRISKIN,1,176,176,224,97
 2367,2433,2022-04-29 ,2022-04-29 ,AR77_Franck Lutu,Franck Lutu,1,28,28,,77
-2368,2434,2022-05-02 ,2022-05-06 ,AR220_Stagiaire - Ana KLEIN,Stagiaire - Ana KLEIN,1,21,176,196,215
+2368,2434,2022-05-02 ,2023-03-22 ,AR220_Stagiaire - Ana KLEIN,Stagiaire - Ana KLEIN,0,21,176,196,215
 2369,2435,2022-05-02 ,2022-05-05 ,AR165_Jean-François Etard,Jean-François Etard,0,21,176,,165
 2370,2436,2022-05-03 ,2023-02-01 ,AR302_Salary - Mohammed Azizur RAHMAN,Coût opérationnel - Mohammed Azizur RAHMAN,0,84,176,229,215
 2371,2437,2022-05-03 ,2022-05-03 ,AR211_Field Epidemiologist TO BE HIRED,Field Epidemiologist TO BE HIRED,1,84,84,,215
@@ -2443,7 +2443,7 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2442,2512,2022-10-13 ,2022-10-14 ,AR70_KALLA MARIA DORA,KALLA MARIA DORA,1,178,178,,70
 2443,2513,2022-11-02 ,2022-11-02 ,AR97_Expertise - Sophie MEAKIN,Expertise - Sophie MEAKIN,1,176,176,238,97
 2444,2514,2022-11-18 ,2023-02-01 ,AR211_Coût opérationnel - Leon SALUMU,Coût opérationnel  - Leon SALUMU,1,176,176,240,215
-2445,2515,2022-11-18 ,2023-03-09 ,AR300_Salary - Xavier VIAUD,Coût opérationnel - Xavier VIAUD,1,176,176,241,215
+2445,2515,2022-11-18 ,2023-03-22 ,AR300_Salary - Xavier VIAUD,Coût opérationnel - Xavier VIAUD,1,176,176,241,215
 2446,2516,2022-11-30 ,2022-11-30 ,AR235_Salary - Denis OPIO,Coût opérationnel  - Denis OPIO,1,176,176,242,215
 2447,2517,2022-12-05 ,2022-12-05 ,AR302_Salary - Soumana SOUNA GARBA,Coût opérationnel - Soumana SOUNA GARBA,1,176,176,243,215
 2448,2518,2022-12-06 ,2023-02-01 ,AR97_Expertise - Prathama RAGHAVAN,Expertise - Prathama RAGHAVAN,1,176,176,244,97
