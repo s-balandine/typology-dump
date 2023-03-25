@@ -2442,7 +2442,7 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2441,2511,2022-10-13 ,2022-10-14 ,AR71_SANA DAOUDA,SANA DAOUDA,1,178,178,,71
 2442,2512,2022-10-13 ,2023-03-23 ,AR70_KALLA MARIA DORA,KALLA MARIA DORA,0,178,178,,70
 2443,2513,2022-11-02 ,2022-11-02 ,AR97_Expertise - Sophie MEAKIN,Expertise - Sophie MEAKIN,1,176,176,238,97
-2444,2514,2022-11-18 ,2023-02-01 ,AR211_Coût opérationnel - Leon SALUMU,Coût opérationnel  - Leon SALUMU,1,176,176,240,215
+2444,2514,2022-11-18 ,2023-03-24 ,AR211_Salary - Leon SALUMU,Coût opérationnel  - Leon SALUMU,1,176,176,240,215
 2445,2515,2022-11-18 ,2023-03-22 ,AR300_Salary - Xavier VIAUD,Coût opérationnel - Xavier VIAUD,1,176,176,241,215
 2446,2516,2022-11-30 ,2022-11-30 ,AR235_Salary - Denis OPIO,Coût opérationnel  - Denis OPIO,1,176,176,242,215
 2447,2517,2022-12-05 ,2022-12-05 ,AR302_Salary - Soumana SOUNA GARBA,Coût opérationnel - Soumana SOUNA GARBA,1,176,176,243,215
@@ -2495,3 +2495,4 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2494,2565,2023-03-23 ,2023-03-23 ,AR211_Responsable Activités Communautaires,Responsable Activités Communautaires,1,178,178,,215
 2495,2566,2023-03-23 ,2023-03-23 ,AR302_Salary - Maria-Dora KALLA MOUTARI,Coût opérationnel - Maria-Dora KALLA MOUTARI,1,178,178,,215
 2496,2567,2023-03-23 ,2023-03-23 ,AR302_Salary - Komivi GBADA,Coût opérationnel - Komivi GBADA,1,178,176,255,215
+2497,2568,2023-03-24 ,2023-03-24 ,AR211_Salary - Sheila ISANAKA,Coût Opérationnel - Sheila ISANAKA,1,214,214,46,215
