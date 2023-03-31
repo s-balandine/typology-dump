@@ -920,7 +920,7 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 919,939,2015-10-28 ,2015-10-28 ,AR288_KARIMOUN Kadidia,KARIMOUN Kadidia,1,56,56,,298
 920,940,2015-10-28 ,2023-03-23 ,AR289_MAMATY Abdoul Aziz,MAMATY Abdoul Aziz,0,56,178,,299
 921,941,2015-10-28 ,2015-10-28 ,AR68_IDDO Ibrahima,IDDO Ibrahima,1,56,56,,68
-922,942,2015-10-28 ,2015-10-28 ,AR68_IRO Souley,IRO Souley,1,56,56,,68
+922,942,2015-10-28 ,2023-03-30 ,AR68_IRO Souley,IRO Souley,0,56,178,,68
 923,943,2015-10-28 ,2015-10-28 ,AR68_SOULEY Ibrahim,SOULEY Ibrahim,1,56,56,,68
 924,944,2015-10-28 ,2015-10-28 ,AR68_GARBA DABEY Halima,GARBA DABEY Halima,1,56,56,,68
 925,945,2015-10-28 ,2015-10-28 ,AR63_DJRIBRILL AMADOU Omar,DJRIBRILL AMADOU Omar,1,56,56,,63
@@ -2505,3 +2505,7 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2504,2575,2023-03-28 ,2023-03-28 ,AR211_Coût opérationnel_Flavio Finger,Coût Opérationnel - Flavio Finger,0,214,214,177,215
 2505,2576,2023-03-28 ,2023-03-28 ,AR211_Coût opérationnel_Matthew Coldiron,Coût Opérationnel - Matthew Coldiron,0,214,214,38,215
 2506,2577,2023-03-29 ,2023-03-29 ,AR222_workshop,workshop,1,166,166,,227
+2507,2578,2023-03-30 ,2023-03-30 ,AR211_Coût opérationnel_Emily Briskin,Coût Opérationnel - Emily BRISKIN,0,214,214,224,215
+2508,2579,2023-03-30 ,2023-03-30 ,AR75_Coût opérationnel-IRO Souley,Coût opérationnel-IRO Souley,1,178,178,,75
+2509,2580,2023-03-30 ,2023-03-30 ,AR211_Salary - Catherine EISENHAUER,Coût Opérationnel - Catherine Eisenhauer,0,214,214,202,215
+2510,2581,2023-03-30 ,2023-03-30 ,AR211_Coût opérationnel - Catherine Eisenhauer,Coût opérationnel - Catherine Eisenhauer,1,177,177,202,215
