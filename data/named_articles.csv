@@ -2453,7 +2453,7 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2452,2522,2022-12-21 ,2023-02-14 ,AR165_Coût opérationnel_Morgane DUJMOVIC,Coût opérationnel - Morgane DUJMOVIC,0,176,176,179,165
 2453,2523,2022-12-21 ,2023-02-01 ,AR211_Coût opérationnel -Damiano Jonathan KAUFA,Coût opérationnel  - Damiano Jonathan KAUFA,1,176,176,248,215
 2454,2524,2023-01-16 ,2023-01-16 ,AR305_Salary - Wendelin MOSER,Coût opérationnel - Wendelin MOSER,1,176,176,247,215
-2455,2525,2023-01-31 ,2023-01-31 ,AR97_Expertise - Martin SCHNEIDER,Expertise - Martin SCHNEIDER,1,176,176,142,97
+2455,2525,2023-01-31 ,2023-04-05 ,AR97_Expertise - Martin SCHNEIDER,Expertise - Martin SCHNEIDER,1,176,176,249,97
 2456,2526,2023-01-31 ,2023-01-31 ,AR97_Expertise - Valérie BRIAND,Expertise - Valérie BRIAND,1,176,176,250,97
 2457,2527,2023-01-31 ,2023-01-31 ,AR211_Valérie BRIAND,coût opérationnel - Valérie BRIAND,1,176,176,250,215
 2458,2528,2023-01-31 ,2023-01-31 ,AR211_Coût opérationnel - Douglas MBANG MASSOM,Coût opérationnel - Douglas MBANG MASSOM,1,176,176,251,215
@@ -2510,3 +2510,4 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2509,2581,2023-03-30 ,2023-03-31 ,AR211_Coût opérationnel - Catherine Eisenhauer,Coût opérationnel - Catherine Eisenhauer,1,177,177,202,215
 2510,2582,2023-03-31 ,2023-03-31 ,AR211_Coût opérationnel_Babacar Gueye,Coût Opérationnel - Babacar Gueye,0,214,214,256,215
 2511,2583,2023-03-31 ,2023-03-31 ,AR211_Salary - Nouha TOUATI,Coût Opérationnel - Nouha Touati,0,214,214,194,215
+2512,2584,2023-04-05 ,2023-04-05 ,AR97_Expertise-A identifié,Expertise-A identifié,1,51,51,,97
