@@ -2509,9 +2509,13 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2508,2580,2023-03-30 ,2023-03-30 ,AR211_Salary - Catherine EISENHAUER,Coût Opérationnel - Catherine Eisenhauer,0,214,214,202,215
 2509,2581,2023-03-30 ,2023-03-31 ,AR211_Coût opérationnel - Catherine Eisenhauer,Coût opérationnel - Catherine Eisenhauer,1,177,177,202,215
 2510,2582,2023-03-31 ,2023-03-31 ,AR211_Coût opérationnel_Babacar Gueye,Coût Opérationnel - Babacar Gueye,0,214,214,256,215
-2511,2583,2023-03-31 ,2023-03-31 ,AR211_Salary - Nouha TOUATI,Coût Opérationnel - Nouha Touati,0,214,214,194,215
+2511,2583,2023-03-31 ,2023-04-15 ,AR211_Salary - Nouha TOUATI,Coût Opérationnel - Nouha Touati,1,214,176,194,215
 2512,2584,2023-04-05 ,2023-04-05 ,AR97_Expertise-A identifié,Expertise-A identifié,1,51,51,,97
 2513,2585,2023-04-06 ,2023-04-06 ,AR211_Coût opérationnel_Francis Jaudel YUYA SEPTOH,Coût Opérationnel - Francis Jaudel YUYA SEPTOH,0,214,214,214,215
 2514,2586,2023-04-06 ,2023-04-06 ,AR211_Coût opérationnel_Maelenn GOUILLOU,Coût Opérationnel - Maelenn GOUILLOU,0,214,214,208,215
-2515,2587,2023-04-12 ,2023-04-12 ,AR211_Coût Opérationnel-Eric YOUM,Coût Opérationnel-Eric YOUM,1,178,178,,215
+2515,2587,2023-04-12 ,2023-04-15 ,AR211_Coût Opérationnel - Eric YOUM,Coût Opérationnel - Eric YOUM,1,178,176,223,215
 2516,2588,2023-04-12 ,2023-04-12 ,AR211_Coût Opérationnel- Issaka SOUMANA SOUNA ,Coût Opérationnel- Issaka SOUMANA SOUNA ,1,178,178,,215
+2517,2589,2023-04-15 ,2023-04-15 ,AR211_Salary - Rebecca COULBORN,Coût opérationnel  - Rebecca COULBORN,1,176,176,120,215
+2518,2590,2023-04-15 ,2023-04-15 ,AR211_Salary - Etienne GIGNOUX,Coût opérationnel  - Etienne GIGNOUX,1,176,176,59,215
+2519,2591,2023-04-15 ,2023-04-15 ,AR211_Salary - Serge BALANDINE,Coût opérationnel  - Serge BALANDINE,1,176,176,43,215
+2520,2592,2023-04-15 ,2023-04-15 ,AR211_Salary - A identifier,Coût opérationnel  - A identifier,1,176,176,,215
