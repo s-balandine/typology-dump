@@ -62,3 +62,4 @@ rownames,financer_id,created,modified,code,name,by_project_facturation,expertise
 61,61,2022-12-07 ,2022-12-07 ,GAVI,GAVI,0,,,,0,3,161,161
 62,62,2023-03-22 ,2023-03-22 ,JHU,Johns Hopkins University,0,701000,702100,,0,3,176,176
 63,63,2023-03-24 ,2023-03-24 ,UNICEF - PHE,UNICEF - Public Health Emergencies,0,,701000,702100,0,3,176,176
+64,64,2023-06-27 ,2023-06-27 ,SFA,Science For Africa Foundation,1,701000,702100,,0,3,214,214
