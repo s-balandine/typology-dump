@@ -9,7 +9,7 @@ rownames,user_id,created,modified,email,password,first_name,last_name,phone,acti
 8,8,2013-11-08 ,2021-02-01 ,axelle.ronsse@epicentre.msf.org,H1roTfNKgqYRk5XRSB1yzw==,Axelle,Ronsse,,0,0,0,fr-FR,2014-02-24 ,33,,176
 9,9,2013-11-08 ,2023-04-07 ,birgit.schramm@epicentre.msf.org,aM1yAJW/i2RGSljLoDTrzg==,Birgit,SCHRAMM,,1,0,0,en-GB,2023-06-28 ,21,,
 10,10,2013-11-08 ,2022-06-30 ,brahima.toure@epicentre.msf.org,uM1iBEiLMA6EM/JVwLIgrg==,Brahima,TOURE,,1,0,0,fr-FR,2022-01-06 ,3,,176
-11,11,2013-11-08 ,2022-09-26 ,celine.langendorf@epicentre.msf.org,cyJTDqg2BhoOT9YHLpn29Q==,Céline,Langendorf,,1,0,0,fr-FR,2023-08-08 ,161,,
+11,11,2013-11-08 ,2022-09-26 ,celine.langendorf@epicentre.msf.org,cyJTDqg2BhoOT9YHLpn29Q==,Céline,Langendorf,,1,0,0,fr-FR,2023-08-14 ,161,,
 12,12,2013-11-08 ,2021-02-01 ,carrie.teicher@newyork.msf.org,D6mB83c/7yg=,Carrie,Lee Teicher,,0,0,0,en-GB,2019-01-08 ,33,,176
 13,13,2013-11-08 ,2021-02-09 ,caroline.marquer@epicentre.msf.org,aug9+TfXPpivYGu4vWWDsA==,Caroline,Marquer,,0,0,0,fr-FR,2020-07-29 ,43,,176
 14,14,2013-11-08 ,2014-02-07 ,clotilde.rambaud@epicentre.msf.org,MepWzZbh2BA=,Clotilde,Rambaud,,0,0,0,fr-FR,2013-11-08 ,43,,
@@ -176,7 +176,7 @@ rownames,user_id,created,modified,email,password,first_name,last_name,phone,acti
 175,175,2020-10-27 ,2021-02-10 ,fanny.delgutte@epicentre.msf.org,2nYWOwIUi1yBy0Qv7h79Eg==,Fanny,Delgutte,,0,0,0,fr-FR,2021-02-04 ,173,165,176
 176,176,2020-11-19 ,2021-06-24 ,admind2@epicentre.msf.org,zSNFu+gQYMiyUYnNlXkNhg==,Administrateur,D2,,1,0,1,fr-FR,2023-08-10 ,194,165,176
 177,177,2020-12-03 ,2021-09-17 ,marine.durthaler@epicentre.msf.org,BBBQwZfO6PJS6yXAxJx8vA==,Marine,Durthaler,,1,0,0,fr-FR,2023-07-27 ,116,176,161
-178,178,2020-12-07 ,2023-06-23 ,ousmane.doukoure@epicentre.msf.org,B2OvFsu5Wgz7wdqSPNwM4oph6fRM0DT+,Ousmane,Doukoure,,1,0,0,fr-FR,2023-08-01 ,214,176,214
+178,178,2020-12-07 ,2023-06-23 ,ousmane.doukoure@epicentre.msf.org,B2OvFsu5Wgz7wdqSPNwM4oph6fRM0DT+,Ousmane,Doukoure,,1,0,0,fr-FR,2023-08-14 ,214,176,214
 179,179,2021-01-06 ,2021-02-01 ,francis-jaudel.yuya-septoh@epicentre.msf.org,MepWzZbh2BA=,Francis Jaudel,YUYA SEPTOH,,0,0,0,fr-FR,,43,176,176
 180,180,2021-01-06 ,2021-02-22 ,boni-maxime.ale@epicentre.msf.org,64HVQmPrwLVXx0EZ4skHew==,Boni Maxime,ALE,,1,0,0,fr-FR,2021-04-07 ,43,176,161
 181,181,2021-01-19 ,2022-06-30 ,celine.giustranti@epicentre.msf.org,ZP7l8O0N6bLqV7pTKrpl9A==,Céline,Giustranti,,1,0,0,fr-FR,2023-08-10 ,19,176,176
