@@ -150,3 +150,5 @@ rownames,partner_id,created,modified,code,created_by_id,last_modification_by_id,
 149,150,2023-06-27 ,2023-06-27 ,Oxford U,214,214,Université d'Oxford,Oxford University
 150,151,2023-09-11 ,2023-09-11 ,SIM,11,11,SIM,SIM
 151,152,2023-09-11 ,2023-09-11 , CERMES,11,11, CERMES, CERMES
+152,153,2023-09-15 ,2023-09-15 ,Makerere Univiversity ,80,80,Makerere Univiversity ,Makerere Univiversity 
+153,154,2023-09-15 ,2023-09-15 ,UVRI/LSTMH and MRC   ,80,80,UVRI/LSTMH and MRC   ,UVRI/LSTMH and MRC   
