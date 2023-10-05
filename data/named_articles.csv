@@ -2202,7 +2202,7 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2201,2240,2021-03-03 ,2023-10-03 ,AR211_Coût opérationnel - Mathilde MOUSSET,Coût opérationnel - Mathilde MOUSSET,1,161,216,192,215
 2202,2241,2021-03-03 ,2021-03-03 ,AR211_Coût opérationnel - Yann Geay,Coût opérationnel - Yann Geay,1,161,161,,215
 2203,2242,2021-03-03 ,2023-04-18 ,AR211_Coût opérationnel - Grace MAMBULA,Coût opérationnel - Grace MAMBULA,1,161,214,,215
-2204,2243,2021-03-07 ,2023-10-03 ,AR211_Coût opérationnel - Céline Langendorf,Coût opérationnel - Céline LANGENDORF,0,161,176,,215
+2204,2243,2021-03-07 ,2023-10-04 ,AR211_Coût opérationnel - Céline Langendorf,Coût opérationnel - Céline LANGENDORF,1,161,216,,215
 2205,2244,2021-03-07 ,2021-03-07 ,AR211_Coût opérationnel,Coût opérationnel,1,161,161,,215
 2206,2245,2021-03-07 ,2021-03-07 ,AR284_Coût opérationnel - Soazic Gardais,Coût opérationnel - Soazic Gardais,1,161,161,,294
 2207,2246,2021-03-07 ,2023-04-18 ,AR211_Coût opérationnel - Aitana JUAN GINER,Coût opérationnel - Aitana JUAN GINER,1,161,214,2,215
@@ -2530,7 +2530,7 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2529,2601,2023-06-27 ,2023-06-27 ,AR211_Coût opérationnel - Hugo SOUBRIER,Coût opérationnel - Hugo SOUBRIER,1,214,214,257,215
 2530,2602,2023-09-22 ,2023-10-03 ,AR211_Coût opérationnel_Eric Donald MIMBE TAZE,Coût Opérationnel - Eric Donald MIMBE TAZE,1,214,216,260,215
 2531,2603,2023-09-22 ,2023-09-22 ,AR209_,"",1,52,52,,213
-2532,2604,2023-09-22 ,2023-10-03 ,AR211_Coût opérationnel_Céline LANGENDORF,Coût Opérationnel - Céline LANGENDORF,1,214,176,11,215
+2532,2604,2023-09-22 ,2023-10-04 ,AR211_Coût opérationnel_Céline LANGENDORF,Coût Opérationnel - Céline LANGENDORF,0,214,176,11,215
 2533,2605,2023-09-28 ,2023-10-02 ,AR108_Hôpital de Référence Maradi,Hôpital de Référence Maradi,1,178,178,,108
 2534,2606,2023-09-28 ,2023-10-02 ,AR211_Coût Opérationnel-MAMATY Abdoul Aziz,Coût Opérationnel-MAMATY Abdoul Aziz,1,178,178,,215
 2535,2607,2023-09-28 ,2023-10-02 ,AR211_Coût-Opérationnel- SAMAKE Moussa,Coût-Opérationnel- SAMAKE Moussa,1,178,178,,215
