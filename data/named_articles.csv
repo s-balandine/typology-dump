@@ -2558,3 +2558,7 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2557,2629,2023-10-02 ,2023-10-02 ,AR211_Coût opérationnel_Fabienne NACKERS,Coût Opérationnel - Fabienne NACKERS,1,214,214,25,215
 2558,2630,2023-10-03 ,2023-10-03 ,AR211_Coût opérationnel - Andrés ARIAS RODRÍGUEZ,Coût opérationnel - Andrés ARIAS RODRÍGUEZ,1,216,216,259,215
 2559,2631,2023-10-03 ,2023-10-03 ,AR211_Salary - A Identifier_DEIF,Coût opérationnel - A Identifier_DEIF,1,216,176,,215
+2560,2632,2023-10-10 ,2023-10-10 ,AR300_Salary - FORM_UNITE,Coût opérationnel - FORM_UNITE,1,216,216,,215
+2561,2633,2023-10-10 ,2023-10-10 ,AR300_Salary - FORM_DEIF,Coût opérationnel - FORM_DEIF,1,216,216,,215
+2562,2634,2023-10-10 ,2023-10-10 ,AR97_Expertise - FORM_UNITE,Expertise - FORM_UNITE,1,216,216,,97
+2563,2635,2023-10-10 ,2023-10-10 ,AR97_Expertise - FORM_DEIF,Expertise - FORM_DEIF,1,216,216,,97
