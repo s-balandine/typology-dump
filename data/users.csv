@@ -176,7 +176,7 @@ rownames,user_id,created,modified,email,password,first_name,last_name,phone,acti
 175,175,2020-10-27 ,2021-02-10 ,fanny.delgutte@epicentre.msf.org,2nYWOwIUi1yBy0Qv7h79Eg==,Fanny,Delgutte,,0,0,0,fr-FR,2021-02-04 ,173,165,176
 176,176,2020-11-19 ,2021-06-24 ,admind2@epicentre.msf.org,zSNFu+gQYMiyUYnNlXkNhg==,Administrateur,D2,,1,0,1,fr-FR,2023-10-25 ,194,165,176
 177,177,2020-12-03 ,2021-09-17 ,marine.durthaler@epicentre.msf.org,BBBQwZfO6PJS6yXAxJx8vA==,Marine,Durthaler,,1,0,0,fr-FR,2023-10-24 ,116,176,161
-178,178,2020-12-07 ,2023-10-24 ,ousmane.doukoure@epicentre.msf.org,B2OvFsu5Wgz7wdqSPNwM4oph6fRM0DT+,Ousmane,Doukoure,,1,0,0,fr-FR,2023-10-24 ,214,176,201
+178,178,2020-12-07 ,2023-10-24 ,ousmane.doukoure@epicentre.msf.org,B2OvFsu5Wgz7wdqSPNwM4oph6fRM0DT+,Ousmane,Doukoure,,1,0,0,fr-FR,2023-10-28 ,214,176,201
 179,179,2021-01-06 ,2021-02-01 ,francis-jaudel.yuya-septoh@epicentre.msf.org,MepWzZbh2BA=,Francis Jaudel,YUYA SEPTOH,,0,0,0,fr-FR,,43,176,176
 180,180,2021-01-06 ,2021-02-22 ,boni-maxime.ale@epicentre.msf.org,64HVQmPrwLVXx0EZ4skHew==,Boni Maxime,ALE,,1,0,0,fr-FR,2021-04-07 ,43,176,161
 181,181,2021-01-19 ,2022-06-30 ,celine.giustranti@epicentre.msf.org,ZP7l8O0N6bLqV7pTKrpl9A==,Céline,Giustranti,,1,0,0,fr-FR,2023-10-25 ,19,176,176
@@ -199,7 +199,7 @@ rownames,user_id,created,modified,email,password,first_name,last_name,phone,acti
 198,198,2021-06-18 ,2021-06-29 ,ERIC.ROCHE@EPICENTRE.MSF.ORG,cQanOND3Nmg=,Eric,ROCHE,,1,1,0,fr-FR,2023-10-26 ,194,185,
 199,199,2021-07-30 ,2021-07-30 ,Mathilde.mousset@epicentre.msf.org,H1roTfNKgqaN3vpKRVGrpA==,Mathilde,Mousset,,1,1,0,fr-FR,,116,161,161
 200,200,2021-07-30 ,2021-07-30 ,patrick.barks@epicentre.msf.org,H1roTfNKgqaN3vpKRVGrpA==,Patrick,Barks,,1,1,0,fr-FR,,116,161,161
-201,201,2021-08-06 ,2021-09-02 ,Epi-admin-D2@epicentre.msf.org ,mB+Kf9eWmkM=,AdminDir,D2,,1,0,1,en-GB,2023-10-27 ,19,185,176
+201,201,2021-08-06 ,2021-09-02 ,Epi-admin-D2@epicentre.msf.org ,mB+Kf9eWmkM=,AdminDir,D2,,1,0,1,en-GB,2023-10-28 ,19,185,176
 202,202,2021-09-13 ,2022-07-27 ,giulia.scarpa@epicentre.msf.org,Oek/xaZtB6yiPKWz8XYP0w==,Giulia,SCARPA,,1,1,0,fr-FR,2022-07-27 ,28,176,176
 203,203,2021-09-22 ,2021-12-20 ,Issoufou.ABDOULAHI@epicentre.msf.org,MVEF9ujDigKPHLkfQpMjPA==,Issoufou,Abdoulahi,,1,0,0,fr-FR,2023-09-18 ,178,161,161
 204,204,2021-09-24 ,2022-02-24 ,bastien.mollo@epicentre.msf.org,5r2bwkDB/yM=,Bastien,MOLLO,,0,1,0,fr-FR,2021-09-30 ,52,176,176
