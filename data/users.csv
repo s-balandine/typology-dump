@@ -78,7 +78,7 @@ rownames,user_id,created,modified,email,password,first_name,last_name,phone,acti
 77,77,2014-04-28 ,2021-02-01 ,serge.manoncourt@epicentre.msf.org,MepWzZbh2BA=,Serge,Manoncourt,,0,1,0,fr-FR,,33,60,176
 78,78,2014-04-28 ,2021-02-01 ,malika.bouhenia@epicentre.msf.org,rEPRItHPHyWnKRNDUj6gxw==,Malika,Bouhenia,,0,1,0,fr-FR,2017-04-12 ,33,60,176
 79,79,2014-09-23 ,2022-07-29 ,anne.loarec@epicentre.msf.org,/B+ZygU/h1ljOk1b29PkmA==,Anne,Loarec,,0,0,0,en-GB,2019-04-03 ,43,60,176
-80,80,2014-11-12 ,2022-03-24 ,juliet.mwanga@epicentre.msf.org,x5dYDacIeP0=,Juliet,MWANGA AMUMPAIRE,,1,0,0,en-GB,2023-12-14 ,19,60,201
+80,80,2014-11-12 ,2022-03-24 ,juliet.mwanga@epicentre.msf.org,x5dYDacIeP0=,Juliet,MWANGA AMUMPAIRE,,1,0,0,en-GB,2023-12-22 ,19,60,201
 81,81,2014-12-10 ,2022-07-01 ,sibylle.gerstl@epicentre.msf.org,dqUdt8QZ/6gzsZxeimxVow==,Sibylle,GERSTL,,1,0,0,en-GB,2022-05-11 ,33,60,176
 82,82,2015-01-05 ,2021-02-01 ,ian.alley@epicentre.msf.org,MepWzZbh2BA=,Ian,Alley,,0,0,0,fr-FR,2016-04-11 ,33,60,176
 83,83,2015-01-16 ,2021-02-01 ,florence.tapiedeceleyran@epicentre.msf.org,,Florence,Tapie-De-Celeyran,,0,0,0,fr-FR,,43,60,176
@@ -174,7 +174,7 @@ rownames,user_id,created,modified,email,password,first_name,last_name,phone,acti
 173,173,2020-06-29 ,2021-10-21 ,antoine.robin-prevallee@epicentre.msf.org,jbWTu+b80FtXqg7vGV5YoQ==,Antoine,ROBIN PREVALLEE,,0,0,0,fr-FR,2021-06-09 ,19,165,176
 174,174,2020-09-23 ,2021-02-03 ,arthur.makadi@epicentre.msf.org,PWZ5LAlIuM5LrehK2yhmzg==,Arthur,Makadi,,1,0,0,fr-FR,2021-01-04 ,43,165,176
 175,175,2020-10-27 ,2021-02-10 ,fanny.delgutte@epicentre.msf.org,2nYWOwIUi1yBy0Qv7h79Eg==,Fanny,Delgutte,,0,0,0,fr-FR,2021-02-04 ,173,165,176
-176,176,2020-11-19 ,2021-06-24 ,admind2@epicentre.msf.org,zSNFu+gQYMiyUYnNlXkNhg==,Administrateur,D2,,1,0,1,fr-FR,2023-12-21 ,194,165,176
+176,176,2020-11-19 ,2021-06-24 ,admind2@epicentre.msf.org,zSNFu+gQYMiyUYnNlXkNhg==,Administrateur,D2,,1,0,1,fr-FR,2023-12-22 ,194,165,176
 177,177,2020-12-03 ,2021-09-17 ,marine.durthaler@epicentre.msf.org,BBBQwZfO6PJS6yXAxJx8vA==,Marine,Durthaler,,1,0,0,fr-FR,2023-12-11 ,116,176,161
 178,178,2020-12-07 ,2023-10-31 ,ousmane.doukoure@epicentre.msf.org,B2OvFsu5Wgz7wdqSPNwM4oph6fRM0DT+,Ousmane,Doukoure,,1,0,0,fr-FR,2023-12-01 ,214,176,214
 179,179,2021-01-06 ,2021-02-01 ,francis-jaudel.yuya-septoh@epicentre.msf.org,MepWzZbh2BA=,Francis Jaudel,YUYA SEPTOH,,0,0,0,fr-FR,,43,176,176
@@ -212,8 +212,8 @@ rownames,user_id,created,modified,email,password,first_name,last_name,phone,acti
 211,211,2022-07-06 ,2023-04-14 ,Lise.GROUT@epicentre.msf.org,G1VivW+zGFIDnmp6S8aK0A==,Lise,GROUT,,1,0,0,fr-FR,2023-11-10 ,62,176,
 212,212,2022-11-17 ,2023-06-19 ,LEON.SALUMU@EPICENTRE.MSF.ORG,L++0QTHHPFGmssoKwtp3xQ==,Leon,SALUMU,,1,0,0,fr-FR,2023-04-05 ,33,176,
 213,213,2022-12-21 ,2023-04-18 ,damiano.kaufa@epicentre.msf.org,K/LUq8iK2bwuz8pZAYbVDw==,Damiano Jonathan,KAUFA,,1,0,0,en-GB,2023-12-07 ,80,176,214
-214,214,2022-12-21 ,2023-11-23 ,xavier.viaud@epicentre.msf.org,5RD+G8lkdliVmeHuRbVZVg==,Xavier, VIAUD,,1,0,0,en-GB,2023-12-19 ,194,176,214
+214,214,2022-12-21 ,2023-11-23 ,xavier.viaud@epicentre.msf.org,5RD+G8lkdliVmeHuRbVZVg==,Xavier, VIAUD,,1,0,0,en-GB,2023-12-22 ,194,176,214
 215,215,2023-01-31 ,2023-11-28 ,valerie.briand@epicentre.msf.org,87HM3khP9tzpPPF7uyUGtA==,Valérie,BRIAND,,1,0,0,fr-FR,2023-11-22 ,19,176,216
-216,216,2023-03-23 ,2023-12-06 ,audrey.schwartz@epicentre.msf.org,qFyjO6kiBhtqaapuhxKljQ==,Audrey,Schwartz,,1,0,1,fr-FR,2023-12-21 ,194,176,176
+216,216,2023-03-23 ,2023-12-06 ,audrey.schwartz@epicentre.msf.org,qFyjO6kiBhtqaapuhxKljQ==,Audrey,Schwartz,,1,0,1,fr-FR,2023-12-22 ,194,176,176
 217,217,2023-04-24 ,2023-04-24 ,Ousmane.GUINDO@epicentre.msf.org,vL+xBTy0xHKfdaVRvblepg==,Ousmane,GUINDO,,1,0,0,fr-FR,,19,216,216
 218,218,2023-06-13 ,2023-11-20 ,catherine.eisenhauer@epicentre.msf.org,7JgjMeTK5H68rjO7QR7nKQ==,Catherine,EISENHAUER,,1,0,0,fr-FR,2023-10-10 ,33,216,

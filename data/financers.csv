@@ -66,3 +66,4 @@ rownames,financer_id,created,modified,code,name,by_project_facturation,expertise
 65,65,2023-09-12 ,2023-09-12 ,UOM,University of Maryland,1,701000,702100,,0,3,216,216
 66,66,2023-10-12 ,2023-10-12 ,FCDO,Foreign  Commonwealth & Development Office,1,701000,702100,,0,3,214,214
 67,67,2023-11-14 ,2023-11-14 ,MSFINDIA,MSF-INDIA,1,,,,1,2,216,216
+68,68,2023-12-22 ,2023-12-22 ,SU,Stellenbosch University,1,701000,702100,,0,3,216,216
