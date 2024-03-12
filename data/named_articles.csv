@@ -1806,7 +1806,7 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 1805,1840,2018-06-11 ,2022-04-27 ,AR97_Expertise - Anaïs BROBAN,Expertise - Anaïs BROBAN,1,60,176,168,97
 1806,1841,2018-07-08 ,2018-07-08 ,AR19_BUR3 M3,BUR3 M3,1,140,140,,19
 1807,1842,2018-07-20 ,2018-07-20 ,AR108_ATR,ATR,1,140,140,,108
-1808,1844,2018-09-04 ,2022-05-05 ,AR97_Expertise - Rebecca GRAIS,Expertise - Rebecca GRAIS,1,55,176,42,97
+1808,1844,2018-09-04 ,2024-03-11 ,AR97_Expertise - Rebecca GRAIS,Expertise - Rebecca GRAIS,0,55,176,42,97
 1809,1845,2018-09-04 ,2018-09-05 ,AR7_PPDA HR Manager/PAM,PPDA HR Manager/PAM,1,55,55,,7
 1810,1846,2018-09-04 ,2018-09-05 ,AR7_Records Management Training,Records Management Training,1,55,55,,7
 1811,1847,2018-09-04 ,2018-09-05 ,AR7_Union World Conference on Lung TB Lab Manager,Union World Conference on Lung TB Lab Manager,1,55,55,,7
@@ -2042,7 +2042,7 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2041,2078,2019-10-17 ,2019-10-20 ,AR136_Replacement Filters for the millipore Elix,Replacement Filters for the millipore Elix,1,55,55,,136
 2042,2079,2019-10-30 ,2019-10-30 ,AR35_Hôtel,Hôtel,1,21,21,9,35
 2043,2080,2019-11-06 ,2019-11-06 ,AR211_Marie Burton,Marie Burton,1,161,161,,215
-2044,2081,2019-11-06 ,2019-11-06 ,AR211_Rebecca Grais,Rebecca Grais,1,161,161,,215
+2044,2081,2019-11-06 ,2024-03-11 ,AR211_Rebecca Grais,Rebecca Grais,0,161,176,,215
 2045,2082,2019-11-06 ,2023-04-18 ,AR211_Coût Opérationnel - Marie-Françoise SCHERRER,Coût Opérationnel - Marie-Françoise SCHERRER,1,161,214,101,215
 2046,2083,2019-11-06 ,2019-11-06 ,AR211_Rockyath Makarimi,Rockyath Makarimi,1,161,161,,215
 2047,2084,2019-11-06 ,2021-02-10 ,AR211_OUMAR TOURE,OUMAR TOURE,1,161,178,,215
@@ -2153,7 +2153,7 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2152,2189,2021-02-10 ,2021-02-10 ,AR211_10% RESPONSABLE RH,10% RESPONSABLE RH,1,178,178,,215
 2153,2190,2021-02-10 ,2021-02-10 ,AR211_10% SUPERVISEUR LOG,10% SUPERVISEUR LOG,1,178,178,,215
 2154,2191,2021-02-10 ,2021-02-10 ,AR1_OUMAR TOURE,OUMAR TOURE,1,178,178,,1
-2155,2192,2021-02-15 ,2021-02-15 ,AR235_Rebecca GRAIS,Rebecca GRAIS,1,140,140,,240
+2155,2192,2021-02-15 ,2024-03-11 ,AR235_Rebecca GRAIS,Rebecca GRAIS,0,140,176,,240
 2156,2193,2021-02-15 ,2023-10-03 ,AR211_Céline LANGENDORF,Coût opérationnel - Céline LANGENDORF,0,140,176,11,91
 2157,2194,2021-02-15 ,2021-02-15 ,AR151_Robert NSAIBIRNI,Robert NSAIBIRNI,1,140,140,,151
 2158,2195,2021-02-15 ,2021-02-15 ,AR284_Soazic GARDAIS,Soazic GARDAIS,1,140,140,,294
@@ -2208,7 +2208,7 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2207,2246,2021-03-07 ,2023-04-18 ,AR211_Coût opérationnel - Aitana JUAN GINER,Coût opérationnel - Aitana JUAN GINER,1,161,214,2,215
 2208,2247,2021-03-07 ,2021-03-07 ,AR151_Coût opéarationnel - Robert Nsaibirni,Coût opéarationnel - Robert Nsaibirni,1,161,161,,151
 2209,2248,2021-03-07 ,2021-03-07 ,AR297_Coût opérationnel - Danise France Emile,Coût opérationnel - Danise France Emile,1,161,161,,307
-2210,2249,2021-03-07 ,2021-03-07 ,AR235_Coût opérationnel - Rebecca Grais,Coût opérationnel - Rebecca Grais,1,161,161,,240
+2210,2249,2021-03-07 ,2024-03-11 ,AR235_Coût opérationnel - Rebecca Grais,Coût opérationnel - Rebecca Grais,0,161,176,,240
 2211,2250,2021-03-07 ,2022-05-05 ,AR97_Expertise - Soazic GARDAIS,Expertise - Soazic GARDAIS,1,161,176,184,97
 2212,2251,2021-03-07 ,2023-04-18 ,AR211_Coût opérationnel - Alexandra ASCORRA,Coût opérationnel - Alexandra ASCORRA,1,161,214,,215
 2213,2252,2021-03-07 ,2022-05-05 ,AR97_Expertise - Maëlenn GOUILLOU,Expertise - Maelenn GOUILLOU,1,161,176,208,97
@@ -2221,7 +2221,7 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2220,2259,2021-03-30 ,2022-12-21 ,AR89_Coût opérationnel - Nasir NASEER,Coût opérationnel - Nasir NASEER,0,140,176,,89
 2221,2260,2021-03-30 ,2021-03-30 ,AR88_Coût opérationnel - Suresh KIRUPAKARAN,Coût opérationnel - Suresh KIRUPAKARAN,1,140,140,,88
 2222,2261,2021-04-27 ,2023-02-14 ,AR97_Expertise - Morgane DUJMOVIC,Expertise - Morgane DUJMOVIC,1,176,176,179,97
-2223,2262,2021-04-27 ,2021-04-27 ,ARSUP_Rebecca Grais,Rebecca Grais,1,140,140,,358
+2223,2262,2021-04-27 ,2024-03-11 ,ARSUP_Rebecca Grais,Rebecca Grais,0,140,176,,358
 2224,2263,2021-04-27 ,2021-04-27 ,ARSTA_Elisabeth Baudin,Elisabeth Baudin,1,140,140,,355
 2225,2264,2021-04-27 ,2021-04-27 ,ARDAT_Robert Nsaibirni,Robert Nsaibirni,1,140,140,,352
 2226,2265,2021-04-27 ,2021-04-27 ,ARPHAR_Grace Mambula,Grace Mambula,1,140,140,,351
@@ -2235,7 +2235,7 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2234,2274,2021-04-27 ,2021-04-27 ,AR73_Coût opérationnel Mathilde Mousset,Coût opérationnel Mathilde Mousset,1,140,140,,73
 2235,2275,2021-04-27 ,2021-04-27 ,AR73_Coût opérationnel - Mathilde Mousset,Coût opérationnel - Mathilde Mousset,1,140,140,,73
 2236,2276,2021-04-27 ,2021-04-27 ,ARPHAR_Coût opérationnel - Grace Mambula,Coût opérationnel - Grace Mambula,1,140,140,,351
-2237,2277,2021-04-27 ,2021-04-27 ,ARSUP_Coût opérationnel - Rebecca Grais,Coût opérationnel - Rebecca Grais,1,140,140,,358
+2237,2277,2021-04-27 ,2024-03-11 ,ARSUP_Coût opérationnel - Rebecca Grais,Coût opérationnel - Rebecca Grais,0,140,176,,358
 2238,2278,2021-04-27 ,2021-04-27 ,AR73_Coût opérationnel - Patrick Barks,Coût opérationnel - Patrick Barks,1,140,140,,73
 2239,2279,2021-04-27 ,2021-04-27 ,ARSTA_Coût opérationnel - Anton Camacho,Coût opérationnel - Anton Camacho,1,140,140,,355
 2240,2280,2021-04-27 ,2021-04-27 ,ARDAT_Coût opérationnel - Robert Nsaibirni,Coût opérationnel - Robert Nsaibirni,1,140,140,,352
@@ -2449,7 +2449,7 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2448,2518,2022-12-06 ,2023-02-01 ,AR97_Expertise - Prathama RAGHAVAN,Expertise - Prathama RAGHAVAN,1,176,176,244,97
 2449,2519,2022-12-12 ,2022-12-21 ,AR165_Coût opérationnel_Barbara Elisabeth HESSEL,Coût opérationnel_Barbara Elisabeth HESSEL,1,176,176,245,165
 2450,2520,2022-12-20 ,2023-02-01 ,AR165_Coût opérationnel_Todd SWARTHOUT,Coût opérationnel - Todd SWARTHOUT,0,176,176,246,165
-2451,2521,2022-12-20 ,2023-01-16 ,AR97_Expertise - Wendelin MOSER,Expertise - Wendelin MOSER,0,176,176,247,97
+2451,2521,2022-12-20 ,2024-03-11 ,AR97_Expertise - Wendelin MOSER,Expertise - Wendelin MOSER,1,176,216,247,97
 2452,2522,2022-12-21 ,2023-02-14 ,AR165_Coût opérationnel_Morgane DUJMOVIC,Coût opérationnel - Morgane DUJMOVIC,0,176,176,179,165
 2453,2523,2022-12-21 ,2023-02-01 ,AR211_Coût opérationnel -Damiano Jonathan KAUFA,Coût opérationnel  - Damiano Jonathan KAUFA,1,176,176,248,215
 2454,2524,2023-01-16 ,2023-01-16 ,AR305_Salary - Wendelin MOSER,Coût opérationnel - Wendelin MOSER,1,176,176,247,215
@@ -2568,3 +2568,6 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2567,2639,2024-03-08 ,2024-03-08 ,AR300_Salary - Thomas ROEDERER,Coût opérationnel - Thomas ROEDERER,1,216,216,49,215
 2568,2640,2024-03-08 ,2024-03-08 ,AR300_Salary - Brahima TOURE,Coût opérationnel - Brahima TOURE,1,216,216,10,215
 2569,2641,2024-03-08 ,2024-03-08 ,AR300_Salary - Veselina YOSIFOVA,Coût opérationnel - Veselina YOSIFOVA,1,216,216,270,215
+2570,2642,2024-03-11 ,2024-03-11 ,AR211_Coût opérationnel - Huiwu CHEN,Coût opérationnel - Huiwu CHEN,1,176,176,180,215
+2571,2643,2024-03-11 ,2024-03-11 ,AR211_Coût opérationnel - Jessica SAYYAD,Coût opérationnel - Jessica SAYYAD,1,176,176,30,215
+2572,2644,2024-03-11 ,2024-03-11 ,AR211_Coût opérationnel - Sarala NICHOLAS,Coût opérationnel - Sarala NICHOLAS,1,176,176,47,215
