@@ -2043,7 +2043,7 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2042,2079,2019-10-30 ,2019-10-30 ,AR35_Hôtel,Hôtel,1,21,21,9,35
 2043,2080,2019-11-06 ,2019-11-06 ,AR211_Marie Burton,Marie Burton,1,161,161,,215
 2044,2081,2019-11-06 ,2024-03-11 ,AR211_Rebecca Grais,Rebecca Grais,0,161,176,,215
-2045,2082,2019-11-06 ,2023-04-18 ,AR211_Coût Opérationnel - Marie-Françoise SCHERRER,Coût Opérationnel - Marie-Françoise SCHERRER,1,161,214,101,215
+2045,2082,2019-11-06 ,2024-03-13 ,AR211_Coût opérationnel - Marie-Françoise SCHERRER,Coût opérationnel - Marie-Françoise SCHERRER,1,161,216,101,215
 2046,2083,2019-11-06 ,2019-11-06 ,AR211_Rockyath Makarimi,Rockyath Makarimi,1,161,161,,215
 2047,2084,2019-11-06 ,2021-02-10 ,AR211_OUMAR TOURE,OUMAR TOURE,1,161,178,,215
 2048,2085,2019-11-06 ,2019-11-06 ,AR211_Alaleh Abapour,Alaleh Abapour,1,161,161,,215
@@ -2305,7 +2305,7 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2304,2367,2021-06-18 ,2022-05-05 ,AR97_Expertise-Paul CAMPBELL,Expertise-Paul CAMPBELL,0,20,176,173,97
 2305,2369,2021-06-23 ,2022-04-27 ,AR97_Expertise - Lise GROUT,Expertise - Lise GROUT,1,62,176,219,97
 2306,2370,2021-06-24 ,2021-06-24 ,AR211_Indeminite-Intern-Support_PI_Ana-katharina.klein,Indeminite-Intern-Support_PI_Ana-katharina.klein,1,105,105,,215
-2307,2371,2021-06-25 ,2022-12-21 ,AR165_Coût opérationnel_Lise GROUT,Coût opérationnel_Lise GROUT,0,62,176,219,165
+2307,2371,2021-06-25 ,2024-03-13 ,AR165_Coût opérationnel - Lise GROUT,Coût opérationnel - Lise GROUT,0,62,216,219,165
 2308,2372,2021-06-25 ,2022-05-05 ,AR211_Salary - Tadele Geshu TEKA,Salary - Tadele Geshu TEKA,1,84,176,226,215
 2309,2373,2021-06-30 ,2022-10-07 ,AR97_Expertise - Héloise LUCACCIONI,Expertise - Héloise LUCACCIONI,1,148,176,197,97
 2310,2374,2021-06-30 ,2022-04-27 ,AR97_Expertise - Nolwenn CONAN,Expertise - Nolwenn CONAN,1,185,176,198,97
@@ -2391,10 +2391,10 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2390,2460,2022-05-06 ,2023-01-31 ,AR211_Salary - Jaclyn SKIDMORE,Coût opérationnel  - Jaclyn SKIDMORE,1,176,176,236,215
 2391,2461,2022-05-06 ,2022-05-06 ,AR302_Salary - Carol LIU,Coût opérationnel  - Carol LIU,1,176,176,237,215
 2392,2462,2022-05-08 ,2022-05-08 ,AR235_Eva Ferreras,Eva Ferreras,1,166,166,116,240
-2393,2463,2022-05-08 ,2022-05-08 ,ARSUP_Cout Opérationel - Dora Tchiasso,Cout Opérationel - Dora Tchiasso,1,166,166,,358
-2394,2464,2022-05-08 ,2022-05-08 ,AR235_Cout Opérationel - Eva Ferreras,Cout Opérationel - Eva Ferreras,1,166,166,116,240
+2393,2463,2022-05-08 ,2024-03-13 ,ARSUP_Coût opérationnel - Dora Tchiasso,Coût opérationnel - Dora Tchiasso,1,166,216,,358
+2394,2464,2022-05-08 ,2024-03-13 ,AR235_Cout opérationnel - Eva Ferreras,Cout opérationnel - Eva Ferreras,1,166,216,116,240
 2395,2465,2022-05-10 ,2022-05-10 ,AR97_Expertise - Eva Ferreras,Expertise - Eva Ferreras,1,166,166,,97
-2396,2466,2022-05-11 ,2022-12-21 ,AR165_Coût opérationnel - Ludovic Lannoy,Coût opérationnel- Ludovic Lannoy,1,161,176,221,165
+2396,2466,2022-05-11 ,2024-03-13 ,AR165_Coût opérationnel - Ludovic Lannoy,Coût opérationnel - Ludovic Lannoy,1,161,216,221,165
 2397,2467,2022-09-28 ,2022-10-03 ,AR196_Split,Split,1,178,178,,200
 2398,2468,2022-09-28 ,2022-10-03 ,AR234_Thé sucre  Charbon Pour Gardien,Thé sucre  Charbon Pour Gardien,1,178,178,,239
 2399,2469,2022-09-28 ,2022-10-03 ,AR267_Toner  Usb  Souris....,Toner  Usb  Souris....,1,178,178,,276
@@ -2430,8 +2430,8 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2429,2499,2022-10-02 ,2022-10-03 ,ARDON_Appui Accord Partenariat,Appui Accord Partenariat,1,178,178,,342
 2430,2500,2022-10-02 ,2022-10-03 ,ARDON_Contribution Annuelle CHR,Contribution Annuelle CHR,1,178,178,,342
 2431,2501,2022-10-02 ,2022-10-03 ,AR74_Médecin Principal Site,Médecin Principal Site,1,178,178,,74
-2432,2502,2022-10-03 ,2023-02-01 ,AR165_Coût opérationnel_Sofia PAYOTTE,Coût opérationnel _Sofia PAYOTTE,0,128,176,217,165
-2433,2503,2022-10-03 ,2023-02-01 ,AR165_Coût opérationnel_Giulia SCARPA ,Coût opérationnel_Giulia SCARPA,0,128,176,187,165
+2432,2502,2022-10-03 ,2024-03-13 ,AR165_Coût opérationnel - Sofia PAYOTTE,Coût opérationnel - Sofia PAYOTTE,0,128,216,217,165
+2433,2503,2022-10-03 ,2024-03-13 ,AR165_Coût opérationnel - Giulia SCARPA ,Coût opérationnel - Giulia SCARPA,0,128,216,187,165
 2434,2504,2022-10-03 ,2022-10-03 ,AR196_Tablettes,Tablettes,1,178,178,,200
 2435,2505,2022-10-04 ,2022-10-04 ,AR202_Transport de personne,Transport de personne,1,138,138,,206
 2436,2506,2022-10-10 ,2022-10-12 ,ARLOGICIEL_Licence Office 365,Licence Office 365,1,178,178,,345
@@ -2447,7 +2447,7 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2446,2516,2022-11-30 ,2022-11-30 ,AR235_Salary - Denis OPIO,Coût opérationnel  - Denis OPIO,1,176,176,242,215
 2447,2517,2022-12-05 ,2022-12-05 ,AR302_Salary - Soumana SOUNA GARBA,Coût opérationnel - Soumana SOUNA GARBA,1,176,176,243,215
 2448,2518,2022-12-06 ,2023-02-01 ,AR97_Expertise - Prathama RAGHAVAN,Expertise - Prathama RAGHAVAN,1,176,176,244,97
-2449,2519,2022-12-12 ,2022-12-21 ,AR165_Coût opérationnel_Barbara Elisabeth HESSEL,Coût opérationnel_Barbara Elisabeth HESSEL,1,176,176,245,165
+2449,2519,2022-12-12 ,2024-03-13 ,AR165_Coût opérationnel - Barbara Elisabeth HESSEL,Coût opérationnel - Barbara Elisabeth HESSEL,1,176,216,245,165
 2450,2520,2022-12-20 ,2023-02-01 ,AR165_Coût opérationnel_Todd SWARTHOUT,Coût opérationnel - Todd SWARTHOUT,0,176,176,246,165
 2451,2521,2022-12-20 ,2024-03-11 ,AR97_Expertise - Wendelin MOSER,Expertise - Wendelin MOSER,1,176,216,247,97
 2452,2522,2022-12-21 ,2023-02-14 ,AR165_Coût opérationnel_Morgane DUJMOVIC,Coût opérationnel - Morgane DUJMOVIC,0,176,176,179,165
@@ -2467,7 +2467,7 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2466,2537,2023-02-01 ,2023-02-01 ,AR202_Coût opérationnel - Pascal Nomwendé OUEDRAOGO,Coût opérationnel - Pascal Nomwendé OUEDRAOGO,1,176,176,228,206
 2467,2538,2023-02-01 ,2023-02-01 ,AR202_Coût opérationnel - Damiano Jonathan KAUFA,Coût opérationnel - Damiano Jonathan KAUFA,1,176,176,248,206
 2468,2539,2023-02-01 ,2023-02-01 ,AR202_Coût opérationnel - Hassani Omari MBEGA,Coût opérationnel - Hassani Omari MBEGA,1,176,176,234,206
-2469,2540,2023-02-01 ,2023-02-01 ,AR202_Coût opérationnel - YAKUM Martin,Coût opérationnel - ,1,176,176,204,206
+2469,2540,2023-02-01 ,2024-03-13 ,AR202_Coût opérationnel - YAKUM Martin,Coût opérationnel - Martin YAKUM,1,176,216,204,206
 2470,2541,2023-02-01 ,2023-02-01 ,AR202_Coût opérationnel - Jaclyn SKIDMORE,Coût opérationnel - Jaclyn SKIDMORE,1,176,176,236,206
 2471,2542,2023-02-01 ,2023-02-01 ,AR202_Coût opérationnel - Emily BRISKIN,Coût opérationnel - Emily BRISKIN,1,176,176,224,206
 2472,2543,2023-02-01 ,2023-02-01 ,AR202_Coût opérationnel - Emily LYNCH,Coût opérationnel - Emily LYNCH,1,176,176,84,206
@@ -2486,7 +2486,7 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2485,2556,2023-02-01 ,2023-02-01 ,AR202_Coût opérationnel - Claire BOSSARD,Coût opérationnel - Claire BOSSARD,1,176,176,154,206
 2486,2557,2023-02-01 ,2023-04-14 ,AR97_Expertise - Todd SWARTHOUT,Expertise - Todd SWARTHOUT,1,176,176,246,97
 2487,2559,2023-02-14 ,2023-07-31 ,AR97_Expertise - Jonathan POLONSKY,Expertise - Jonathan POLONSKY,1,176,176,253,97
-2488,2560,2023-02-14 ,2023-02-14 ,AR202_Coût opérationnel - Jonathan POLONSKY,Coût opérationnel - Jonathan POLONSKY,1,176,176,31,206
+2488,2560,2023-02-14 ,2024-03-13 ,AR211_Coût opérationnel - Jonathan POLONSKY,Coût opérationnel - Jonathan POLONSKY,1,176,214,31,215
 2489,2561,2023-02-14 ,2023-02-14 ,AR202_Coût opérationnel - Morgane DUJMOVIC,Coût opérationnel - Morgane DUJMOVIC,1,176,176,179,206
 2490,2562,2023-03-09 ,2023-03-16 ,AR97_Expertise - Muna,Expertise - Muna IDRIS CORBINEAU,0,176,176,209,97
 2491,2563,2023-03-09 ,2023-03-16 ,AR97_Expertise - Xavier VIAUD,Expertise - Xavier VIAUD,0,176,176,241,97
@@ -2494,68 +2494,68 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2493,2565,2023-03-23 ,2023-03-23 ,AR211_Responsable Activités Communautaires,Responsable Activités Communautaires,1,178,178,,215
 2494,2566,2023-03-23 ,2023-03-23 ,AR302_Salary - Maria-Dora KALLA MOUTARI,Coût opérationnel - Maria-Dora KALLA MOUTARI,1,178,178,,215
 2495,2567,2023-03-23 ,2023-03-23 ,AR302_Salary - Komivi GBADA,Coût opérationnel - Komivi GBADA,1,178,176,255,215
-2496,2568,2023-03-24 ,2023-03-24 ,AR211_Salary - Sheila ISANAKA,Coût Opérationnel - Sheila ISANAKA,1,214,214,46,215
-2497,2569,2023-03-28 ,2023-10-03 ,AR211_Coût opérationnel - Boni Maxime ALE,Coût Opérationnel - Boni Maxime ALE,1,214,216,205,215
-2498,2570,2023-03-28 ,2023-04-18 ,AR211_Coût opérationnel - Mark NDIFON NDIFON,Coût Opérationnel - Mark NDIFON NDIFON,0,214,214,215,215
-2499,2571,2023-03-28 ,2023-03-28 ,AR211_Coût opérationnel_Komlavi Yves AMEVOIN,Coût Opérationnel - Komlavi Yves AMEVOIN,0,214,214,206,215
-2500,2572,2023-03-28 ,2023-04-18 ,AR211_Coût opérationnel - Aminata NDIAYE,Coût Opérationnel - Aminata NDIAYE,0,214,214,57,215
-2501,2573,2023-03-28 ,2023-10-03 ,AR211_Coût opérationnel - Danise FRANCE,Coût Opérationnel - Danise FRANCE,1,214,216,185,215
-2502,2574,2023-03-28 ,2023-04-18 ,AR211_Coût opérationnel - Anaïs BROBAN,Coût Opérationnel - Anaïs BROBAN,0,214,214,168,215
-2503,2575,2023-03-28 ,2023-04-18 ,AR211_Coût opérationnel - Flavio FINGER,Coût Opérationnel - Flavio FINGER,0,214,214,177,215
-2504,2576,2023-03-28 ,2023-03-28 ,AR211_Coût opérationnel_Matthew Coldiron,Coût Opérationnel - Matthew Coldiron,0,214,214,38,215
+2496,2568,2023-03-24 ,2024-03-13 ,AR211_Salary - Sheila ISANAKA,Coût opérationnel - Sheila ISANAKA,1,214,216,46,215
+2497,2569,2023-03-28 ,2024-03-13 ,AR211_Coût opérationnel - Boni Maxime ALE,Coût opérationnel - Boni Maxime ALE,1,214,216,205,215
+2498,2570,2023-03-28 ,2024-03-13 ,AR211_Coût opérationnel - Mark NDIFON NDIFON,Coût opérationnel - Mark NDIFON NDIFON,0,214,216,215,215
+2499,2571,2023-03-28 ,2024-03-13 ,AR211_Coût opérationnel - Komlavi Yves AMEVOIN,Coût opérationnel - Komlavi Yves AMEVOIN,0,214,216,206,215
+2500,2572,2023-03-28 ,2024-03-13 ,AR211_Coût opérationnel - Aminata NDIAYE,Coût opérationnel - Aminata NDIAYE,0,214,216,57,215
+2501,2573,2023-03-28 ,2024-03-13 ,AR211_Coût opérationnel - Danise FRANCE,Coût opérationnel - Danise FRANCE,1,214,216,185,215
+2502,2574,2023-03-28 ,2024-03-13 ,AR211_Coût opérationnel - Anaïs BROBAN,Coût opérationnel - Anaïs BROBAN,0,214,216,168,215
+2503,2575,2023-03-28 ,2024-03-13 ,AR211_Coût opérationnel - Flavio FINGER,Coût opérationnel - Flavio FINGER,0,214,216,177,215
+2504,2576,2023-03-28 ,2024-03-13 ,AR211_Coût opérationnel - Matthew Coldiron,Coût opérationnel - Matthew Coldiron,0,214,216,38,215
 2505,2577,2023-03-29 ,2023-03-29 ,AR222_workshop,workshop,1,166,166,,227
-2506,2578,2023-03-30 ,2023-03-30 ,AR211_Coût opérationnel_Emily Briskin,Coût Opérationnel - Emily BRISKIN,0,214,214,224,215
-2507,2579,2023-03-30 ,2023-03-30 ,AR75_Coût opérationnel-IRO Souley,Coût opérationnel-IRO Souley,1,178,178,,75
+2506,2578,2023-03-30 ,2024-03-13 ,AR211_Coût opérationnel - Emily Briskin,Coût opérationnel - Emily BRISKIN,0,214,216,224,215
+2507,2579,2023-03-30 ,2024-03-13 ,AR75_Coût opérationnel - IRO Souley,Coût opérationnel - IRO Souley,1,178,216,,75
 2508,2580,2023-03-30 ,2023-03-30 ,AR211_Salary - Catherine EISENHAUER,Coût Opérationnel - Catherine Eisenhauer,0,214,214,202,215
 2509,2581,2023-03-30 ,2023-04-18 ,AR211_Coût opérationnel - Catherine EISENHAUER,Coût opérationnel - Catherine EISENHAUER,1,177,214,202,215
-2510,2582,2023-03-31 ,2023-07-12 ,AR211_Coût opérationnel - Babacar GUEYE,Coût Opérationnel - Babacar GUEYE,1,214,216,256,215
-2511,2583,2023-03-31 ,2023-04-18 ,AR211_Coût Opérationnel - Nouha TOUATI,Coût Opérationnel - Nouha TOUATI,1,214,214,194,215
+2510,2582,2023-03-31 ,2024-03-13 ,AR211_Coût opérationnel - Babacar GUEYE,Coût opérationnel - Babacar GUEYE,1,214,216,256,215
+2511,2583,2023-03-31 ,2024-03-13 ,AR211_Coût opérationnel - Nouha TOUATI,Coût opérationnel - Nouha TOUATI,1,214,216,194,215
 2512,2584,2023-04-05 ,2023-04-05 ,AR97_Expertise-A identifié,Expertise-A identifié,1,51,51,,97
-2513,2585,2023-04-06 ,2023-04-06 ,AR211_Coût opérationnel_Francis Jaudel YUYA SEPTOH,Coût Opérationnel - Francis Jaudel YUYA SEPTOH,0,214,214,214,215
+2513,2585,2023-04-06 ,2024-03-13 ,AR211_Coût opérationnel - Francis Jaudel YUYA SEPTOH,Coût opérationnel - Francis Jaudel YUYA SEPTOH,0,214,216,214,215
 2514,2586,2023-04-06 ,2023-04-06 ,AR211_Coût opérationnel_Maelenn GOUILLOU,Coût Opérationnel - Maelenn GOUILLOU,0,214,214,208,215
-2515,2587,2023-04-12 ,2023-04-15 ,AR211_Coût Opérationnel - Eric YOUM,Coût Opérationnel - Eric YOUM,1,178,176,223,215
-2516,2588,2023-04-12 ,2023-04-16 ,AR211_Coût Opérationnel- Issaka SOUMANA SOUNA ,Coût Opérationnel- Issaka SOUMANA SOUNA ,1,178,178,,215
+2515,2587,2023-04-12 ,2024-03-13 ,AR211_Coût opérationnel - Eric YOUM,Coût opérationnel - Eric YOUM,1,178,216,223,215
+2516,2588,2023-04-12 ,2024-03-13 ,AR211_Coût opérationnel - Issaka SOUMANA SOUNA ,Coût opérationnel - Issaka SOUMANA SOUNA ,1,178,216,,215
 2517,2589,2023-04-15 ,2023-04-15 ,AR211_Salary - Rebecca COULBORN,Coût opérationnel  - Rebecca COULBORN,1,176,176,120,215
 2518,2590,2023-04-15 ,2023-04-15 ,AR211_Salary - Etienne GIGNOUX,Coût opérationnel  - Etienne GIGNOUX,1,176,176,59,215
 2519,2591,2023-04-15 ,2023-04-15 ,AR211_Salary - Serge BALANDINE,Coût opérationnel  - Serge BALANDINE,1,176,176,43,215
 2520,2592,2023-04-15 ,2023-10-03 ,AR211_Salary - A Identifier_DR,Coût opérationnel  - A Identifier_DR,1,176,176,,215
 2521,2593,2023-04-16 ,2023-04-16 ,AR211_Coût Opérationnel-Eric YOUM,Coût Opérationnel-Eric YOUM,1,178,178,,215
-2522,2594,2023-04-25 ,2023-10-03 ,AR211_Coût Opérationnel- KABORE Youssouf,Coût Opérationnel- Youssouf KABORE,1,178,216,262,215
+2522,2594,2023-04-25 ,2024-03-13 ,AR211_Coût opérationnel - KABORE Youssouf,Coût opérationnel - Youssouf KABORE,1,178,216,262,215
 2523,2595,2023-06-12 ,2023-06-12 ,AR211_Coût opérationnel - Klaudia PORTEN,Coût opérationnel - Klaudia PORTEN,1,214,214,33,215
 2524,2596,2023-06-16 ,2023-10-03 ,AR211_Coût opérationnel - Non identifié,Coût opérationnel - Non identifié,0,216,176,,215
 2525,2597,2023-06-19 ,2023-11-02 ,AR97_Expertise - Rose BURNS,Expertise - Rose BURNS,1,128,176,258,97
 2526,2598,2023-06-20 ,2023-06-20 ,AR211_Coût opérationnel - Lawrence LEE,Coût opérationnel - Lawrence LEE,1,216,216,,215
 2527,2599,2023-06-22 ,2023-10-12 ,AR97_Expertise - Andrés ARIAS RODRÍGUEZ,Expertise - Andrés ARIAS RODRÍGUEZ,1,216,176,259,97
-2528,2600,2023-06-22 ,2023-10-03 ,AR211_Coût Opérationnel- Ibrahim NGOUMBOUTE,Coût Opérationnel- Ibrahim NGOUMBOUTE,1,178,216,263,215
+2528,2600,2023-06-22 ,2024-03-13 ,AR211_Coût opérationnel - Ibrahim NGOUMBOUTE,Coût opérationnel - Ibrahim NGOUMBOUTE,1,178,216,263,215
 2529,2601,2023-06-27 ,2023-06-27 ,AR211_Coût opérationnel - Hugo SOUBRIER,Coût opérationnel - Hugo SOUBRIER,1,214,214,257,215
-2530,2602,2023-09-22 ,2023-10-03 ,AR211_Coût opérationnel_Eric Donald MIMBE TAZE,Coût Opérationnel - Eric Donald MIMBE TAZE,1,214,216,260,215
+2530,2602,2023-09-22 ,2024-03-13 ,AR211_Coût opérationnel - Eric Donald MIMBE TAZE,Coût opérationnel - Eric Donald MIMBE TAZE,1,214,216,260,215
 2531,2603,2023-09-22 ,2023-09-22 ,AR209_,"",1,52,52,,213
 2532,2604,2023-09-22 ,2023-10-04 ,AR211_Coût opérationnel_Céline LANGENDORF,Coût Opérationnel - Céline LANGENDORF,0,214,176,11,215
 2533,2605,2023-09-28 ,2023-10-02 ,AR108_Hôpital de Référence Maradi,Hôpital de Référence Maradi,1,178,178,,108
-2534,2606,2023-09-28 ,2023-10-02 ,AR211_Coût Opérationnel-MAMATY Abdoul Aziz,Coût Opérationnel-MAMATY Abdoul Aziz,1,178,178,,215
-2535,2607,2023-09-28 ,2023-10-02 ,AR211_Coût-Opérationnel- SAMAKE Moussa,Coût-Opérationnel- SAMAKE Moussa,1,178,178,,215
-2536,2608,2023-09-28 ,2023-10-02 ,AR211_Coût-Opérationnel- BARRY Yacouba,Coût-Opérationnel- BARRY Yacouba,1,178,178,,215
-2537,2609,2023-09-28 ,2023-10-02 ,AR211_Coût-Opérationnel- OUSMANE DOUKOURE Elh.H.P,Coût-Opérationnel- OUSMANE DOUKOURE Elh.H.P,1,178,178,,215
-2538,2610,2023-09-28 ,2023-10-02 ,AR211_Coût-Opérationnel- ISSOUFOU Abdoulahi,Coût-Opérationnel- ISSOUFOU Abdoulahi,1,178,178,,215
-2539,2611,2023-09-28 ,2023-10-02 ,AR211_Coût-Opérationnel- IDRISSA Mahaman L.,Coût-Opérationnel- IDRISSA Mahaman L.,1,178,178,,215
-2540,2612,2023-09-28 ,2023-10-02 ,AR211_Coût-Opérationnel- ALFARI Moctar,Coût-Opérationnel- ALFARI Moctar,1,178,178,,215
-2541,2613,2023-09-28 ,2023-10-02 ,AR211_Coût-Opérationnel- ALFARI SEYNI Adamou,Coût-Opérationnel- ALFARI SEYNI Adamou,1,178,178,,215
-2542,2614,2023-09-28 ,2023-10-02 ,AR211_Coût-Opérationnel- SOULEYMANE KARIM Barké,Coût-Opérationnel- SOULEYMANE KARIM Barké,1,178,178,,215
-2543,2615,2023-09-28 ,2023-10-02 ,AR211_Coût-Opérationnel- KALLA MOUTARI Maria Dora,Coût-Opérationnel- KALLA MOUTARI Maria Dora,1,178,178,,215
-2544,2616,2023-09-28 ,2023-10-02 ,AR211_Coût-Opérationnel- DAOUDOUKA Sani,Coût-Opérationnel- DAOUDOUKA Sani,1,178,178,,215
-2545,2617,2023-09-28 ,2023-10-02 ,AR211_Coût-Opérationnel- BATOURE BAKO Aboubacar,Coût-Opérationnel- BATOURE BAKO Aboubacar,1,178,178,,215
-2546,2618,2023-09-28 ,2023-10-02 ,AR211_Coût-Opérationnel- ALASSANE IBRAHIM Maman Moutari,Coût-Opérationnel- ALASSANE IBRAHIM Maman Moutari,1,178,178,,215
-2547,2619,2023-09-28 ,2023-10-02 ,AR211_Coût-Opérationnel- ABDOULAHI Salifou,Coût-Opérationnel- ABDOULAHI Salifou,1,178,178,,215
-2548,2620,2023-09-28 ,2023-10-02 ,AR211_Coût-Opérationnel- GARDIENS,Coût-Opérationnel- GARDIENS,1,178,178,,215
-2549,2621,2023-09-28 ,2023-10-02 ,AR211_Coût-Opérationnel- BEN SANI CHAWEY Abdoul Kader,Coût-Opérationnel- BEN SANI CHAWEY Abdoul Kader,1,178,178,,215
-2550,2622,2023-09-28 ,2023-10-02 ,AR211_Coût-Opérationnel- OUSSEINI CHETIMA Fatouma Zara,Coût-Opérationnel- OUSSEINI CHETIMA Fatouma Zara,1,178,178,,215
-2551,2623,2023-09-28 ,2023-10-02 ,AR211_Coût-Opérationnel- LAOUALI Chaibou,Coût-Opérationnel- LAOUALI Chaibou,1,178,178,,215
-2552,2624,2023-09-28 ,2023-10-02 ,AR211_Coût-Opérationnel- TCHIBAOU Maman Rabiou,Coût-Opérationnel- TCHIBAOU Maman Rabiou,1,178,178,,215
-2553,2625,2023-09-28 ,2023-10-02 ,AR211_Coût-Opérationnel- LAVANDIER,Coût-Opérationnel- LAVANDIER,1,178,178,,215
-2554,2626,2023-09-28 ,2023-10-02 ,AR211_Coût-Opérationnel- CHAUFFEUR,Coût-Opérationnel- CHAUFFEUR,1,178,178,,215
+2534,2606,2023-09-28 ,2024-03-13 ,AR211_Coût opérationnel - MAMATY Abdoul Aziz,Coût opérationnel - MAMATY Abdoul Aziz,1,178,216,,215
+2535,2607,2023-09-28 ,2024-03-13 ,AR211_Coût opérationnel - SAMAKE Moussa,Coût opérationnel - SAMAKE Moussa,1,178,216,,215
+2536,2608,2023-09-28 ,2024-03-13 ,AR211_Coût opérationnel - BARRY Yacouba,Coût opérationnel - BARRY Yacouba,1,178,216,,215
+2537,2609,2023-09-28 ,2024-03-13 ,AR211_Coût opérationnel - OUSMANE DOUKOURE Elh.H.P,Coût opérationnel - OUSMANE DOUKOURE Elh.H.P,1,178,216,,215
+2538,2610,2023-09-28 ,2024-03-13 ,AR211_Coût opérationnel - ISSOUFOU Abdoulahi,Coût opérationnel - ISSOUFOU Abdoulahi,1,178,216,,215
+2539,2611,2023-09-28 ,2024-03-13 ,AR211_Coût opérationnel - IDRISSA Mahaman L.,Coût opérationnel - IDRISSA Mahaman L.,1,178,216,,215
+2540,2612,2023-09-28 ,2024-03-13 ,AR211_Coût opérationnel - ALFARI Moctar,Coût opérationnel - ALFARI Moctar,1,178,216,,215
+2541,2613,2023-09-28 ,2024-03-13 ,AR211_Coût opérationnel - ALFARI SEYNI Adamou,Coût opérationnel - ALFARI SEYNI Adamou,1,178,216,,215
+2542,2614,2023-09-28 ,2024-03-13 ,AR211_Coût opérationnel - SOULEYMANE KARIM Barké,Coût opérationnel - SOULEYMANE KARIM Barké,1,178,216,,215
+2543,2615,2023-09-28 ,2024-03-13 ,AR211_Coût opérationnel - KALLA MOUTARI Maria Dora,Coût opérationnel - KALLA MOUTARI Maria Dora,1,178,216,,215
+2544,2616,2023-09-28 ,2024-03-13 ,AR211_Coût opérationnel - DAOUDOUKA Sani,Coût opérationnel - DAOUDOUKA Sani,1,178,216,,215
+2545,2617,2023-09-28 ,2024-03-13 ,AR211_Coût opérationnel - BATOURE BAKO Aboubacar,Coût opérationnel - BATOURE BAKO Aboubacar,1,178,216,,215
+2546,2618,2023-09-28 ,2024-03-13 ,AR211_Coût opérationnel - ALASSANE IBRAHIM Maman Moutari,Coût opérationnel - ALASSANE IBRAHIM Maman Moutari,1,178,216,,215
+2547,2619,2023-09-28 ,2024-03-13 ,AR211_Coût opérationnel - ABDOULAHI Salifou,Coût opérationnel - ABDOULAHI Salifou,1,178,216,,215
+2548,2620,2023-09-28 ,2024-03-13 ,AR211_Coût opérationnel - GARDIENS,Coût opérationnel - GARDIENS,1,178,216,,215
+2549,2621,2023-09-28 ,2024-03-13 ,AR211_Coût opérationnel - BEN SANI CHAWEY Abdoul Kader,Coût opérationnel - BEN SANI CHAWEY Abdoul Kader,1,178,216,,215
+2550,2622,2023-09-28 ,2024-03-13 ,AR211_Coût opérationnel - OUSSEINI CHETIMA Fatouma Zara,Coût opérationnel - OUSSEINI CHETIMA Fatouma Zara,1,178,216,,215
+2551,2623,2023-09-28 ,2024-03-13 ,AR211_Coût opérationnel - LAOUALI Chaibou,Coût opérationnel - LAOUALI Chaibou,1,178,216,,215
+2552,2624,2023-09-28 ,2024-03-13 ,AR211_Coût opérationnel - TCHIBAOU Maman Rabiou,Coût opérationnel - TCHIBAOU Maman Rabiou,1,178,216,,215
+2553,2625,2023-09-28 ,2024-03-13 ,AR211_Coût opérationnel - LAVANDIER,Coût opérationnel - LAVANDIER,1,178,216,,215
+2554,2626,2023-09-28 ,2024-03-13 ,AR211_Coût opérationnel - CHAUFFEUR,Coût opérationnel - CHAUFFEUR,1,178,216,,215
 2555,2627,2023-09-28 ,2023-10-02 ,AR235_OUATTARA San Maurice,OUATTARA San Maurice,1,178,178,,240
-2556,2628,2023-09-28 ,2023-09-28 ,AR211_Coût opérationnel_Sokhna DIOUF,Coût Opérationnel - Sokhna DIOUF,0,214,214,261,215
-2557,2629,2023-10-02 ,2023-10-02 ,AR211_Coût opérationnel_Fabienne NACKERS,Coût Opérationnel - Fabienne NACKERS,1,214,214,25,215
+2556,2628,2023-09-28 ,2024-03-13 ,AR211_Coût opérationnel - Sokhna DIOUF,Coût opérationnel - Sokhna DIOUF,1,214,216,261,215
+2557,2629,2023-10-02 ,2024-03-13 ,AR211_Coût opérationnel - Fabienne NACKERS,Coût opérationnel - Fabienne NACKERS,1,214,216,25,215
 2558,2630,2023-10-03 ,2023-10-03 ,AR211_Coût opérationnel - Andrés ARIAS RODRÍGUEZ,Coût opérationnel - Andrés ARIAS RODRÍGUEZ,1,216,216,259,215
 2559,2631,2023-10-03 ,2023-10-03 ,AR211_Salary - A Identifier_DEIF,Coût opérationnel - A Identifier_DEIF,1,216,176,,215
 2560,2632,2023-10-10 ,2023-10-10 ,AR300_Salary - FORM_UNITE,Coût opérationnel - FORM_UNITE,1,216,216,,215
@@ -2563,7 +2563,7 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2562,2634,2023-10-10 ,2023-10-10 ,AR97_Expertise - FORM_UNITE,Expertise - FORM_UNITE,1,216,216,,97
 2563,2635,2023-10-10 ,2023-10-10 ,AR97_Expertise - FORM_DEIF,Expertise - FORM_DEIF,1,216,216,,97
 2564,2636,2023-10-12 ,2023-10-12 ,AR211_Coût opérationnel - Joesph AUMULLER,Coût opérationnel - Joseph AUMULLER,1,216,216,267,215
-2565,2637,2023-10-12 ,2023-10-12 ,AR211_Coût opérationnel_Birgit NIKOLAY,Coût Opérationnel - Birgit NIKOLAY,1,214,214,176,215
+2565,2637,2023-10-12 ,2024-03-13 ,AR211_Coût opérationnel - Birgit NIKOLAY,Coût opérationnel - Birgit NIKOLAY,1,214,216,176,215
 2566,2638,2023-10-12 ,2023-10-12 ,AR97_Expertise - Eric Donald MIMBE TAZE,Expertise - Eric Donald MIMBE TAZE,1,176,176,260,97
 2567,2639,2024-03-08 ,2024-03-08 ,AR300_Salary - Thomas ROEDERER,Coût opérationnel - Thomas ROEDERER,1,216,216,49,215
 2568,2640,2024-03-08 ,2024-03-08 ,AR300_Salary - Brahima TOURE,Coût opérationnel - Brahima TOURE,1,216,216,10,215
@@ -2571,3 +2571,4 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2570,2642,2024-03-11 ,2024-03-11 ,AR211_Coût opérationnel - Huiwu CHEN,Coût opérationnel - Huiwu CHEN,1,176,176,180,215
 2571,2643,2024-03-11 ,2024-03-11 ,AR211_Coût opérationnel - Jessica SAYYAD,Coût opérationnel - Jessica SAYYAD,1,176,176,30,215
 2572,2644,2024-03-11 ,2024-03-11 ,AR211_Coût opérationnel - Sarala NICHOLAS,Coût opérationnel - Sarala NICHOLAS,1,176,176,47,215
+2573,2645,2024-03-13 ,2024-03-13 ,AR97_Expertise - Hugo Soubrier,Expertise - Hugo Soubrier,1,51,51,,97
