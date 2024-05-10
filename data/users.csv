@@ -201,7 +201,7 @@ rownames,user_id,created,modified,email,password,first_name,last_name,phone,acti
 200,200,2021-07-30 ,2021-07-30 ,patrick.barks@epicentre.msf.org,H1roTfNKgqaN3vpKRVGrpA==,Patrick,Barks,,1,1,0,fr-FR,,116,161,161
 201,201,2021-08-06 ,2021-09-02 ,Epi-admin-D2@epicentre.msf.org ,mB+Kf9eWmkM=,AdminDir,D2,,1,0,1,en-GB,2024-05-03 ,19,185,176
 202,202,2021-09-13 ,2022-07-27 ,giulia.scarpa@epicentre.msf.org,Oek/xaZtB6yiPKWz8XYP0w==,Giulia,SCARPA,,1,1,0,fr-FR,2022-07-27 ,28,176,176
-203,203,2021-09-22 ,2021-12-20 ,Issoufou.ABDOULAHI@epicentre.msf.org,MVEF9ujDigKPHLkfQpMjPA==,Issoufou,Abdoulahi,,1,0,0,fr-FR,2023-12-13 ,178,161,161
+203,203,2021-09-22 ,2021-12-20 ,Issoufou.ABDOULAHI@epicentre.msf.org,MVEF9ujDigKPHLkfQpMjPA==,Issoufou,Abdoulahi,,1,0,0,fr-FR,2024-05-09 ,178,161,161
 204,204,2021-09-24 ,2022-02-24 ,bastien.mollo@epicentre.msf.org,5r2bwkDB/yM=,Bastien,MOLLO,,0,1,0,fr-FR,2021-09-30 ,52,176,176
 205,205,2021-10-14 ,2021-10-14 ,nouha.touati@epicentre.msf.org,kq/83HcBWT8xQ3jZdMP3sQ==, Nouha,TOUATI,,1,1,0,fr-FR,2022-01-04 ,33,176,176
 206,206,2021-10-20 ,2024-01-04 ,dan.nyehangane@epicentre.msf.org,LpiMscsxYbsrG3SYCJfzvg==,Dan,NYEHANGANE,,1,0,0,en-GB,2024-04-12 ,176,176,176
