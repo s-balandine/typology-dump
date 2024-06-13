@@ -268,8 +268,9 @@ rownames,collaborator_id,created,modified,firstname,lastname,register_number,ema
 267,271,2024-02-14 ,2024-02-14 ,Médard,DJEDANEM,EPI00383,medard.djedanem@epicentre.msf.org,2024-01-15,2025-01-14,1,2024-01-15,0,1,1,,1,0,0,0,216,216,1,5,2,10,1096
 268,272,2024-02-14 ,2024-02-14 ,Grace,MACKLIN,EPI00380,grace.macklin@epicentre.msf.org,2024-02-15,2025-08-14,1,2024-02-15,0,1,1,,1,0,0,0,216,216,2,9,2,10,1233
 269,273,2024-02-14 ,2024-02-14 ,Gaston,MUSEMAKWELI KOMANDA,EPI00228,gaston.komanda@epicentre.msf.org,2024-02-01,2024-06-30,1,2024-02-01,0,0,0,,1,0,0,0,216,216,1,9,3,10,1183
-270,274,2024-02-14 ,2024-02-14 ,Bernhard,KERSCHBERGER,EPI00384,bernhard.kerschberger@epicentre.msf.org,2024-03-01,2024-06-30,1,2024-03-01,0,1,1,,1,0,0,0,216,216,2,8,2,10,225
-271,275,2024-03-13 ,2024-03-13 ,Guillermo Zohar,MARTINEZ PEREZ,EPI00385,guillermozohar.martinezperez@epicentre.msf.org,2024-03-13,2024-04-21,1,2024-03-13,0,0,0,,1,0,0,0,216,216,1,9,2,10,926
+270,274,2024-02-14 ,2024-06-12 ,Bernhard,KERSCHBERGER,EPI00397,bernhard.kerschberger@epicentre.msf.org,2024-03-01,,1,2024-03-01,0,1,1,,1,0,0,0,216,216,2,8,1,10,225
+271,275,2024-03-13 ,2024-06-12 ,Guillermo Zohar,MARTINEZ PEREZ,EPI00385,guillermozohar.martinezperez@epicentre.msf.org,2024-03-13,2024-09-30,1,2024-03-13,0,0,1,,1,0,0,0,216,216,1,9,2,10,926
 272,276,2024-05-21 ,2024-05-21 ,David,GOORE,EPI00387,david.goore@epicentre.msf.org,2024-04-01,2024-08-01,1,2024-04-01,0,0,0,,1,0,0,0,216,216,1,9,3,10,1233
 273,277,2024-05-28 ,2024-05-28 ,Jasmine,ARMOUR,EPI00388,jasmine.armour@epicentre.msf.org,2024-04-01,2024-12-31,1,2024-04-01,0,0,0,,1,0,0,0,216,216,1,19,6,32,1233
 274,278,2024-05-30 ,2024-05-30 ,Hadia,BAASSIRY,EPI00258,Hadia.baassiry@epicentre.msf.org,2023-09-15,2024-12-06,1,2023-09-15,0,1,1,,1,0,0,0,216,216,1,3,2,20,1127
+275,279,2024-06-12 ,2024-06-12 ,Upoma,NAZIM,EPI00384,upomaraisa.nazim@epicentre.msf.org,2024-03-08,2024-08-31,1,2024-03-08,0,0,1,,1,0,0,0,216,216,1,9,3,24,1445
