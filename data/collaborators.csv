@@ -159,7 +159,7 @@ rownames,collaborator_id,created,modified,firstname,lastname,register_number,ema
 158,158,2017-11-03 ,2022-04-27 ,Hanane,Gssime,80S406,hanane.gssime@epicentre.msf.org,2017-07-31,2017-08-31,0,2017-07-31,1,1,1,,1,1,60.8,2691.66,60,176,1,13,2,3,1127
 159,159,2017-11-03 ,2022-04-27 ,Cindy,Pinto,EPI00051,cindy.pinto@epicentre.msf.org,2017-10-19,2018-04-20,0,2017-10-19,1,1,1,,1,1,60.8,2691.66,60,176,1,13,2,3,1127
 160,160,2017-11-03 ,2022-04-27 ,Sarah,HESSELS,EPI00048,sarah.hessels@epicentre.msf.org,2017-03-23,,0,2017-03-23,1,1,1,,1,1,60.8,3029.17,60,176,1,14,1,15,1237
-161,161,2017-11-03 ,2022-04-27 ,Estelle,PASQUIER,EPI00170,estelle.pasquier@epicentre.msf.org,2017-11-15,2019-11-14,1,2017-11-15,1,1,1,,1,1,60.8,3923.08,60,176,1,7,1,10,1233
+161,161,2017-11-03 ,2024-09-06 ,Estelle,PASQUIER,EPI00170,estelle.pasquier@epicentre.msf.org,2017-11-15,2024-07-31,0,2017-11-15,1,1,1,,1,1,60.8,3923.08,60,216,1,7,1,10,1233
 162,162,2017-11-03 ,2022-04-27 ,Epidemio,Poste Sydney,80SYD,sydney@epicentre.msf.org,2018-02-01,2020-01-31,0,2018-02-01,1,0,1,,1,1,60.8,4266.92,60,176,1,7,2,10,1235
 163,163,2017-11-06 ,2022-04-27 ,Juriste,Recrtutement,80SJURI,recrutement@epicentre.msf.org,2018-01-01,,0,2018-01-01,1,1,1,,1,1,60.8,0,60,176,1,20,2,33,1237
 164,164,2017-11-10 ,2022-04-27 ,Kevin,Tang,EPI00287,kevin.tang@epicentre.msf.org,2017-11-13,2018-02-11,0,2017-11-13,1,0,1,,1,1,0,0,60,176,1,7,2,10,1235
@@ -275,5 +275,5 @@ rownames,collaborator_id,created,modified,firstname,lastname,register_number,ema
 274,278,2024-05-30 ,2024-05-30 ,Hadia,BAASSIRY,EPI00258,Hadia.baassiry@epicentre.msf.org,2023-09-15,2024-12-06,1,2023-09-15,0,1,1,,1,0,0,0,216,216,1,3,2,20,1127
 275,279,2024-06-12 ,2024-06-12 ,Upoma,NAZIM,EPI00384,upomaraisa.nazim@epicentre.msf.org,2024-03-08,2024-08-31,1,2024-03-08,0,0,1,,1,0,0,0,216,216,1,9,3,24,1445
 276,280,2024-06-19 ,2024-06-19 ,Laura,COOPER,EPI00396,laura.cooper@epicentre.msf.org,2024-09-02,2025-09-01,1,2024-09-02,0,0,1,,1,0,0,0,216,216,1,9,2,14,1235
-277,281,2024-08-09 ,2024-08-09 ,Aliette,PETITJEAN,EPI00400,aliette.petitjean@epicentre.msf.org,2024-07-08,2024-09-09,1,2024-07-08,0,0,1,,1,0,0,0,216,216,1,9,2,10,1233
+277,281,2024-08-09 ,2024-09-06 ,Aliette,PETITJEAN,EPI00400,aliette.petitjean@epicentre.msf.org,2024-07-08,2024-11-29,1,2024-07-08,0,0,1,,1,0,0,0,216,216,1,9,2,10,1233
 278,282,2024-09-03 ,2024-09-03 ,Aïmène,HAYDADI,EPI00403,aimene.haydadi@epicentre.msf.org,2024-09-02,2025-09-12,1,2024-09-02,0,0,1,,1,0,0,0,216,216,1,13,5,2,1236
