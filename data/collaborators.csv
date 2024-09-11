@@ -149,7 +149,7 @@ rownames,collaborator_id,created,modified,firstname,lastname,register_number,ema
 148,148,2017-05-18 ,2022-04-27 ,Shefali,Oza,80S,oza.shefali@epicentre.msf.org,2017-05-15,2018-01-31,0,2017-05-15,100,1,1,,1,1,60.8,3923.08,60,176,1,8,2,14,1235
 149,149,2017-05-18 ,2022-04-26 ,Fara Wagbo,TEMESSADOUNO,EPI00191,fara.temessadouno@epicentre.msf.org,2017-05-02,2018-05-01,1,2017-05-02,1,1,1,,1,1,0,3500,60,176,1,9,2,14,1233
 150,150,2017-09-15 ,2022-04-27 ,Rami,MALAEB,EPI00160,rami.malaeb@epicentre.msf.org,2017-09-07,,1,2017-09-07,1,1,1,,1,1,0,0,60,176,4,9,1,10,1233
-151,151,2017-09-15 ,2022-04-27 ,Camille,Fortas,EPI00049,camille.fortas@epicentre.msf.org,2017-07-11,2018-07-10,0,2017-07-11,1,1,1,,1,1,0,0,60,176,1,9,2,10,1235
+151,151,2017-09-15 ,2024-09-10 ,Camille,Fortas,EPI00049,camille.fortas@epicentre.msf.org,2024-12-01,2026-08-04,1,2024-12-01,1,1,1,,1,1,0,0,60,216,1,9,2,10,1233
 152,152,2017-09-29 ,2022-04-27 ,Fanny,Harper,EPI00116,fanny.harper@epicentre.msf.org,2017-10-09,2018-04-08,0,2017-10-09,1,1,1,,1,1,60.8,0,60,176,1,10,2,27,1236
 153,153,2017-09-29 ,2022-04-27 ,Delphine,Sauvageot,80S007,delphine.sauvageot,2017-09-19,2017-11-18,0,2017-09-19,0,1,1,,1,1,60.8,0,60,176,1,7,2,10,1233
 154,154,2017-10-18 ,2022-04-26 ,Claire,BOSSARD,EPI00195,claire.bossard@epicentre.msf.org,2017-09-08,2018-12-31,1,2017-09-08,0.5,1,1,,1,1,60.8,0,60,176,1,9,2,10,1233
@@ -277,3 +277,4 @@ rownames,collaborator_id,created,modified,firstname,lastname,register_number,ema
 276,280,2024-06-19 ,2024-06-19 ,Laura,COOPER,EPI00396,laura.cooper@epicentre.msf.org,2024-09-02,2025-09-01,1,2024-09-02,0,0,1,,1,0,0,0,216,216,1,9,2,14,1235
 277,281,2024-08-09 ,2024-09-06 ,Aliette,PETITJEAN,EPI00400,aliette.petitjean@epicentre.msf.org,2024-07-08,2024-11-29,1,2024-07-08,0,0,1,,1,0,0,0,216,216,1,9,2,10,1233
 278,282,2024-09-03 ,2024-09-03 ,Aïmène,HAYDADI,EPI00403,aimene.haydadi@epicentre.msf.org,2024-09-02,2025-09-12,1,2024-09-02,0,0,1,,1,0,0,0,216,216,1,13,5,2,1236
+279,283,2024-09-10 ,2024-09-10 ,Marc,GILMER,EPI00406,marc.gilmer@epicentre.msf.org,2024-09-10,2025-09-09,1,2024-09-10,0,1,1,,1,0,0,0,216,216,1,10,2,8,1236
