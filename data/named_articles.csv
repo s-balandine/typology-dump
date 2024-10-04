@@ -2471,7 +2471,7 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2470,2541,2023-02-01 ,2023-02-01 ,AR202_Coût opérationnel - Jaclyn SKIDMORE,Coût opérationnel - Jaclyn SKIDMORE,1,176,176,236,206
 2471,2542,2023-02-01 ,2023-02-01 ,AR202_Coût opérationnel - Emily BRISKIN,Coût opérationnel - Emily BRISKIN,1,176,176,224,206
 2472,2543,2023-02-01 ,2023-02-01 ,AR202_Coût opérationnel - Emily LYNCH,Coût opérationnel - Emily LYNCH,1,176,176,84,206
-2473,2544,2023-02-01 ,2023-02-01 ,AR202_Coût opérationnel - Helena HUERGA,Coût opérationnel - Helena HUERGA,1,176,176,26,206
+2473,2544,2023-02-01 ,2024-10-03 ,AR211_Coût opérationnel - Helena HUERGA,Coût opérationnel - Helena HUERGA,1,176,214,26,215
 2474,2545,2023-02-01 ,2023-02-01 ,AR202_Coût opérationnel - Maria LIGHTOWLER,Coût opérationnel - Maria LIGHTOWLER,1,176,176,171,206
 2475,2546,2023-02-01 ,2023-02-01 ,AR202_Coût opérationnel - Etienne GIGNOUX,Coût opérationnel - Etienne GIGNOUX,1,176,176,59,206
 2476,2547,2023-02-01 ,2023-02-01 ,AR202_Coût opérationnel - Flavio FINGER,Coût opérationnel - Flavio FINGER,1,176,176,177,206
@@ -2607,3 +2607,7 @@ rownames,named_article_id,created,modified,code,label,active,created_by_id,last_
 2606,2678,2024-09-26 ,2024-10-01 ,AR211_Coût opérationnel  - ABDOU TAHIROU Mohamed Abdoulaye Antar ,Coût opérationnel  - ABDOU TAHIROU Mohamed Abdoulaye Antar ,1,178,178,,215
 2607,2679,2024-09-26 ,2024-10-01 ,AR211_Coût opérationnel  - MOUSSA BADJO Zaratou,Coût opérationnel  - MOUSSA BADJO Zaratou,1,178,178,,215
 2608,2680,2024-09-26 ,2024-10-01 ,AR211_Coût opérationnel  - SALIFOU NANA AICHATOU,Coût opérationnel  - SALIFOU NANA AICHATOU,1,178,178,,215
+2609,2681,2024-10-03 ,2024-10-03 ,AR211_Coût opérationnel - Pascale LISSOUBA,Coût opérationnel - Pascale LISSOUBA,1,214,214,143,215
+2610,2682,2024-10-03 ,2024-10-03 ,AR235_IBRAHIM NGOUBOUTE M.,IBRAHIM NGOUBOUTE M.,1,178,178,,240
+2611,2683,2024-10-03 ,2024-10-03 ,AR74_ABDOU TAHIROU Mohamed Abdoulaye Antar ,ABDOU TAHIROU Mohamed Abdoulaye Antar ,1,178,178,,74
+2612,2684,2024-10-03 ,2024-10-03 ,AR73_ZAKARI ABDOU SALAM,ZAKARI ABDOU SALAM,1,178,178,,73
