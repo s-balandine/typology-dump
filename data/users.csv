@@ -18,7 +18,7 @@ rownames,user_id,created,modified,email,password,first_name,last_name,phone,acti
 17,17,2013-11-08 ,2022-02-24 ,david.maman@epicentre.msf.org,jyCmAeX+7od2QXhmfLbgcw==,David,Maman,,0,0,0,fr-FR,2021-07-30 ,33,,176
 18,18,2013-11-08 ,2022-02-24 ,elisabeth.baudin@epicentre.msf.org,KYHk/N5L1A414e6zH+Hhvw==,Elisabeth,BAUDIN,,1,0,0,fr-FR,2022-01-21 ,161,,176
 19,19,2013-11-08 ,2015-09-15 ,emmanuel.baron@epicentre.msf.org,X8oumlli/dzmt5J1+Yu+nA==,Emmanuel,Baron,,1,0,0,fr-FR,2019-06-07 ,,,
-20,20,2013-11-08 ,2023-11-14 ,emmanuel.grellety@epicentre.msf.org,B6K9LtrFcgnpYHwE2TvmAQ==,Emmanuel,GRELLETY BOSVIEL,,1,0,0,fr-FR,2024-10-16 ,33,,176
+20,20,2013-11-08 ,2023-11-14 ,emmanuel.grellety@epicentre.msf.org,B6K9LtrFcgnpYHwE2TvmAQ==,Emmanuel,GRELLETY BOSVIEL,,1,0,0,fr-FR,2024-10-20 ,33,,176
 21,21,2013-11-08 ,2023-11-14 ,elisabeth.poulet@epicentre.msf.org,LzPyPZRrjbyS3ZgjeXBe8A==,Elisabeth,POULET,,1,0,0,fr-FR,2024-10-16 ,33,,176
 22,22,2013-11-08 ,2021-02-01 ,esanchezpadilla@gmail.com,ov+WTzF8Gn91LTp6mGj1qg==,Elisabeth,Sanchez Padilla,,0,0,0,en-GB,2018-12-13 ,43,,176
 23,23,2013-11-08 ,2022-07-01 ,francesco.grandesso@epicentre.msf.org,nXaS+pLDYgs=,Francesco,GRANDESSO,,1,0,0,en-GB,2024-10-03 ,33,,176
@@ -192,7 +192,7 @@ rownames,user_id,created,modified,email,password,first_name,last_name,phone,acti
 191,191,2021-04-19 ,2021-04-20 ,joseph.sagara@epicentre.msf.org,pmJlS5IX0leKfk4rvMNePQ==,Joseph Amadomon,Sagara,,0,1,0,fr-FR,2021-04-20 ,170,185,185
 192,192,2021-04-19 ,2021-05-03 ,halidou.salou@epicentre.msf.org,6eEYB59bzro=,Halidou,Salou,,0,1,0,fr-FR,2021-04-20 ,170,185,185
 193,193,2021-04-27 ,2022-02-24 ,khasan.ibragimov@epicentre.msf.org,cG2Yv/OqxCM=,Khasan,IBRAGIMOV,,0,1,0,en-GB,2021-05-05 ,84,185,176
-194,194,2021-05-20 ,2024-10-19 ,amanda.lovell@epicentre.msf.org,Xvn4GLo80ovTBcw9dtCTKg==,Amanda,Lovell,,1,0,0,en-GB,2024-10-19 ,19,160,194
+194,194,2021-05-20 ,2024-10-20 ,amanda.lovell@epicentre.msf.org,Xvn4GLo80ovTBcw9dtCTKg==,Amanda,Lovell,,1,0,0,en-GB,2024-10-20 ,19,160,194
 195,195,2021-05-25 ,2021-05-25 ,Soazic.Gardais@epicentre.msf.org,dJ1ZkjIESNdhQgFOv3a8WA==,Soazic,Gardais,,1,0,0,fr-FR,,43,161,161
 196,196,2021-05-25 ,2021-05-25 ,Danise.Emile@epicentre.msf.org,H1roTfNKgqZx54Hf9OwQpg==,Danise,Emile,,1,0,0,fr-FR,,43,161,161
 197,197,2021-05-25 ,2021-05-25 ,nadia.fayad@epicentre.msf.org,H1roTfNKgqZx54Hf9OwQpg==,Nadia,Fayad,,1,0,0,fr-FR,,11,161,161
