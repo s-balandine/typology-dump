@@ -43,7 +43,7 @@ rownames,user_id,created,modified,email,password,first_name,last_name,phone,acti
 42,42,2013-11-08 ,2014-02-07 ,nathalie.nicolay@epicentre.msf.org,MepWzZbh2BA=,Nathalie,Nicolay,,0,0,0,fr-FR,2013-11-08 ,29,,
 43,43,2013-11-08 ,2022-11-28 ,rebecca.grais@epicentre.msf.org,Ko1Le5Nn8HMbSEb6vE5AeQ==,Rebecca,GRAIS,,0,0,0,en-GB,2022-06-07 ,19,,176
 44,44,2013-11-08 ,2014-02-07 ,said.aberranne@epicentre.msf.org,MepWzZbh2BA=,Said,Aberranne,,0,0,0,fr-FR,2013-11-08 ,33,,
-45,45,2013-11-08 ,2022-07-01 ,serge.balandine@epicentre.msf.org,OIKsA+j5qFo=,Serge,BALANDINE,,1,0,0,en-GB,2025-01-28 ,33,,176
+45,45,2013-11-08 ,2022-07-01 ,serge.balandine@epicentre.msf.org,OIKsA+j5qFo=,Serge,BALANDINE,,1,0,0,en-GB,2025-03-28 ,33,,176
 46,46,2013-11-08 ,2018-06-06 ,severine.dupont@epicentre.msf.org,MepWzZbh2BA=,Séverine,Dupont,,0,1,0,fr-FR,2013-11-08 ,43,,60
 47,47,2013-11-08 ,2021-02-01 ,sandra.cohuet@epicentre.msf.org,M/9+ujvQ40caTFWLvldGeg==,Sandra,Cohuet,,0,0,0,fr-FR,2019-06-21 ,33,,176
 48,48,2013-11-08 ,2023-09-27 ,saif.abdallah@epicentre.msf.org,kdMubEV9rnbRRRQMucsK7w==,Saïf Eldin,ABDALLAH,,1,0,0,en-GB,2024-06-06 ,21,,216
@@ -179,7 +179,7 @@ rownames,user_id,created,modified,email,password,first_name,last_name,phone,acti
 178,178,2020-12-07 ,2024-10-01 ,ousmane.doukoure@epicentre.msf.org,QxIFFdRqRrT/h+3+BwgGq/3NrcO/+Iuv,Ousmane,Doukoure,,1,0,0,fr-FR,2025-03-27 ,214,176,214
 179,179,2021-01-06 ,2021-02-01 ,francis-jaudel.yuya-septoh@epicentre.msf.org,MepWzZbh2BA=,Francis Jaudel,YUYA SEPTOH,,0,0,0,fr-FR,,43,176,176
 180,180,2021-01-06 ,2021-02-22 ,boni-maxime.ale@epicentre.msf.org,64HVQmPrwLVXx0EZ4skHew==,Boni Maxime,ALE,,1,0,0,fr-FR,2021-04-07 ,43,176,161
-181,181,2021-01-19 ,2022-06-30 ,celine.giustranti@epicentre.msf.org,ZP7l8O0N6bLqV7pTKrpl9A==,Céline,Giustranti,,1,0,0,fr-FR,2025-03-26 ,19,176,176
+181,181,2021-01-19 ,2022-06-30 ,celine.giustranti@epicentre.msf.org,ZP7l8O0N6bLqV7pTKrpl9A==,Céline,Giustranti,,1,0,0,fr-FR,2025-03-28 ,19,176,176
 182,182,2021-01-29 ,2022-04-22 ,sarah.didier@epicentre.msf.org,LNzGQWSU5Cc=,Sarah,Didier,,1,0,0,fr-FR,2022-04-25 ,59,176,176
 183,183,2021-02-10 ,2024-06-03 ,msff-ebolavacci-admin@,sxhNaAOq/kUx43cGnx9gJVdk87eWy9Gz,Souleymane,Abdou,,0,0,0,fr-FR,2021-02-11 ,161,161,201
 184,184,2021-02-18 ,2022-08-29 ,huiwu.chen@epicentre.msf.org,ssdaIvi9D/A5JWYuAm8Ctg==,Huiwu,CHEN,,1,0,0,fr-FR,2025-01-07 ,21,173,
